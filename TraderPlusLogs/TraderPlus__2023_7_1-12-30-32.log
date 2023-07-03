@@ -1,0 +1,243 @@
+Creation Time: 2023_7_1-12-30-32
+12-30-32 | [INFO] TraderPlusCore - Started !
+12-30-32 | [INFO] TraderPlus file exist ! loading...
+12-30-32 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+12-30-32 | [INFO] TraderPlus file exist ! loading...
+12-30-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+12-30-33 | [INFO] TraderPlus file exist ! loading...
+12-30-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+12-30-33 | [INFO] TraderPlus file exist ! loading...
+12-30-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+12-30-33 | [INFO] TraderPlus file exist ! loading...
+12-30-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+12-30-33 | [INFO] TraderPlus file exist ! loading...
+12-30-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+12-30-33 | [INFO] TraderPlusServer - Started
+12-30-33 | [INFO] TraderPlusBankingCore - Started !
+12-30-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.json
+12-30-33 | [INFO] TraderPlusBankingServer - Started
+12-30-33 | [INFO] CarLockCore - Started !
+12-30-33 | [INFO] CarLockServer - Started
+12-30-33 | [INFO] SafeZoneCore - Started !
+12-30-33 | [INFO] DEBUG MODE ENABLED
+12-30-47 | [INFO] RefreshLifeTimeCargo
+12-30-47 | [INFO] RefreshLifeTimeCargo
+12-30-48 | [INFO] RefreshLifeTimeCargo
+12-30-49 | [INFO] RefreshLifeTimeCargo
+12-30-49 | [INFO] RefreshLifeTimeCargo
+12-30-49 | [INFO] RefreshLifeTimeCargo
+12-30-49 | [INFO] RefreshLifeTimeCargo
+12-30-49 | [INFO] RefreshLifeTimeCargo
+12-30-54 | [INFO] ID_count: 10
+12-30-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Beverages.json
+12-30-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Packaged Food.json
+12-30-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fruit & Veg.json
+12-30-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Meat.json
+12-30-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fish.json
+12-30-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fungus.json
+12-30-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Pelts.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Money Exchange.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Vanilla Auto Parts.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Vanilla Vehicle Components.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Civilian Cars.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler SUVs & Trucks.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Military Vehicles.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Public Transport.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Helis.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Heli Parts.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Money Exchange.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Tools.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Gardening.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Base Building.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Base Decor.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Flags.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Money Exchange.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Holler Good Good.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Money Exchange.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Hand Guns.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Bows.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Shotguns.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Sub Machine Guns.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Long Rifles.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Assault Rifles.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Sniper Rifles.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Just Mags.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Buttstocks.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Suppressors.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Compensators.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Optics.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Handguards & Rails.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Bayonets.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Melee & Blades.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Weapon Lights.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Weapon Care.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Ammo.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Money Exchange.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Bags.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Gear.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Pouches.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Belts.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Vests.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Ghillies.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Patches & Armbands.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Camping & Survival.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Hunting & Fishing.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Money Exchange.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Holler Electronics.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Holler Collectibles.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Money Exchange.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Holler Medical.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Holler Protective Gear.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Money Exchange.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Melee & Blades.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Pistols.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Machine Guns.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Sniper Rifles.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Shotguns.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Assault Rifles.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Bayonets.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Ammo.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Lights.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Suppressors.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Optics.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Attachments.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Halloween.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Covid.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Grenades.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Cosmetics.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Pants.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Tops.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Masks.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Hats.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Gear.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Vests.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Helmets.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Bags.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Collectable.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Masks.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Money Exchange.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_9\Airsoft Weapons.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_9\Airsoft Clothing.json
+12-30-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_9\Money Exchange.json
+12-30-55 | [INFO] SetTradersSpawner: Started
+12-30-55 | [INFO] obj created: SurvivorF_Helga
+12-30-55 | [INFO] TraderPlayer created and added!: 
+12-30-55 | [INFO] obj created: SurvivorM_Jose
+12-30-55 | [INFO] TraderPlayer created and added!: 
+12-30-55 | [INFO] obj created: SurvivorM_Taiki
+12-30-55 | [INFO] TraderPlayer created and added!: 
+12-30-55 | [INFO] obj created: SurvivorF_Eva
+12-30-55 | [INFO] TraderPlayer created and added!: 
+12-30-55 | [INFO] obj created: SurvivorM_Seth
+12-30-55 | [INFO] TraderPlayer created and added!: 
+12-30-55 | [INFO] obj created: SurvivorM_Seth
+12-30-55 | [INFO] TraderPlayer created and added!: 
+12-30-55 | [INFO] obj created: SurvivorF_Eva
+12-30-55 | [INFO] TraderPlayer created and added!: 
+12-30-55 | [INFO] obj created: SurvivorM_Rolf
+12-30-55 | [INFO] TraderPlayer created and added!: 
+12-30-55 | [INFO] SetTradersSpawner: Ended
+12-30-55 | [INFO] SetObjectSpawner: Started
+12-30-55 | [INFO] SetObjectSpawner: Ended
+12-30-55 | [INFO] DefaultTraderStock - Started
+12-31-21 | [INFO] GetSafeStatut
+12-31-35 | [INFO] InsuranceRequestHandler
+12-31-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_881164210.json
+12-31-51 | [INFO] InsuranceRequestHandler
+12-31-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_881164210.json
+12-32-42 | [INFO] TraderID: 5 - Customer: stormtrooper1911 - Category: Holler Hunting & Fishing - ClassName: geb_BlueFishKnife - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+12-32-42 | [INFO] Player:stormtrooper1911 - currency amount:3964
+12-32-42 | [INFO] Transaction Buy Succeeded:stormtrooper1911 product:geb_BlueFishKnife quantity:0 health:0 price:250
+12-32-52 | [INFO] TraderID: 5 - Customer: stormtrooper1911 - Category: Holler Hunting & Fishing - ClassName: geb_OldRedTackleBox - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+12-32-52 | [INFO] Player:stormtrooper1911 - currency amount:3714
+12-32-52 | [INFO] Transaction Buy Succeeded:stormtrooper1911 product:geb_OldRedTackleBox quantity:0 health:0 price:200
+12-33-7 | [INFO] TraderID: 5 - Customer: stormtrooper1911 - Category: Holler Hunting & Fishing - ClassName: geb_MetalHookBobber1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 125 - CollateralMoney: 0 - TradeMode:Buy
+12-33-7 | [INFO] Player:stormtrooper1911 - currency amount:3514
+12-33-7 | [INFO] Transaction Buy Succeeded:stormtrooper1911 product:geb_MetalHookBobber1 quantity:0 health:0 price:125
+12-33-20 | [INFO] TraderID: 5 - Customer: stormtrooper1911 - Category: Holler Hunting & Fishing - ClassName: geb_RubberWorm - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 20 - CollateralMoney: 0 - TradeMode:Buy
+12-33-20 | [INFO] Player:stormtrooper1911 - currency amount:3389
+12-33-20 | [INFO] Transaction Buy Succeeded:stormtrooper1911 product:geb_RubberWorm quantity:0 health:0 price:20
+12-33-24 | [INFO] TraderID: 5 - Customer: stormtrooper1911 - Category: Holler Hunting & Fishing - ClassName: geb_RubberWorm - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 20 - CollateralMoney: 0 - TradeMode:Buy
+12-33-24 | [INFO] Player:stormtrooper1911 - currency amount:3369
+12-33-24 | [INFO] Transaction Buy Succeeded:stormtrooper1911 product:geb_RubberWorm quantity:0 health:0 price:20
+12-33-25 | [INFO] TraderID: 5 - Customer: stormtrooper1911 - Category: Holler Hunting & Fishing - ClassName: geb_RubberWorm - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 20 - CollateralMoney: 0 - TradeMode:Buy
+12-33-25 | [INFO] Player:stormtrooper1911 - currency amount:3349
+12-33-25 | [INFO] Transaction Buy Succeeded:stormtrooper1911 product:geb_RubberWorm quantity:0 health:0 price:20
+12-34-27 | [INFO] InsuranceRequestHandler
+12-34-27 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_881164210.json
+12-34-36 | [INFO] InsuranceRequestHandler
+12-34-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_881164210.json
+12-36-44 | [INFO] InsuranceRequestHandler
+12-36-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_881164210.json
+12-38-14 | [INFO] GetSafeStatut
+12-53-19 | [INFO] GetSafeStatut
+12-53-47 | [INFO] InsuranceRequestHandler
+12-53-47 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_881164210.json
+12-54-22 | [INFO] InsuranceRequestHandler
+12-54-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_881164210.json
+12-54-28 | [INFO] TraderID: 0 - Customer: stormtrooper1911 - Category: Holler Fish - ClassName: geb_Whitebass - Quantity: 1000 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+12-54-28 | [INFO] Transaction Sell Succeeded:stormtrooper1911 product:geb_Whitebass quantity:1000 health:0 price:240
+12-54-50 | [INFO] InsuranceRequestHandler
+12-54-50 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_881164210.json
+12-57-43 | [INFO] GetSafeStatut
+13-17-5 | [INFO] GetSafeStatut
+13-17-44 | [INFO] InsuranceRequestHandler
+13-17-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_881164210.json
+13-17-48 | [INFO] TraderID: 0 - Customer: stormtrooper1911 - Category: Holler Fish - ClassName: geb_Sauger - Quantity: 1000 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 360 - CollateralMoney: 0 - TradeMode:Sell
+13-17-48 | [INFO] Transaction Sell Succeeded:stormtrooper1911 product:geb_Sauger quantity:1000 health:0 price:360
+13-17-51 | [INFO] TraderID: 0 - Customer: stormtrooper1911 - Category: Holler Fish - ClassName: Carp - Quantity: 1000 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+13-17-51 | [INFO] Transaction Sell Succeeded:stormtrooper1911 product:Carp quantity:1000 health:0 price:240
+13-17-54 | [INFO] TraderID: 0 - Customer: stormtrooper1911 - Category: Holler Fish - ClassName: geb_Bowfin - Quantity: 1000 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+13-17-54 | [INFO] Transaction Sell Succeeded:stormtrooper1911 product:geb_Bowfin quantity:1000 health:0 price:240
+13-17-58 | [INFO] TraderID: 0 - Customer: stormtrooper1911 - Category: Holler Fish - ClassName: geb_BrookTrout - Quantity: 1000 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 360 - CollateralMoney: 0 - TradeMode:Sell
+13-17-58 | [INFO] Transaction Sell Succeeded:stormtrooper1911 product:geb_BrookTrout quantity:1000 health:0 price:360
+13-18-2 | [INFO] TraderID: 0 - Customer: stormtrooper1911 - Category: Holler Fish - ClassName: geb_Trout - Quantity: 1000 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 420 - CollateralMoney: 0 - TradeMode:Sell
+13-18-2 | [INFO] Transaction Sell Succeeded:stormtrooper1911 product:geb_Trout quantity:1000 health:0 price:420
+13-18-11 | [INFO] InsuranceRequestHandler
+13-18-11 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_881164210.json
+13-18-44 | [INFO] InsuranceRequestHandler
+13-18-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_881164210.json
+13-19-10 | [INFO] TraderID: 5 - Customer: stormtrooper1911 - Category: Holler Hunting & Fishing - ClassName: geb_BambooFishingNet - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+13-19-10 | [INFO] Player:stormtrooper1911 - currency amount:5189
+13-19-10 | [INFO] Transaction Buy Succeeded:stormtrooper1911 product:geb_BambooFishingNet quantity:0 health:0 price:400
+13-19-40 | [INFO] TraderID: 5 - Customer: stormtrooper1911 - Category: Holler Hunting & Fishing - ClassName: geb_Lure4 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+13-19-40 | [INFO] Player:stormtrooper1911 - currency amount:4789
+13-19-40 | [INFO] Transaction Buy Succeeded:stormtrooper1911 product:geb_Lure4 quantity:0 health:0 price:250
+13-19-41 | [INFO] TraderID: 5 - Customer: stormtrooper1911 - Category: Holler Hunting & Fishing - ClassName: geb_Lure4 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+13-19-41 | [INFO] Player:stormtrooper1911 - currency amount:4539
+13-19-41 | [INFO] Transaction Buy Succeeded:stormtrooper1911 product:geb_Lure4 quantity:0 health:0 price:250
+13-19-42 | [INFO] TraderID: 5 - Customer: stormtrooper1911 - Category: Holler Hunting & Fishing - ClassName: geb_Lure4 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+13-19-42 | [INFO] Player:stormtrooper1911 - currency amount:4289
+13-19-42 | [INFO] Transaction Buy Succeeded:stormtrooper1911 product:geb_Lure4 quantity:0 health:0 price:250
+13-21-4 | [INFO] InsuranceRequestHandler
+13-21-4 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_881164210.json
+13-21-41 | [INFO] TraderID: 2 - Customer: stormtrooper1911 - Category: Holler Tools - ClassName: SewingKit - Quantity: 100 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+13-21-41 | [INFO] Player:stormtrooper1911 - currency amount:4039
+13-21-41 | [INFO] Transaction Buy Succeeded:stormtrooper1911 product:SewingKit quantity:100 health:0 price:400
+13-22-55 | [INFO] GetSafeStatut
+13-33-58 | [INFO] GetSafeStatut
+13-34-19 | [INFO] InsuranceRequestHandler
+13-34-19 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_881164210.json
+13-34-49 | [INFO] TraderID: 2 - Customer: stormtrooper1911 - Category: Holler Base Building - ClassName: BBP_Blueprint - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+13-34-49 | [INFO] Player:stormtrooper1911 - currency amount:3639
+13-34-49 | [INFO] Transaction Buy Succeeded:stormtrooper1911 product:BBP_Blueprint quantity:0 health:0 price:500
+13-36-15 | [INFO] InsuranceRequestHandler
+13-36-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_881164210.json
+13-36-34 | [INFO] TraderID: 2 - Customer: stormtrooper1911 - Category: Holler Base Building - ClassName: BBP_Blueprint_Expanded - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+13-36-34 | [INFO] Player:stormtrooper1911 - currency amount:3139
+13-36-34 | [INFO] Transaction Buy Succeeded:stormtrooper1911 product:BBP_Blueprint_Expanded quantity:0 health:0 price:500
+13-37-19 | [INFO] InsuranceRequestHandler
+13-37-19 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_881164210.json
+13-37-45 | [INFO] TraderID: 2 - Customer: stormtrooper1911 - Category: Holler Tools - ClassName: HandSaw - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Buy
+13-37-45 | [INFO] Player:stormtrooper1911 - currency amount:2639
+13-37-45 | [INFO] Transaction Buy Succeeded:stormtrooper1911 product:HandSaw quantity:0 health:0 price:300
+20-43-27 | [INFO] GetSafeStatut
+20-45-30 | [INFO] InsuranceRequestHandler
+20-48-7 | [INFO] InsuranceRequestHandler
+20-48-7 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_162556242.json
+20-48-32 | [INFO] InsuranceRequestHandler
+20-48-32 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_162556242.json
+20-49-5 | [INFO] InsuranceRequestHandler
+20-49-5 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_162556242.json
+20-51-40 | [INFO] InsuranceRequestHandler
+20-51-40 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_162556242.json

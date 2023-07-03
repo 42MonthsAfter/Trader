@@ -1,0 +1,381 @@
+Creation Time: 2023_3_26-18-0-37
+18-0-37 | [INFO] TraderPlusCore - Started !
+18-0-37 | [INFO] TraderPlus file exist ! loading...
+18-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+18-0-37 | [INFO] TraderPlus file exist ! loading...
+18-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+18-0-37 | [INFO] TraderPlus file exist ! loading...
+18-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+18-0-37 | [INFO] TraderPlus file exist ! loading...
+18-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+18-0-37 | [INFO] TraderPlus file exist ! loading...
+18-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+18-0-37 | [INFO] TraderPlus file exist ! loading...
+18-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+18-0-37 | [INFO] TraderPlusServer - Started
+18-0-37 | [INFO] TraderPlusBankingCore - Started !
+18-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.json
+18-0-37 | [INFO] TraderPlusBankingServer - Started
+18-0-37 | [INFO] CarLockCore - Started !
+18-0-37 | [INFO] CarLockServer - Started
+18-0-37 | [INFO] SafeZoneCore - Started !
+18-0-37 | [INFO] DEBUG MODE ENABLED
+18-0-54 | [INFO] ID_count: 10
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Beverages.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Packaged Food.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fruit & Veg.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Meat.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fish.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fungus.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Pelts.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Money Exchange.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Vanilla Auto Parts.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Vanilla Vehicle Components.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Cars.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Heli Parts.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Money Exchange.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Tools.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Gardening.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Base Building.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Base Decor.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Flags.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Money Exchange.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Holler Good Good.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Money Exchange.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Hand Guns.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Bows.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Shotguns.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Sub Machine Guns.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Long Rifles.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Assault Rifles.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Sniper Rifles.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Just Mags.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Buttstocks.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Suppressors.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Compensators.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Optics.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Handguards & Rails.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Bayonets.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Melee & Blades.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Weapon Lights.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Weapon Care.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Ammo.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Money Exchange.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Bags.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Gear.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Pouches.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Belts.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Vests.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Ghillies.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Patches & Armbands.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Camping & Survival.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Hunting & Fishing.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Money Exchange.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Holler Electronics.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Money Exchange.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Holler Medical.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Holler Protective Gear.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Money Exchange.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Melee & Blades.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Pistols.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Machine Guns.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Sniper Rifles.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Shotguns.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Assault Rifles.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Bayonets.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Ammo.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Lights.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Suppressors.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Optics.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Attachments.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Halloween.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Covid.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Grenades.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Cosmetics.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Pants.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Tops.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Masks.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Hats.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Gear.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Vests.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Helmets.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Bags.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Collectable.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Masks.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Money Exchange.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_9\Airsoft Weapons.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_9\Airsoft Clothing.json
+18-0-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_9\Money Exchange.json
+18-0-54 | [INFO] SetTradersSpawner: Started
+18-0-54 | [INFO] obj created: SurvivorF_Helga
+18-0-54 | [INFO] TraderPlayer created and added!: 
+18-0-54 | [INFO] obj created: SurvivorM_Jose
+18-0-54 | [INFO] TraderPlayer created and added!: 
+18-0-54 | [INFO] obj created: SurvivorM_Taiki
+18-0-54 | [INFO] TraderPlayer created and added!: 
+18-0-54 | [INFO] obj created: SurvivorF_Eva
+18-0-54 | [INFO] TraderPlayer created and added!: 
+18-0-55 | [INFO] obj created: SurvivorM_Seth
+18-0-55 | [INFO] TraderPlayer created and added!: 
+18-0-55 | [INFO] obj created: SurvivorM_Seth
+18-0-55 | [INFO] TraderPlayer created and added!: 
+18-0-55 | [INFO] obj created: SurvivorF_Eva
+18-0-55 | [INFO] TraderPlayer created and added!: 
+18-0-55 | [INFO] obj created: SurvivorM_Rolf
+18-0-55 | [INFO] TraderPlayer created and added!: 
+18-0-55 | [INFO] SetTradersSpawner: Ended
+18-0-55 | [INFO] SetObjectSpawner: Started
+18-0-55 | [INFO] SetObjectSpawner: Ended
+18-0-55 | [INFO] DefaultTraderStock - Started
+18-44-15 | [INFO] InsuranceRequestHandler
+18-44-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_980466132.json
+18-44-20 | [INFO] TraderID: 7 - Customer: Darkman Esq. - Category: Holler Medical - ClassName: Morphine - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1500 - CollateralMoney: 0 - TradeMode:Sell
+18-44-20 | [INFO] Transaction Sell Succeeded:Darkman Esq. product:Morphine quantity:0 health:0 price:1500
+18-44-41 | [INFO] InsuranceRequestHandler
+18-44-41 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_980466132.json
+18-45-7 | [INFO] InsuranceRequestHandler
+18-45-7 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_980466132.json
+18-45-28 | [INFO] TraderID: 1 - Customer: Darkman Esq. - Category: Holler Vanilla Vehicle Components - ClassName: Hatchback_02_Wheel - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+18-45-28 | [INFO] Player:Darkman Esq. - currency amount:1774
+18-45-28 | [INFO] Transaction Buy Succeeded:Darkman Esq. product:Hatchback_02_Wheel quantity:0 health:0 price:500
+18-46-7 | [INFO] InsuranceRequestHandler
+18-46-7 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_980466132.json
+18-46-13 | [INFO] TraderID: 1 - Customer: Darkman Esq. - Category: Holler Vanilla Auto Parts - ClassName: LugWrench - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Buy
+18-46-13 | [INFO] Player:Darkman Esq. - currency amount:1274
+18-46-13 | [INFO] Transaction Buy Succeeded:Darkman Esq. product:LugWrench quantity:0 health:0 price:300
+18-48-38 | [INFO] InsuranceRequestHandler
+18-48-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_980466132.json
+18-48-40 | [INFO] TraderID: 1 - Customer: Darkman Esq. - Category: Holler Vanilla Vehicle Components - ClassName: Hatchback_02_Wheel - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 225 - CollateralMoney: 0 - TradeMode:Sell
+18-48-40 | [INFO] Transaction Sell Succeeded:Darkman Esq. product:Hatchback_02_Wheel quantity:0 health:1 price:225
+18-49-42 | [INFO] InsuranceRequestHandler
+18-49-42 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_980466132.json
+18-49-47 | [INFO] TraderID: 4 - Customer: Darkman Esq. - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+18-49-47 | [INFO] Player:Darkman Esq. - currency amount:1199
+18-49-47 | [INFO] Transaction Buy Succeeded:Darkman Esq. product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+18-50-37 | [INFO] InsuranceRequestHandler
+18-50-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_980466132.json
+18-50-44 | [INFO] TraderID: 4 - Customer: Darkman Esq. - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+18-50-44 | [INFO] Player:Darkman Esq. - currency amount:859
+18-50-44 | [INFO] Transaction Buy Succeeded:Darkman Esq. product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+18-50-46 | [INFO] TraderID: 4 - Customer: Darkman Esq. - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+18-50-46 | [INFO] Player:Darkman Esq. - currency amount:519
+18-50-46 | [INFO] Transaction Buy Succeeded:Darkman Esq. product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+20-23-51 | [INFO] InsuranceRequestHandler
+20-23-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+20-23-55 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Just Mags - ClassName: Mag_CMAG_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+20-23-55 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Mag_CMAG_20Rnd quantity:0 health:0 price:120
+20-23-58 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Just Mags - ClassName: Mag_MP5_30Rnd - Quantity: 2 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+20-23-58 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Mag_MP5_30Rnd quantity:4 health:0 price:240
+20-24-0 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Weapon Lights - ClassName: TLRLight - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+20-24-0 | [INFO] Transaction Sell Succeeded:MaxCaliber product:TLRLight quantity:0 health:0 price:120
+20-24-6 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Melee & Blades - ClassName: KitchenKnife - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 84 - CollateralMoney: 0 - TradeMode:Sell
+20-24-6 | [INFO] Transaction Sell Succeeded:MaxCaliber product:KitchenKnife quantity:0 health:0 price:84
+20-24-10 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Melee & Blades - ClassName: BrassKnuckles_Dull - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 60 - CollateralMoney: 0 - TradeMode:Sell
+20-24-10 | [INFO] Transaction Sell Succeeded:MaxCaliber product:BrassKnuckles_Dull quantity:0 health:0 price:60
+20-24-12 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Sub Machine Guns - ClassName: MP5K - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 281 - CollateralMoney: 0 - TradeMode:Sell
+20-24-12 | [INFO] Transaction Sell Succeeded:MaxCaliber product:MP5K quantity:0 health:1 price:281
+20-24-15 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Just Mags - ClassName: Mag_CMAG_10Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+20-24-15 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Mag_CMAG_10Rnd quantity:0 health:0 price:120
+20-24-19 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Melee & Blades - ClassName: CrudeMachete - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+20-24-19 | [INFO] Transaction Sell Succeeded:MaxCaliber product:CrudeMachete quantity:0 health:0 price:120
+20-24-21 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Shotguns - ClassName: Mp133Shotgun - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 270 - CollateralMoney: 0 - TradeMode:Sell
+20-24-21 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Mp133Shotgun quantity:0 health:0 price:270
+20-24-24 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Buttstocks - ClassName: MP5k_StockBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+20-24-24 | [INFO] Transaction Sell Succeeded:MaxCaliber product:MP5k_StockBttstck quantity:0 health:0 price:120
+20-24-28 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Handguards & Rails - ClassName: MP5_PlasticHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 96 - CollateralMoney: 0 - TradeMode:Sell
+20-24-28 | [INFO] Transaction Sell Succeeded:MaxCaliber product:MP5_PlasticHndgrd quantity:0 health:0 price:96
+20-24-45 | [INFO] InsuranceRequestHandler
+20-24-45 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+20-24-48 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Long Rifles - ClassName: Gewehr43_mung - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 450 - CollateralMoney: 0 - TradeMode:Sell
+20-24-48 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Gewehr43_mung quantity:0 health:0 price:450
+20-24-51 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Hand Guns - ClassName: Magnum - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1080 - CollateralMoney: 0 - TradeMode:Sell
+20-24-51 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Magnum quantity:0 health:0 price:1080
+20-24-54 | [INFO] InsuranceRequestHandler
+20-24-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+20-24-59 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Camping & Survival - ClassName: Compass - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 60 - CollateralMoney: 0 - TradeMode:Sell
+20-24-59 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Compass quantity:0 health:0 price:60
+20-25-5 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Camping & Survival - ClassName: Matchbox - Quantity: 100 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+20-25-5 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Matchbox quantity:100 health:0 price:120
+20-25-9 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Pouches - ClassName: PlateCarrierHolster - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 180 - CollateralMoney: 0 - TradeMode:Sell
+20-25-9 | [INFO] Transaction Sell Succeeded:MaxCaliber product:PlateCarrierHolster quantity:0 health:0 price:180
+20-25-12 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Belts - ClassName: Msp_WaistPack_Blue - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 480 - CollateralMoney: 0 - TradeMode:Sell
+20-25-12 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Msp_WaistPack_Blue quantity:0 health:0 price:480
+20-25-15 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: geb_MetalHookBobber3 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 75 - CollateralMoney: 0 - TradeMode:Sell
+20-25-15 | [INFO] Transaction Sell Succeeded:MaxCaliber product:geb_MetalHookBobber3 quantity:0 health:0 price:75
+20-25-17 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Belts - ClassName: Msp_WaistPack_Green - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 480 - CollateralMoney: 0 - TradeMode:Sell
+20-25-17 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Msp_WaistPack_Green quantity:0 health:0 price:480
+20-25-20 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Camping & Survival - ClassName: PortableGasStove - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 180 - CollateralMoney: 0 - TradeMode:Sell
+20-25-20 | [INFO] Transaction Sell Succeeded:MaxCaliber product:PortableGasStove quantity:0 health:0 price:180
+20-25-22 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: geb_RubberWorm - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 12 - CollateralMoney: 0 - TradeMode:Sell
+20-25-22 | [INFO] Transaction Sell Succeeded:MaxCaliber product:geb_RubberWorm quantity:0 health:0 price:12
+20-25-28 | [INFO] InsuranceRequestHandler
+20-25-28 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+20-26-5 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Camping & Survival - ClassName: sleepingbag_blue_mung - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+20-26-5 | [INFO] Player:MaxCaliber - currency amount:5044
+20-26-5 | [INFO] Transaction Buy Succeeded:MaxCaliber product:sleepingbag_blue_mung quantity:0 health:0 price:500
+20-26-40 | [INFO] InsuranceRequestHandler
+20-26-40 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+20-26-44 | [INFO] TraderID: 0 - Customer: MaxCaliber - Category: Holler Beverages - ClassName: SodaCan_Cola - Quantity: 300 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 60 - CollateralMoney: 0 - TradeMode:Sell
+20-26-44 | [INFO] Transaction Sell Succeeded:MaxCaliber product:SodaCan_Cola quantity:300 health:0 price:60
+20-26-48 | [INFO] TraderID: 0 - Customer: MaxCaliber - Category: Holler Beverages - ClassName: SodaCan_Pipsi - Quantity: 600 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+20-26-48 | [INFO] Transaction Sell Succeeded:MaxCaliber product:SodaCan_Pipsi quantity:1200 health:0 price:120
+20-26-53 | [INFO] TraderID: 0 - Customer: MaxCaliber - Category: Holler Packaged Food - ClassName: TunaCan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+20-26-53 | [INFO] Transaction Sell Succeeded:MaxCaliber product:TunaCan quantity:0 health:0 price:120
+20-26-56 | [INFO] TraderID: 0 - Customer: MaxCaliber - Category: Holler Packaged Food - ClassName: BakedBeansCan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 150 - CollateralMoney: 0 - TradeMode:Sell
+20-26-56 | [INFO] Transaction Sell Succeeded:MaxCaliber product:BakedBeansCan quantity:0 health:0 price:150
+20-26-58 | [INFO] TraderID: 0 - Customer: MaxCaliber - Category: Holler Packaged Food - ClassName: SpaghettiCan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 150 - CollateralMoney: 0 - TradeMode:Sell
+20-26-58 | [INFO] Transaction Sell Succeeded:MaxCaliber product:SpaghettiCan quantity:0 health:0 price:150
+20-27-2 | [INFO] TraderID: 0 - Customer: MaxCaliber - Category: Holler Packaged Food - ClassName: PorkCan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+20-27-2 | [INFO] Transaction Sell Succeeded:MaxCaliber product:PorkCan quantity:0 health:0 price:120
+20-27-5 | [INFO] TraderID: 0 - Customer: MaxCaliber - Category: Holler Packaged Food - ClassName: SardinesCan - Quantity: 2 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+20-27-5 | [INFO] Transaction Sell Succeeded:MaxCaliber product:SardinesCan quantity:4 health:0 price:240
+20-27-10 | [INFO] TraderID: 0 - Customer: MaxCaliber - Category: Holler Packaged Food - ClassName: PorkCan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+20-27-10 | [INFO] Transaction Sell Succeeded:MaxCaliber product:PorkCan quantity:0 health:0 price:120
+20-27-20 | [INFO] InsuranceRequestHandler
+20-27-20 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+20-27-44 | [INFO] TraderID: 2 - Customer: MaxCaliber - Category: Holler Base Building - ClassName: Rope - Quantity: 2 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+20-27-44 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Rope quantity:4 health:0 price:120
+20-27-48 | [INFO] TraderID: 2 - Customer: MaxCaliber - Category: Holler Tools - ClassName: Hammer - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+20-27-48 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Hammer quantity:0 health:0 price:120
+20-27-50 | [INFO] TraderID: 2 - Customer: MaxCaliber - Category: Holler Gardening - ClassName: GardenLime - Quantity: 5000 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+20-27-50 | [INFO] Transaction Sell Succeeded:MaxCaliber product:GardenLime quantity:5000 health:0 price:240
+20-27-53 | [INFO] TraderID: 2 - Customer: MaxCaliber - Category: Holler Gardening - ClassName: TomatoSeedsPack - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+20-27-53 | [INFO] Transaction Sell Succeeded:MaxCaliber product:TomatoSeedsPack quantity:0 health:0 price:120
+20-27-55 | [INFO] TraderID: 2 - Customer: MaxCaliber - Category: Holler Gardening - ClassName: PepperSeedsPack - Quantity: 2 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+20-27-55 | [INFO] Transaction Sell Succeeded:MaxCaliber product:PepperSeedsPack quantity:4 health:0 price:240
+20-27-58 | [INFO] TraderID: 2 - Customer: MaxCaliber - Category: Holler Tools - ClassName: Screwdriver - Quantity: 2 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+20-27-58 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Screwdriver quantity:4 health:0 price:240
+20-27-59 | [INFO] TraderID: 2 - Customer: MaxCaliber - Category: Holler Tools - ClassName: DuctTape - Quantity: 100 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+20-27-59 | [INFO] Transaction Sell Succeeded:MaxCaliber product:DuctTape quantity:100 health:0 price:240
+20-28-1 | [INFO] TraderID: 2 - Customer: MaxCaliber - Category: Holler Base Building - ClassName: BBP_Mortar_Mix - Quantity: 4 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+20-28-1 | [INFO] Transaction Sell Succeeded:MaxCaliber product:BBP_Mortar_Mix quantity:4 health:0 price:240
+20-28-5 | [INFO] TraderID: 2 - Customer: MaxCaliber - Category: Holler Gardening - ClassName: PumpkinSeedsPack - Quantity: 2 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+20-28-5 | [INFO] Transaction Sell Succeeded:MaxCaliber product:PumpkinSeedsPack quantity:4 health:0 price:240
+20-28-7 | [INFO] TraderID: 2 - Customer: MaxCaliber - Category: Holler Base Building - ClassName: BBP_Blueprint_Expanded - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Sell
+20-28-7 | [INFO] Transaction Sell Succeeded:MaxCaliber product:BBP_Blueprint_Expanded quantity:0 health:0 price:300
+20-28-9 | [INFO] TraderID: 2 - Customer: MaxCaliber - Category: Holler Tools - ClassName: HandSaw - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 180 - CollateralMoney: 0 - TradeMode:Sell
+20-28-9 | [INFO] Transaction Sell Succeeded:MaxCaliber product:HandSaw quantity:0 health:0 price:180
+20-28-19 | [INFO] TraderID: 2 - Customer: MaxCaliber - Category: Holler Tools - ClassName: NailBox - Quantity: 2 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 1200 - CollateralMoney: 0 - TradeMode:Sell
+20-28-19 | [INFO] Transaction Sell Failed:MaxCaliber product:NailBox quantity:4 health:0 price:1200
+20-28-21 | [INFO] TraderID: 2 - Customer: MaxCaliber - Category: Holler Base Building - ClassName: CombinationLock - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 60 - CollateralMoney: 0 - TradeMode:Sell
+20-28-21 | [INFO] Transaction Sell Succeeded:MaxCaliber product:CombinationLock quantity:0 health:0 price:60
+20-28-24 | [INFO] TraderID: 2 - Customer: MaxCaliber - Category: Holler Tools - ClassName: NailBox - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 600 - CollateralMoney: 0 - TradeMode:Sell
+20-28-24 | [INFO] Transaction Sell Succeeded:MaxCaliber product:NailBox quantity:0 health:0 price:600
+20-32-31 | [INFO] InsuranceRequestHandler
+20-32-31 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+20-32-40 | [INFO] TraderID: 2 - Customer: MaxCaliber - Category: Holler Base Building - ClassName: BBP_Blueprint - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Sell
+20-32-40 | [INFO] Transaction Sell Succeeded:MaxCaliber product:BBP_Blueprint quantity:0 health:0 price:300
+20-32-43 | [INFO] TraderID: 2 - Customer: MaxCaliber - Category: Holler Tools - ClassName: SledgeHammer - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 600 - CollateralMoney: 0 - TradeMode:Sell
+20-32-43 | [INFO] Transaction Sell Succeeded:MaxCaliber product:SledgeHammer quantity:0 health:0 price:600
+20-32-45 | [INFO] TraderID: 2 - Customer: MaxCaliber - Category: Holler Tools - ClassName: SewingKit - Quantity: 100 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+20-32-45 | [INFO] Transaction Sell Succeeded:MaxCaliber product:SewingKit quantity:100 health:0 price:240
+20-33-5 | [INFO] InsuranceRequestHandler
+20-33-5 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+20-33-8 | [INFO] TraderID: 0 - Customer: MaxCaliber - Category: Holler Packaged Food - ClassName: SaltySticks - Quantity: 50 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 60 - CollateralMoney: 0 - TradeMode:Sell
+20-33-8 | [INFO] Transaction Sell Succeeded:MaxCaliber product:SaltySticks quantity:50 health:0 price:60
+20-33-19 | [INFO] InsuranceRequestHandler
+20-33-19 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+20-33-24 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Hand Guns - ClassName: FNX45 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 517 - CollateralMoney: 0 - TradeMode:Sell
+20-33-24 | [INFO] Transaction Sell Succeeded:MaxCaliber product:FNX45 quantity:0 health:1 price:517
+20-33-27 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Long Rifles - ClassName: SKS - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 281 - CollateralMoney: 0 - TradeMode:Sell
+20-33-27 | [INFO] Transaction Sell Succeeded:MaxCaliber product:SKS quantity:0 health:1 price:281
+20-33-33 | [INFO] InsuranceRequestHandler
+20-33-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+20-33-44 | [INFO] InsuranceRequestHandler
+20-33-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+20-33-48 | [INFO] TraderID: 6 - Customer: MaxCaliber - Category: Holler Electronics - ClassName: Flashlight - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 210 - CollateralMoney: 0 - TradeMode:Sell
+20-33-48 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Flashlight quantity:0 health:0 price:210
+20-34-8 | [INFO] InsuranceRequestHandler
+20-34-8 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+20-34-13 | [INFO] TraderID: 7 - Customer: MaxCaliber - Category: Holler Medical - ClassName: PainkillerTablets - Quantity: 24 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 1440 - CollateralMoney: 0 - TradeMode:Sell
+20-34-13 | [INFO] Transaction Sell Succeeded:MaxCaliber product:PainkillerTablets quantity:48 health:0 price:1440
+20-34-45 | [INFO] InsuranceRequestHandler
+20-34-45 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+20-34-48 | [INFO] TraderID: 1 - Customer: MaxCaliber - Category: Holler Vanilla Auto Parts - ClassName: HeadlightH7_Box - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 60 - CollateralMoney: 0 - TradeMode:Sell
+20-34-48 | [INFO] Transaction Sell Succeeded:MaxCaliber product:HeadlightH7_Box quantity:0 health:0 price:60
+20-34-51 | [INFO] TraderID: 1 - Customer: MaxCaliber - Category: Holler Vanilla Auto Parts - ClassName: SparkPlug - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 72 - CollateralMoney: 0 - TradeMode:Sell
+20-34-51 | [INFO] Transaction Sell Succeeded:MaxCaliber product:SparkPlug quantity:0 health:0 price:72
+20-35-36 | [INFO] InsuranceRequestHandler
+20-35-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+20-36-12 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: geb_BlueFishKnife - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+20-36-12 | [INFO] Player:MaxCaliber - currency amount:12344
+20-36-12 | [INFO] Transaction Buy Succeeded:MaxCaliber product:geb_BlueFishKnife quantity:0 health:0 price:250
+20-36-16 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: FishingRod - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 650 - CollateralMoney: 0 - TradeMode:Buy
+20-36-16 | [INFO] Player:MaxCaliber - currency amount:12094
+20-36-16 | [INFO] Transaction Buy Succeeded:MaxCaliber product:FishingRod quantity:0 health:0 price:650
+20-36-53 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: Msp_TackleBox_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 960 - CollateralMoney: 0 - TradeMode:Buy
+20-36-53 | [INFO] Player:MaxCaliber - currency amount:11444
+20-36-53 | [INFO] Transaction Buy Succeeded:MaxCaliber product:Msp_TackleBox_Black quantity:0 health:0 price:960
+20-36-57 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: geb_Lure1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+20-36-57 | [INFO] Player:MaxCaliber - currency amount:10484
+20-36-57 | [INFO] Transaction Buy Succeeded:MaxCaliber product:geb_Lure1 quantity:0 health:0 price:250
+20-36-59 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: geb_Lure1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+20-36-59 | [INFO] Player:MaxCaliber - currency amount:10234
+20-36-59 | [INFO] Transaction Buy Succeeded:MaxCaliber product:geb_Lure1 quantity:0 health:0 price:250
+20-37-0 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: geb_Lure1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+20-37-0 | [INFO] Player:MaxCaliber - currency amount:9984
+20-37-0 | [INFO] Transaction Buy Succeeded:MaxCaliber product:geb_Lure1 quantity:0 health:0 price:250
+20-37-2 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: geb_Lure1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+20-37-2 | [INFO] Player:MaxCaliber - currency amount:9734
+20-37-2 | [INFO] Transaction Buy Succeeded:MaxCaliber product:geb_Lure1 quantity:0 health:0 price:250
+20-37-4 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: geb_Lure1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+20-37-4 | [INFO] Player:MaxCaliber - currency amount:9484
+20-37-4 | [INFO] Transaction Buy Succeeded:MaxCaliber product:geb_Lure1 quantity:0 health:0 price:250
+20-37-6 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: geb_Lure1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+20-37-6 | [INFO] Player:MaxCaliber - currency amount:9234
+20-37-6 | [INFO] Transaction Buy Succeeded:MaxCaliber product:geb_Lure1 quantity:0 health:0 price:250
+20-37-8 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: geb_Lure1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+20-37-8 | [INFO] Player:MaxCaliber - currency amount:8984
+20-37-8 | [INFO] Transaction Buy Succeeded:MaxCaliber product:geb_Lure1 quantity:0 health:0 price:250
+20-37-9 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: geb_Lure1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+20-37-9 | [INFO] Player:MaxCaliber - currency amount:8734
+20-37-9 | [INFO] Transaction Buy Succeeded:MaxCaliber product:geb_Lure1 quantity:0 health:0 price:250
+20-37-11 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: geb_Lure1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+20-37-11 | [INFO] Player:MaxCaliber - currency amount:8484
+20-37-11 | [INFO] Transaction Buy Succeeded:MaxCaliber product:geb_Lure1 quantity:0 health:0 price:250
+20-37-13 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: geb_Lure1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+20-37-13 | [INFO] Player:MaxCaliber - currency amount:8234
+20-37-13 | [INFO] Transaction Buy Succeeded:MaxCaliber product:geb_Lure1 quantity:0 health:0 price:250
+20-37-15 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: geb_Lure1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+20-37-15 | [INFO] Player:MaxCaliber - currency amount:7984
+20-37-15 | [INFO] Transaction Buy Succeeded:MaxCaliber product:geb_Lure1 quantity:0 health:0 price:250
+20-37-17 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: geb_Lure1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+20-37-17 | [INFO] Player:MaxCaliber - currency amount:7734
+20-37-17 | [INFO] Transaction Buy Succeeded:MaxCaliber product:geb_Lure1 quantity:0 health:0 price:250
+20-37-22 | [INFO] InsuranceRequestHandler
+20-37-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+20-37-26 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Weapon Care - ClassName: Whetstone - Quantity: 100 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Buy
+20-37-26 | [INFO] Player:MaxCaliber - currency amount:7484
+20-37-26 | [INFO] Transaction Buy Succeeded:MaxCaliber product:Whetstone quantity:100 health:0 price:300
+20-37-28 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Weapon Care - ClassName: Whetstone - Quantity: 100 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Buy
+20-37-28 | [INFO] Player:MaxCaliber - currency amount:7184
+20-37-28 | [INFO] Transaction Buy Succeeded:MaxCaliber product:Whetstone quantity:100 health:0 price:300
+20-37-30 | [INFO] TraderID: 4 - Customer: MaxCaliber - Category: Holler Weapon Care - ClassName: Whetstone - Quantity: 100 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Buy
+20-37-30 | [INFO] Player:MaxCaliber - currency amount:6884
+20-37-30 | [INFO] Transaction Buy Succeeded:MaxCaliber product:Whetstone quantity:100 health:0 price:300
+20-37-49 | [INFO] InsuranceRequestHandler
+20-37-49 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+20-39-47 | [INFO] InsuranceRequestHandler
+20-39-47 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+20-39-51 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: Msp_TackleBox_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 576 - CollateralMoney: 0 - TradeMode:Sell
+20-39-51 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Msp_TackleBox_Black quantity:0 health:0 price:576
+20-40-2 | [INFO] TraderID: 5 - Customer: MaxCaliber - Category: Holler Hunting & Fishing - ClassName: geb_CamoTackle - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+20-40-2 | [INFO] Player:MaxCaliber - currency amount:7160
+20-40-2 | [INFO] Transaction Buy Succeeded:MaxCaliber product:geb_CamoTackle quantity:0 health:0 price:200
+23-24-57 | [INFO] InsuranceRequestHandler
+23-24-57 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_980466132.json
+23-25-4 | [INFO] InsuranceRequestHandler
+23-25-4 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_980466132.json
+23-26-6 | [INFO] InsuranceRequestHandler
+23-26-6 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_980466132.json
+23-26-19 | [INFO] TraderID: 2 - Customer: Darkman Esq. - Category: Holler Tools - ClassName: DuctTape - Quantity: 100 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+23-26-19 | [INFO] Transaction Sell Succeeded:Darkman Esq. product:DuctTape quantity:100 health:0 price:240
+23-27-11 | [INFO] InsuranceRequestHandler
+23-27-11 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_980466132.json
+23-27-17 | [INFO] TraderID: 2 - Customer: Darkman Esq. - Category: Holler Tools - ClassName: BBP_Tape_Measure - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+23-27-17 | [INFO] Player:Darkman Esq. - currency amount:240
+23-27-17 | [INFO] Transaction Buy Succeeded:Darkman Esq. product:BBP_Tape_Measure quantity:0 health:0 price:100
+23-27-37 | [INFO] InsuranceRequestHandler
+23-27-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_980466132.json
+23-29-38 | [INFO] InsuranceRequestHandler
+23-29-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_980466132.json

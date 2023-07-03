@@ -1,0 +1,15 @@
+{
+    "OwnerName": "Chuck",
+    "OwnerID": "50610349",
+    "ParkingPosition": [
+        -1.0,
+        -1.0,
+        -1.0
+    ],
+    "ParkingOrientation": [
+        -1.0,
+        -1.0,
+        -1.0
+    ],
+    "Vehicles": []
+}

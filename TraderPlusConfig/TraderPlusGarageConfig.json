@@ -3,11 +3,11 @@
     "UseGarageOnlyToTrade": 0,
     "VehicleMustHaveLock": 1,
     "SaveVehicleLock": 1,
-    "SaveVehicleCargo": 1,
+    "SaveVehicleCargo": 0,
     "SaveVehicleHealth": 1,
     "SaveVehicleFuel": 1,
-    "SavedVehicleInGarageForTradeInHour": 1,
-    "MaxVehicleStored": 5,
+    "SavedVehicleInGarageForTradeInHour": 0,
+    "MaxVehicleStored": 15,
     "ParkInCost": 100,
     "ParkOutCost": 100,
     "PayWithBankAccount": 0,
@@ -18,22 +18,22 @@
         {
             "ClassName": "SurvivorM_Peter",
             "Position": [
-                11632.6298828125,
-                58.130001068115237,
-                14658.400390625
+                1,
+                1,
+                1
             ],
             "Orientation": [
-                250.0,
+                45.0,
                 -0.0,
                 -0.0
             ],
             "ParkingPosition": [
-                11633.36328125,
-                57.807411193847659,
-                14650.166015625
+                5593.88,
+                28.72,
+                5365.08
             ],
             "ParkingOrientation": [
-                250.0,
+                0.0,
                 0.0,
                 0.0
             ],

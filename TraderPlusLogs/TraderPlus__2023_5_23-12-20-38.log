@@ -1,0 +1,24 @@
+Creation Time: 2023_5_23-12-20-38
+12-20-38 | [INFO] TraderPlusCore - Started !
+12-20-38 | [INFO] TraderPlus file exist ! loading...
+12-20-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+12-20-38 | [INFO] TraderPlus file exist ! loading...
+12-20-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+12-20-39 | [INFO] TraderPlus file exist ! loading...
+12-20-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+12-20-39 | [INFO] TraderPlus file exist ! loading...
+12-20-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+12-20-39 | [INFO] TraderPlus file exist ! loading...
+12-20-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+12-20-39 | [INFO] TraderPlus file exist ! loading...
+12-20-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+12-20-39 | [INFO] TraderPlusServer - Started
+12-20-39 | [INFO] TraderPlusBankingCore - Started !
+12-20-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.json
+12-20-39 | [INFO] TraderPlusBankingServer - Started
+12-20-39 | [INFO] CarLockCore - Started !
+12-20-39 | [INFO] CarLockServer - Started
+12-20-39 | [INFO] SafeZoneCore - Started !
+12-20-39 | [INFO] DEBUG MODE ENABLED
+12-20-51 | [INFO] RefreshLifeTimeCargo
+12-20-51 | [INFO] RefreshLifeTimeCargo

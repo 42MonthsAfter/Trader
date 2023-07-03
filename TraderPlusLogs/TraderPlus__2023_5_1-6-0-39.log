@@ -1,0 +1,259 @@
+Creation Time: 2023_5_1-6-0-39
+6-0-39 | [INFO] TraderPlusCore - Started !
+6-0-39 | [INFO] TraderPlus file exist ! loading...
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+6-0-39 | [INFO] TraderPlus file exist ! loading...
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+6-0-39 | [INFO] TraderPlus file exist ! loading...
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+6-0-39 | [INFO] TraderPlus file exist ! loading...
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+6-0-39 | [INFO] TraderPlus file exist ! loading...
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+6-0-39 | [INFO] TraderPlus file exist ! loading...
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+6-0-39 | [INFO] TraderPlusServer - Started
+6-0-39 | [INFO] TraderPlusBankingCore - Started !
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.json
+6-0-39 | [INFO] TraderPlusBankingServer - Started
+6-0-39 | [INFO] CarLockCore - Started !
+6-0-39 | [INFO] CarLockServer - Started
+6-0-39 | [INFO] SafeZoneCore - Started !
+6-0-39 | [INFO] DEBUG MODE ENABLED
+6-0-49 | [INFO] RefreshLifeTimeCargo
+6-0-51 | [INFO] RefreshLifeTimeCargo
+6-0-51 | [INFO] RefreshLifeTimeCargo
+6-0-52 | [INFO] RefreshLifeTimeCargo
+6-1-0 | [INFO] ID_count: 10
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Beverages.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Packaged Food.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fruit & Veg.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Meat.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fish.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fungus.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Pelts.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Vanilla Auto Parts.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Vanilla Vehicle Components.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Cars.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Heli Parts.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Tools.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Gardening.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Base Building.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Base Decor.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Flags.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Holler Good Good.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Hand Guns.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Bows.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Shotguns.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Sub Machine Guns.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Long Rifles.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Assault Rifles.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Sniper Rifles.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Just Mags.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Buttstocks.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Suppressors.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Compensators.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Optics.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Handguards & Rails.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Bayonets.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Melee & Blades.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Weapon Lights.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Weapon Care.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Ammo.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Bags.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Gear.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Pouches.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Belts.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Vests.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Ghillies.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Patches & Armbands.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Camping & Survival.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Hunting & Fishing.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Holler Electronics.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Holler Medical.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Holler Protective Gear.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Melee & Blades.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Pistols.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Machine Guns.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Sniper Rifles.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Shotguns.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Assault Rifles.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Bayonets.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Ammo.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Lights.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Suppressors.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Optics.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Attachments.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Halloween.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Covid.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Grenades.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Cosmetics.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Pants.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Tops.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Masks.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Hats.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Gear.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Vests.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Helmets.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Bags.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Collectable.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Masks.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_9\Airsoft Weapons.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_9\Airsoft Clothing.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_9\Money Exchange.json
+6-1-0 | [INFO] SetTradersSpawner: Started
+6-1-0 | [INFO] obj created: SurvivorF_Helga
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] obj created: SurvivorM_Jose
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] obj created: SurvivorM_Taiki
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] obj created: SurvivorF_Eva
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] obj created: SurvivorM_Seth
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] obj created: SurvivorM_Seth
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] obj created: SurvivorF_Eva
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] obj created: SurvivorM_Rolf
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] SetTradersSpawner: Ended
+6-1-0 | [INFO] SetObjectSpawner: Started
+6-1-0 | [INFO] SetObjectSpawner: Ended
+6-1-0 | [INFO] DefaultTraderStock - Started
+6-26-23 | [INFO] GetSafeStatut
+6-26-28 | [INFO] GetSafeStatut
+6-26-54 | [INFO] InsuranceRequestHandler
+6-26-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_27036898.json
+6-27-8 | [INFO] InsuranceRequestHandler
+6-27-8 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+6-27-12 | [INFO] InsuranceRequestHandler
+6-27-12 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_27036898.json
+6-27-14 | [INFO] TraderID: 3 - Customer: Mr Wolf - Category: Holler Good Good - ClassName: CP_CigarettePack_CannabisSkunk - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 7 - CollateralMoney: 0 - TradeMode:Sell
+6-27-14 | [INFO] Transaction Sell Succeeded:Mr Wolf product:CP_CigarettePack_CannabisSkunk quantity:1 health:0 price:7
+6-27-17 | [INFO] TraderID: 3 - Customer: Mr Wolf - Category: Holler Good Good - ClassName: CP_CigarettePack_CannabisBlue - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 14 - CollateralMoney: 0 - TradeMode:Sell
+6-27-17 | [INFO] Transaction Sell Succeeded:Mr Wolf product:CP_CigarettePack_CannabisBlue quantity:1 health:0 price:14
+6-27-19 | [INFO] TraderID: 3 - Customer: Mr Wolf - Category: Holler Good Good - ClassName: CP_CigarettePack_CannabisBlue - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 14 - CollateralMoney: 0 - TradeMode:Sell
+6-27-19 | [INFO] Transaction Sell Succeeded:Mr Wolf product:CP_CigarettePack_CannabisBlue quantity:1 health:0 price:14
+6-27-21 | [INFO] TraderID: 3 - Customer: Mr Wolf - Category: Holler Good Good - ClassName: CP_CigarettePack_CannabisBlue - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 14 - CollateralMoney: 0 - TradeMode:Sell
+6-27-21 | [INFO] Transaction Sell Succeeded:Mr Wolf product:CP_CigarettePack_CannabisBlue quantity:1 health:0 price:14
+6-27-23 | [INFO] TraderID: 3 - Customer: Mr Wolf - Category: Holler Good Good - ClassName: CP_CigarettePack_CannabisBlue - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 14 - CollateralMoney: 0 - TradeMode:Sell
+6-27-23 | [INFO] Transaction Sell Succeeded:Mr Wolf product:CP_CigarettePack_CannabisBlue quantity:1 health:0 price:14
+6-27-25 | [INFO] TraderID: 3 - Customer: Mr Wolf - Category: Holler Good Good - ClassName: CP_CigarettePack_CannabisBlue - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 14 - CollateralMoney: 0 - TradeMode:Sell
+6-27-25 | [INFO] Transaction Sell Succeeded:Mr Wolf product:CP_CigarettePack_CannabisBlue quantity:1 health:0 price:14
+6-27-30 | [INFO] TraderID: 3 - Customer: Mr Wolf - Category: Holler Good Good - ClassName: CP_CigarettePack_CannabisBlue - Quantity: 13 - Multiplier: 13 - MaxStock: -1 - Health: 0 - Price: 182 - CollateralMoney: 0 - TradeMode:Sell
+6-27-30 | [INFO] Transaction Sell Succeeded:Mr Wolf product:CP_CigarettePack_CannabisBlue quantity:169 health:0 price:182
+6-27-32 | [INFO] TraderID: 3 - Customer: jellyGunner - Category: Holler Good Good - ClassName: CP_Relief_Balm - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 8750 - CollateralMoney: 0 - TradeMode:Sell
+6-27-32 | [INFO] Transaction Sell Succeeded:jellyGunner product:CP_Relief_Balm quantity:2500 health:0 price:8750
+6-27-34 | [INFO] TraderID: 3 - Customer: Mr Wolf - Category: Holler Good Good - ClassName: CP_CigarettePack_CannabisS1 - Quantity: 9 - Multiplier: 9 - MaxStock: -1 - Health: 0 - Price: 90 - CollateralMoney: 0 - TradeMode:Sell
+6-27-34 | [INFO] Transaction Sell Succeeded:Mr Wolf product:CP_CigarettePack_CannabisS1 quantity:81 health:0 price:90
+6-27-37 | [INFO] TraderID: 3 - Customer: jellyGunner - Category: Holler Good Good - ClassName: CP_Relief_Balm - Quantity: 21 - Multiplier: 21 - MaxStock: -1 - Health: 0 - Price: 3675 - CollateralMoney: 0 - TradeMode:Sell
+6-27-37 | [INFO] Transaction Sell Succeeded:jellyGunner product:CP_Relief_Balm quantity:441 health:0 price:3675
+6-27-41 | [INFO] TraderID: 3 - Customer: Mr Wolf - Category: Holler Good Good - ClassName: CP_CigarettePack_CannabisSkunk - Quantity: 45 - Multiplier: 45 - MaxStock: -1 - Health: 0 - Price: 315 - CollateralMoney: 0 - TradeMode:Sell
+6-27-41 | [INFO] Transaction Sell Succeeded:Mr Wolf product:CP_CigarettePack_CannabisSkunk quantity:2025 health:0 price:315
+6-27-44 | [INFO] InsuranceRequestHandler
+6-27-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+6-27-50 | [INFO] InsuranceRequestHandler
+6-27-50 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_27036898.json
+6-27-54 | [INFO] TraderID: 4 - Customer: jellyGunner - Category: Holler Optics - ClassName: KashtanOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 330 - CollateralMoney: 0 - TradeMode:Sell
+6-27-54 | [INFO] Transaction Sell Succeeded:jellyGunner product:KashtanOptic quantity:0 health:0 price:330
+6-27-57 | [INFO] InsuranceRequestHandler
+6-27-57 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+6-27-58 | [INFO] TraderID: 4 - Customer: jellyGunner - Category: Holler Just Mags - ClassName: ttr700mag - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 180 - CollateralMoney: 0 - TradeMode:Sell
+6-27-58 | [INFO] Transaction Sell Succeeded:jellyGunner product:ttr700mag quantity:1 health:0 price:180
+6-28-9 | [INFO] InsuranceRequestHandler
+6-28-9 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_27036898.json
+6-28-16 | [INFO] TraderID: 5 - Customer: jellyGunner - Category: Holler Hunting & Fishing - ClassName: Hook - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 30 - CollateralMoney: 0 - TradeMode:Sell
+6-28-16 | [INFO] Transaction Sell Succeeded:jellyGunner product:Hook quantity:0 health:0 price:30
+6-28-21 | [INFO] InsuranceRequestHandler
+6-28-21 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_27036898.json
+6-28-24 | [INFO] InsuranceRequestHandler
+6-28-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+6-28-27 | [INFO] TraderID: 5 - Customer: jellyGunner - Category: Holler Camping & Survival - ClassName: Flaregun - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+6-28-27 | [INFO] Player:jellyGunner - currency amount:20463
+6-28-27 | [INFO] Transaction Buy Succeeded:jellyGunner product:Flaregun quantity:0 health:0 price:500
+6-28-29 | [INFO] TraderID: 5 - Customer: Mr Wolf - Category: Holler Gear - ClassName: Tactical_Leg_Holster_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 180 - CollateralMoney: 0 - TradeMode:Sell
+6-28-29 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Tactical_Leg_Holster_Black quantity:0 health:0 price:180
+6-28-32 | [INFO] TraderID: 5 - Customer: jellyGunner - Category: Holler Camping & Survival - ClassName: Ammo_FlareRed - Quantity: 20 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 20 - CollateralMoney: 0 - TradeMode:Buy
+6-28-32 | [INFO] Player:jellyGunner - currency amount:19963
+6-28-32 | [INFO] Transaction Buy Succeeded:jellyGunner product:Ammo_FlareRed quantity:20 health:0 price:20
+6-29-6 | [INFO] InsuranceRequestHandler
+6-29-6 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_27036898.json
+6-29-9 | [INFO] TraderID: 1 - Customer: jellyGunner - Category: Holler Vanilla Auto Parts - ClassName: CarRadiator - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+6-29-9 | [INFO] Transaction Sell Succeeded:jellyGunner product:CarRadiator quantity:0 health:0 price:240
+6-29-14 | [INFO] InsuranceRequestHandler
+6-29-14 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+6-29-17 | [INFO] TraderID: 5 - Customer: Mr Wolf - Category: Holler Pouches - ClassName: PlateCarrierPouches - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 288 - CollateralMoney: 0 - TradeMode:Sell
+6-29-17 | [INFO] Transaction Sell Succeeded:Mr Wolf product:PlateCarrierPouches quantity:0 health:0 price:288
+6-29-20 | [INFO] TraderID: 5 - Customer: Mr Wolf - Category: Holler Pouches - ClassName: PlateCarrierPouches - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 288 - CollateralMoney: 0 - TradeMode:Sell
+6-29-20 | [INFO] Transaction Sell Succeeded:Mr Wolf product:PlateCarrierPouches quantity:0 health:0 price:288
+6-29-26 | [INFO] TraderID: 5 - Customer: Mr Wolf - Category: Holler Camping & Survival - ClassName: Heatpack - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 90 - CollateralMoney: 0 - TradeMode:Sell
+6-29-26 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Heatpack quantity:0 health:0 price:90
+6-30-11 | [INFO] InsuranceRequestHandler
+6-30-11 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_27036898.json
+6-30-13 | [INFO] InsuranceRequestHandler
+6-30-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+6-30-20 | [INFO] TraderID: 4 - Customer: Mr Wolf - Category: Holler Ammo - ClassName: AmmoBox_762x54_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 246 - CollateralMoney: 0 - TradeMode:Sell
+6-30-20 | [INFO] Transaction Sell Succeeded:Mr Wolf product:AmmoBox_762x54_20Rnd quantity:0 health:0 price:246
+6-30-21 | [INFO] TraderID: 4 - Customer: jellyGunner - Category: Holler Ammo - ClassName: TWP_AmmoBox_50BMG_10rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 800 - CollateralMoney: 0 - TradeMode:Buy
+6-30-21 | [INFO] Player:jellyGunner - currency amount:20183
+6-30-21 | [INFO] Transaction Buy Succeeded:jellyGunner product:TWP_AmmoBox_50BMG_10rnd quantity:0 health:0 price:800
+6-30-23 | [INFO] TraderID: 4 - Customer: Mr Wolf - Category: Holler Just Mags - ClassName: Mag_CZ75_15Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+6-30-23 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Mag_CZ75_15Rnd quantity:0 health:0 price:120
+6-30-26 | [INFO] TraderID: 4 - Customer: Mr Wolf - Category: Holler Just Mags - ClassName: Mag_MKII_10Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+6-30-26 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Mag_MKII_10Rnd quantity:0 health:0 price:120
+6-30-29 | [INFO] TraderID: 4 - Customer: Mr Wolf - Category: Holler Ammo - ClassName: RubberBox_45ACP - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+6-30-29 | [INFO] Transaction Sell Succeeded:Mr Wolf product:RubberBox_45ACP quantity:0 health:0 price:120
+6-30-32 | [INFO] TraderID: 4 - Customer: Mr Wolf - Category: Holler Ammo - ClassName: AmmoBox_45ACP_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+6-30-32 | [INFO] Transaction Sell Succeeded:Mr Wolf product:AmmoBox_45ACP_25rnd quantity:0 health:0 price:240
+6-30-41 | [INFO] TraderID: 4 - Customer: Mr Wolf - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 264 - CollateralMoney: 0 - TradeMode:Sell
+6-30-41 | [INFO] Transaction Sell Succeeded:Mr Wolf product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:264
+6-31-40 | [INFO] InsuranceRequestHandler
+6-31-40 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_27036898.json
+6-31-44 | [INFO] TraderID: 1 - Customer: jellyGunner - Category: Holler Vanilla Auto Parts - ClassName: CarBattery - Quantity: 50 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 320 - CollateralMoney: 0 - TradeMode:Buy
+6-31-44 | [INFO] Player:jellyGunner - currency amount:19383
+6-31-44 | [INFO] Transaction Buy Succeeded:jellyGunner product:CarBattery quantity:50 health:0 price:320
+6-32-1 | [INFO] InsuranceRequestHandler
+6-32-1 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_27036898.json
+6-32-7 | [INFO] TraderID: 3 - Customer: jellyGunner - Category: Holler Good Good - ClassName: CP_CannabisSeedsPackBlue - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2652 - CollateralMoney: 0 - TradeMode:Sell
+6-32-7 | [INFO] Transaction Sell Succeeded:jellyGunner product:CP_CannabisSeedsPackBlue quantity:0 health:0 price:2652
+6-33-26 | [INFO] InsuranceRequestHandler
+6-33-26 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+6-34-17 | [INFO] InsuranceRequestHandler
+6-34-17 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+6-34-30 | [INFO] TraderID: 4 - Customer: Mr Wolf - Category: Holler Ammo - ClassName: AmmoBox_556x45Tracer_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+6-34-30 | [INFO] Player:Mr Wolf - currency amount:2990
+6-34-30 | [INFO] Transaction Buy Succeeded:Mr Wolf product:AmmoBox_556x45Tracer_20Rnd quantity:0 health:0 price:340
+6-34-32 | [INFO] TraderID: 4 - Customer: Mr Wolf - Category: Holler Ammo - ClassName: AmmoBox_556x45Tracer_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+6-34-32 | [INFO] Player:Mr Wolf - currency amount:2650
+6-34-32 | [INFO] Transaction Buy Succeeded:Mr Wolf product:AmmoBox_556x45Tracer_20Rnd quantity:0 health:0 price:340
+6-34-33 | [INFO] TraderID: 4 - Customer: Mr Wolf - Category: Holler Ammo - ClassName: AmmoBox_556x45Tracer_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+6-34-33 | [INFO] Player:Mr Wolf - currency amount:2310
+6-34-33 | [INFO] Transaction Buy Succeeded:Mr Wolf product:AmmoBox_556x45Tracer_20Rnd quantity:0 health:0 price:340
+6-34-34 | [INFO] TraderID: 4 - Customer: Mr Wolf - Category: Holler Ammo - ClassName: AmmoBox_556x45Tracer_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+6-34-34 | [INFO] Player:Mr Wolf - currency amount:1970
+6-34-34 | [INFO] Transaction Buy Succeeded:Mr Wolf product:AmmoBox_556x45Tracer_20Rnd quantity:0 health:0 price:340
+6-34-35 | [INFO] TraderID: 4 - Customer: Mr Wolf - Category: Holler Ammo - ClassName: AmmoBox_556x45Tracer_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+6-34-35 | [INFO] Player:Mr Wolf - currency amount:1630
+6-34-35 | [INFO] Transaction Buy Succeeded:Mr Wolf product:AmmoBox_556x45Tracer_20Rnd quantity:0 health:0 price:340
+6-34-38 | [INFO] TraderID: 4 - Customer: Mr Wolf - Category: Holler Ammo - ClassName: AmmoBox_556x45Tracer_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+6-34-38 | [INFO] Player:Mr Wolf - currency amount:1290
+6-34-38 | [INFO] Transaction Buy Succeeded:Mr Wolf product:AmmoBox_556x45Tracer_20Rnd quantity:0 health:0 price:340
+6-34-39 | [INFO] TraderID: 4 - Customer: Mr Wolf - Category: Holler Ammo - ClassName: AmmoBox_556x45Tracer_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+6-34-39 | [INFO] Player:Mr Wolf - currency amount:950
+6-34-39 | [INFO] Transaction Buy Succeeded:Mr Wolf product:AmmoBox_556x45Tracer_20Rnd quantity:0 health:0 price:340
+6-34-40 | [INFO] TraderID: 4 - Customer: Mr Wolf - Category: Holler Ammo - ClassName: AmmoBox_556x45Tracer_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+6-34-40 | [INFO] Player:Mr Wolf - currency amount:610
+6-34-40 | [INFO] Transaction Buy Succeeded:Mr Wolf product:AmmoBox_556x45Tracer_20Rnd quantity:0 health:0 price:340
+6-36-0 | [INFO] GetSafeStatut
+6-38-41 | [INFO] GetSafeStatut

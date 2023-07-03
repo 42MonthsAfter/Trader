@@ -1,0 +1,1090 @@
+Creation Time: 2023_6_3-12-0-32
+12-0-32 | [INFO] TraderPlusCore - Started !
+12-0-32 | [INFO] TraderPlus file exist ! loading...
+12-0-32 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+12-0-32 | [INFO] TraderPlus file exist ! loading...
+12-0-32 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+12-0-32 | [INFO] TraderPlus file exist ! loading...
+12-0-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+12-0-33 | [INFO] TraderPlus file exist ! loading...
+12-0-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+12-0-33 | [INFO] TraderPlus file exist ! loading...
+12-0-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+12-0-33 | [INFO] TraderPlus file exist ! loading...
+12-0-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+12-0-33 | [INFO] TraderPlusServer - Started
+12-0-33 | [INFO] TraderPlusBankingCore - Started !
+12-0-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.json
+12-0-33 | [INFO] TraderPlusBankingServer - Started
+12-0-33 | [INFO] CarLockCore - Started !
+12-0-33 | [INFO] CarLockServer - Started
+12-0-33 | [INFO] SafeZoneCore - Started !
+12-0-33 | [INFO] DEBUG MODE ENABLED
+12-0-44 | [INFO] RefreshLifeTimeCargo
+12-0-44 | [INFO] RefreshLifeTimeCargo
+12-0-44 | [INFO] RefreshLifeTimeCargo
+12-0-44 | [INFO] RefreshLifeTimeCargo
+12-0-44 | [INFO] RefreshLifeTimeCargo
+12-0-48 | [INFO] RefreshLifeTimeCargo
+12-0-48 | [INFO] RefreshLifeTimeCargo
+12-0-48 | [INFO] RefreshLifeTimeCargo
+12-0-51 | [INFO] ID_count: 10
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Beverages.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Packaged Food.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fruit & Veg.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Meat.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fish.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fungus.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Pelts.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Money Exchange.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Vanilla Auto Parts.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Vanilla Vehicle Components.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Civilian Cars.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler SUVs & Trucks.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Military Vehicles.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Public Transport.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Helis.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Heli Parts.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Money Exchange.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Tools.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Gardening.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Base Building.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Base Decor.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Flags.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Money Exchange.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Holler Good Good.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Money Exchange.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Hand Guns.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Bows.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Shotguns.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Sub Machine Guns.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Long Rifles.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Assault Rifles.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Sniper Rifles.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Just Mags.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Buttstocks.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Suppressors.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Compensators.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Optics.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Handguards & Rails.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Bayonets.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Melee & Blades.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Weapon Lights.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Weapon Care.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Ammo.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Money Exchange.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Bags.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Gear.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Pouches.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Belts.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Vests.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Ghillies.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Patches & Armbands.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Camping & Survival.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Hunting & Fishing.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Money Exchange.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Holler Electronics.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Holler Collectibles.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Money Exchange.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Holler Medical.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Holler Protective Gear.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Money Exchange.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Melee & Blades.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Pistols.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Machine Guns.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Sniper Rifles.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Shotguns.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Assault Rifles.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Bayonets.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Ammo.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Lights.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Suppressors.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Optics.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Attachments.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Halloween.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Covid.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Grenades.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Cosmetics.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Pants.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Tops.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Masks.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Hats.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Gear.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Vests.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Helmets.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Bags.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Collectable.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Masks.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Money Exchange.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_9\Airsoft Weapons.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_9\Airsoft Clothing.json
+12-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_9\Money Exchange.json
+12-0-51 | [INFO] SetTradersSpawner: Started
+12-0-52 | [INFO] obj created: SurvivorF_Helga
+12-0-52 | [INFO] TraderPlayer created and added!: 
+12-0-52 | [INFO] obj created: SurvivorM_Jose
+12-0-52 | [INFO] TraderPlayer created and added!: 
+12-0-52 | [INFO] obj created: SurvivorM_Taiki
+12-0-52 | [INFO] TraderPlayer created and added!: 
+12-0-52 | [INFO] obj created: SurvivorF_Eva
+12-0-52 | [INFO] TraderPlayer created and added!: 
+12-0-52 | [INFO] obj created: SurvivorM_Seth
+12-0-52 | [INFO] TraderPlayer created and added!: 
+12-0-52 | [INFO] obj created: SurvivorM_Seth
+12-0-52 | [INFO] TraderPlayer created and added!: 
+12-0-52 | [INFO] obj created: SurvivorF_Eva
+12-0-52 | [INFO] TraderPlayer created and added!: 
+12-0-52 | [INFO] obj created: SurvivorM_Rolf
+12-0-52 | [INFO] TraderPlayer created and added!: 
+12-0-52 | [INFO] SetTradersSpawner: Ended
+12-0-52 | [INFO] SetObjectSpawner: Started
+12-0-52 | [INFO] SetObjectSpawner: Ended
+12-0-52 | [INFO] DefaultTraderStock - Started
+12-10-0 | [INFO] RefreshLifeTimeCargo
+12-11-50 | [INFO] GetSafeStatut
+12-12-20 | [INFO] GetSafeStatut
+12-32-24 | [INFO] RefreshLifeTimeCargo
+13-3-14 | [INFO] GetSafeStatut
+13-3-38 | [INFO] InsuranceRequestHandler
+13-3-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+13-3-42 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Vests - ClassName: MVS_Combat_Vest_Forest_Bunker - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+13-3-42 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Combat_Vest_Forest_Bunker quantity:0 health:0 price:2000
+13-3-43 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Bags - ClassName: MVS_Pack_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+13-3-43 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Pack_Tan quantity:0 health:0 price:2000
+13-3-45 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Gear - ClassName: MVS_Shirt_BDU_Snow - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1500 - CollateralMoney: 0 - TradeMode:Sell
+13-3-45 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Shirt_BDU_Snow quantity:0 health:0 price:1500
+13-3-47 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Gear - ClassName: MVS_CombatShirt_ERDL - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1000 - CollateralMoney: 0 - TradeMode:Sell
+13-3-47 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_CombatShirt_ERDL quantity:0 health:0 price:1000
+13-3-48 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Gear - ClassName: MVS_OpsCore_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+13-3-48 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_OpsCore_Tan quantity:0 health:0 price:2000
+13-3-50 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Bags - ClassName: MVS_Compact_2_Multicam_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1800 - CollateralMoney: 0 - TradeMode:Sell
+13-3-50 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Compact_2_Multicam_Black quantity:0 health:0 price:1800
+13-3-52 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Bags - ClassName: MVS_SlingPack_Multicam_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2500 - CollateralMoney: 0 - TradeMode:Sell
+13-3-52 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_SlingPack_Multicam_Black quantity:0 health:0 price:2500
+13-3-53 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Bags - ClassName: MVS_Compact_2_Yellow_Camo_Bunker - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1800 - CollateralMoney: 0 - TradeMode:Sell
+13-3-53 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Compact_2_Yellow_Camo_Bunker quantity:0 health:0 price:1800
+13-3-55 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Pouches - ClassName: MVS_Molle_Panel_OD - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1000 - CollateralMoney: 0 - TradeMode:Sell
+13-3-55 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Molle_Panel_OD quantity:0 health:0 price:1000
+13-3-57 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Gear - ClassName: MVS_OpsCore_Snow - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+13-3-57 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_OpsCore_Snow quantity:0 health:0 price:2000
+13-3-59 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Gear - ClassName: MVS_OpsCore_Multicam_Tropic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+13-3-59 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_OpsCore_Multicam_Tropic quantity:0 health:0 price:2000
+13-4-1 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Gear - ClassName: MVS_6B47_Helmet_Forest_Bunker - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2500 - CollateralMoney: 0 - TradeMode:Sell
+13-4-1 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_6B47_Helmet_Forest_Bunker quantity:0 health:0 price:2500
+13-4-40 | [INFO] InsuranceRequestHandler
+13-4-40 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+13-4-44 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Gear - ClassName: MVS_CombatShirt_Multicam - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1000 - CollateralMoney: 0 - TradeMode:Sell
+13-4-44 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_CombatShirt_Multicam quantity:0 health:0 price:1000
+13-4-46 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Pouches - ClassName: MVS_Admin_Pouch_Multicam_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Sell
+13-4-46 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Admin_Pouch_Multicam_Black quantity:0 health:0 price:500
+13-4-48 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Belts - ClassName: MVS_Holster_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Sell
+13-4-48 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Holster_Tan quantity:0 health:0 price:500
+13-5-8 | [INFO] GetSafeStatut
+13-5-38 | [INFO] InsuranceRequestHandler
+13-5-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+13-6-12 | [INFO] InsuranceRequestHandler
+13-6-12 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+13-6-16 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Gear - ClassName: MVS_Helmet_01_ERDL - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+13-6-16 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Helmet_01_ERDL quantity:0 health:0 price:2000
+13-6-17 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Gear - ClassName: MVS_OpsCore_ERDL - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+13-6-17 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_OpsCore_ERDL quantity:0 health:0 price:2000
+13-6-19 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Bags - ClassName: MVS_Compact_2_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1800 - CollateralMoney: 0 - TradeMode:Sell
+13-6-19 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Compact_2_Black quantity:0 health:0 price:1800
+13-6-23 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Gear - ClassName: MVS_Altyn_OD - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1000 - CollateralMoney: 0 - TradeMode:Sell
+13-6-23 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Altyn_OD quantity:0 health:0 price:1000
+13-6-28 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Bags - ClassName: MVS_Assault_Pack_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3000 - CollateralMoney: 0 - TradeMode:Sell
+13-6-28 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Assault_Pack_Tan quantity:0 health:0 price:3000
+13-6-31 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Bags - ClassName: MVS_Compact_1_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1600 - CollateralMoney: 0 - TradeMode:Sell
+13-6-31 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Compact_1_Black quantity:0 health:0 price:1600
+13-6-32 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Bags - ClassName: MVS_SlingPack_Yellow_Camo_Bunker - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2500 - CollateralMoney: 0 - TradeMode:Sell
+13-6-32 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_SlingPack_Yellow_Camo_Bunker quantity:0 health:0 price:2500
+13-6-34 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Bags - ClassName: MVS_Compact_2_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1800 - CollateralMoney: 0 - TradeMode:Sell
+13-6-34 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Compact_2_Tan quantity:0 health:0 price:1800
+13-6-35 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Vests - ClassName: MVS_Combat_Vest_Forest_Bunker - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+13-6-35 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Combat_Vest_Forest_Bunker quantity:0 health:0 price:2000
+13-7-12 | [INFO] InsuranceRequestHandler
+13-7-12 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+13-7-36 | [INFO] InsuranceRequestHandler
+13-7-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+13-7-39 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Bags - ClassName: MVS_Radio_Pack_Multicam_Tropic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2500 - CollateralMoney: 0 - TradeMode:Sell
+13-7-39 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Radio_Pack_Multicam_Tropic quantity:0 health:0 price:2500
+13-7-42 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Pouches - ClassName: MVS_Taco_Pouch_Yellow_Camo_Bunker - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Sell
+13-7-42 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Taco_Pouch_Yellow_Camo_Bunker quantity:0 health:0 price:500
+13-7-48 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Belts - ClassName: MVS_Holster_Multicam - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Sell
+13-7-48 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Holster_Multicam quantity:0 health:0 price:500
+13-7-58 | [INFO] InsuranceRequestHandler
+13-7-58 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+13-8-33 | [INFO] InsuranceRequestHandler
+13-8-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+13-8-35 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Bags - ClassName: MVS_Assault_Pack_Yellow_Camo_Bunker - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3000 - CollateralMoney: 0 - TradeMode:Sell
+13-8-35 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Assault_Pack_Yellow_Camo_Bunker quantity:0 health:0 price:3000
+13-8-37 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Pouches - ClassName: MVS_Magazine_Pouch_ERDL - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 800 - CollateralMoney: 0 - TradeMode:Sell
+13-8-37 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Magazine_Pouch_ERDL quantity:0 health:0 price:800
+13-8-39 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Bags - ClassName: MVS_Pack_ERDL - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+13-8-39 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Pack_ERDL quantity:0 health:0 price:2000
+13-8-57 | [INFO] InsuranceRequestHandler
+13-8-57 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+13-9-59 | [INFO] InsuranceRequestHandler
+13-9-59 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+13-10-4 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Vests - ClassName: MVS_ChestRig_Forest_Bunker - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1500 - CollateralMoney: 0 - TradeMode:Sell
+13-10-4 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_ChestRig_Forest_Bunker quantity:0 health:0 price:1500
+13-10-6 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Bags - ClassName: MVS_Radio_Pack_Multicam - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2500 - CollateralMoney: 0 - TradeMode:Sell
+13-10-6 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Radio_Pack_Multicam quantity:0 health:0 price:2500
+13-10-7 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Bags - ClassName: MVS_Radio_Pack_OD - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2500 - CollateralMoney: 0 - TradeMode:Sell
+13-10-7 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Radio_Pack_OD quantity:0 health:0 price:2500
+13-10-9 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Gear - ClassName: MVS_CombatShirt_Snow - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1000 - CollateralMoney: 0 - TradeMode:Sell
+13-10-9 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_CombatShirt_Snow quantity:0 health:0 price:1000
+13-10-10 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Gear - ClassName: MVS_OpsCore_Forest_Bunker - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+13-10-10 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_OpsCore_Forest_Bunker quantity:0 health:0 price:2000
+13-10-12 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Bags - ClassName: MVS_Compact_1_OD - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1600 - CollateralMoney: 0 - TradeMode:Sell
+13-10-12 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Compact_1_OD quantity:0 health:0 price:1600
+13-10-13 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Vests - ClassName: MVS_Combat_Vest_OD - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+13-10-13 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Combat_Vest_OD quantity:0 health:0 price:2000
+13-10-14 | [INFO] InsuranceRequestHandler
+13-10-14 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+13-10-15 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Bags - ClassName: MVS_SlingPack_Multicam - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2500 - CollateralMoney: 0 - TradeMode:Sell
+13-10-15 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_SlingPack_Multicam quantity:0 health:0 price:2500
+13-11-15 | [INFO] InsuranceRequestHandler
+13-11-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+13-14-5 | [INFO] GetSafeStatut
+13-16-43 | [INFO] InsuranceRequestHandler
+13-16-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+13-16-47 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Assault Rifles - ClassName: M16A2 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 247 - CollateralMoney: 0 - TradeMode:Sell
+13-16-47 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:M16A2 quantity:0 health:1 price:247
+13-16-49 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Assault Rifles - ClassName: AK74 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 202 - CollateralMoney: 0 - TradeMode:Sell
+13-16-49 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:AK74 quantity:0 health:1 price:202
+13-16-52 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Assault Rifles - ClassName: M4A1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 396 - CollateralMoney: 0 - TradeMode:Sell
+13-16-52 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:M4A1 quantity:0 health:1 price:396
+13-16-54 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Assault Rifles - ClassName: FAL - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 405 - CollateralMoney: 0 - TradeMode:Sell
+13-16-54 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:FAL quantity:0 health:1 price:405
+13-16-56 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Assault Rifles - ClassName: AK101 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 213 - CollateralMoney: 0 - TradeMode:Sell
+13-16-56 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:AK101 quantity:0 health:1 price:213
+13-17-0 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Assault Rifles - ClassName: AK101 - Quantity: 3 - Multiplier: 3 - MaxStock: -1 - Health: 1 - Price: 641 - CollateralMoney: 0 - TradeMode:Sell
+13-17-0 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:AK101 quantity:9 health:1 price:641
+13-17-2 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Assault Rifles - ClassName: VSS - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 450 - CollateralMoney: 0 - TradeMode:Sell
+13-17-2 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:VSS quantity:0 health:1 price:450
+13-17-9 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Long Rifles - ClassName: avs36 - Quantity: 2 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 1344 - CollateralMoney: 0 - TradeMode:Sell
+13-17-9 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:avs36 quantity:4 health:0 price:1344
+13-17-11 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Long Rifles - ClassName: SKS - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 281 - CollateralMoney: 0 - TradeMode:Sell
+13-17-11 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:SKS quantity:0 health:1 price:281
+13-17-14 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Assault Rifles - ClassName: AKS74U - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 247 - CollateralMoney: 0 - TradeMode:Sell
+13-17-14 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:AKS74U quantity:0 health:1 price:247
+13-17-16 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Assault Rifles - ClassName: FAMAS - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 360 - CollateralMoney: 0 - TradeMode:Sell
+13-17-16 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:FAMAS quantity:0 health:1 price:360
+13-17-22 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Just Mags - ClassName: Mag_Saiga_5Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+13-17-22 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:Mag_Saiga_5Rnd quantity:0 health:0 price:120
+13-17-26 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Just Mags - ClassName: Mag_FAMAS_25Rnd - Quantity: 5 - Multiplier: 5 - MaxStock: -1 - Health: 0 - Price: 600 - CollateralMoney: 0 - TradeMode:Sell
+13-17-26 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:Mag_FAMAS_25Rnd quantity:25 health:0 price:600
+13-17-30 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Buttstocks - ClassName: AK_PlasticBttstck - Quantity: 11 - Multiplier: 11 - MaxStock: -1 - Health: 0 - Price: 1320 - CollateralMoney: 0 - TradeMode:Sell
+13-17-30 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:AK_PlasticBttstck quantity:121 health:0 price:1320
+13-17-33 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Just Mags - ClassName: Mag_Saiga_Drum20Rnd - Quantity: 2 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+13-17-33 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:Mag_Saiga_Drum20Rnd quantity:4 health:0 price:240
+13-17-37 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Optics - ClassName: ACOGOptic - Quantity: 7 - Multiplier: 7 - MaxStock: -1 - Health: 0 - Price: 1995 - CollateralMoney: 0 - TradeMode:Sell
+13-17-37 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:ACOGOptic quantity:49 health:0 price:1995
+13-17-39 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Just Mags - ClassName: Mag_CZ527_5rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+13-17-39 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:Mag_CZ527_5rnd quantity:0 health:0 price:120
+13-17-41 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Ammo - ClassName: RubberBox_9x19 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+13-17-41 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:RubberBox_9x19 quantity:0 health:0 price:120
+13-17-45 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Bayonets - ClassName: AK_Bayonet - Quantity: 6 - Multiplier: 6 - MaxStock: -1 - Health: 0 - Price: 792 - CollateralMoney: 0 - TradeMode:Sell
+13-17-45 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:AK_Bayonet quantity:36 health:0 price:792
+13-17-48 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Buttstocks - ClassName: AK_WoodBttstck - Quantity: 3 - Multiplier: 3 - MaxStock: -1 - Health: 0 - Price: 360 - CollateralMoney: 0 - TradeMode:Sell
+13-17-48 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:AK_WoodBttstck quantity:9 health:0 price:360
+13-17-50 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Just Mags - ClassName: Mag_CMAG_10Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+13-17-50 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:Mag_CMAG_10Rnd quantity:0 health:0 price:120
+13-17-53 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Buttstocks - ClassName: AK74_WoodBttstck - Quantity: 8 - Multiplier: 8 - MaxStock: -1 - Health: 0 - Price: 960 - CollateralMoney: 0 - TradeMode:Sell
+13-17-53 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:AK74_WoodBttstck quantity:64 health:0 price:960
+13-17-55 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Suppressors - ClassName: AK_Suppressor - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 360 - CollateralMoney: 0 - TradeMode:Sell
+13-17-55 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:AK_Suppressor quantity:0 health:0 price:360
+13-17-58 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Buttstocks - ClassName: M4_CQBBttstck - Quantity: 3 - Multiplier: 3 - MaxStock: -1 - Health: 0 - Price: 360 - CollateralMoney: 0 - TradeMode:Sell
+13-17-58 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:M4_CQBBttstck quantity:9 health:0 price:360
+13-18-3 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Buttstocks - ClassName: M4_OEBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+13-18-3 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:M4_OEBttstck quantity:0 health:0 price:120
+13-18-6 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Buttstocks - ClassName: Fal_OeBttstck - Quantity: 3 - Multiplier: 3 - MaxStock: -1 - Health: 0 - Price: 468 - CollateralMoney: 0 - TradeMode:Sell
+13-18-6 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:Fal_OeBttstck quantity:9 health:0 price:468
+13-18-8 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Buttstocks - ClassName: M4_MPBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 132 - CollateralMoney: 0 - TradeMode:Sell
+13-18-8 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:M4_MPBttstck quantity:0 health:0 price:132
+13-18-11 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Handguards & Rails - ClassName: M4_PlasticHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 72 - CollateralMoney: 0 - TradeMode:Sell
+13-18-11 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:M4_PlasticHndgrd quantity:0 health:0 price:72
+13-18-15 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Handguards & Rails - ClassName: M4_MPHndgrd - Quantity: 2 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 192 - CollateralMoney: 0 - TradeMode:Sell
+13-18-15 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:M4_MPHndgrd quantity:4 health:0 price:192
+13-18-16 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Just Mags - ClassName: Mag_lebedev_PL15_16Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+13-18-16 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:Mag_lebedev_PL15_16Rnd quantity:0 health:0 price:120
+13-18-20 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Handguards & Rails - ClassName: M4_PlasticHndgrd - Quantity: 2 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 144 - CollateralMoney: 0 - TradeMode:Sell
+13-18-20 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:M4_PlasticHndgrd quantity:4 health:0 price:144
+13-18-21 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Just Mags - ClassName: Mag_AK74_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+13-18-21 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:Mag_AK74_30Rnd quantity:0 health:0 price:120
+13-18-25 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Suppressors - ClassName: AK_Suppressor - Quantity: 2 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 720 - CollateralMoney: 0 - TradeMode:Sell
+13-18-25 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:AK_Suppressor quantity:4 health:0 price:720
+13-18-28 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Buttstocks - ClassName: AKS74U_Bttstck - Quantity: 5 - Multiplier: 5 - MaxStock: -1 - Health: 0 - Price: 720 - CollateralMoney: 0 - TradeMode:Sell
+13-18-28 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:AKS74U_Bttstck quantity:25 health:0 price:720
+13-18-30 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Optics - ClassName: PSO11Optic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 285 - CollateralMoney: 0 - TradeMode:Sell
+13-18-30 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:PSO11Optic quantity:0 health:0 price:285
+13-18-32 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Just Mags - ClassName: Mag_UMP_25Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+13-18-32 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:Mag_UMP_25Rnd quantity:0 health:0 price:120
+13-18-35 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Handguards & Rails - ClassName: AK_WoodHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 96 - CollateralMoney: 0 - TradeMode:Sell
+13-18-35 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:AK_WoodHndgrd quantity:0 health:0 price:96
+13-18-36 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Buttstocks - ClassName: M4_MPBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 132 - CollateralMoney: 0 - TradeMode:Sell
+13-18-36 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:M4_MPBttstck quantity:0 health:0 price:132
+13-18-40 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Buttstocks - ClassName: M4_OEBttstck - Quantity: 2 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+13-18-40 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:M4_OEBttstck quantity:4 health:0 price:240
+13-18-42 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Just Mags - ClassName: Mag_AK101_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+13-18-42 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:Mag_AK101_30Rnd quantity:0 health:0 price:120
+13-18-43 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Handguards & Rails - ClassName: AK_RailHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 108 - CollateralMoney: 0 - TradeMode:Sell
+13-18-43 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:AK_RailHndgrd quantity:0 health:0 price:108
+13-18-47 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Handguards & Rails - ClassName: AK_PlasticHndgrd - Quantity: 4 - Multiplier: 4 - MaxStock: -1 - Health: 0 - Price: 288 - CollateralMoney: 0 - TradeMode:Sell
+13-18-47 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:AK_PlasticHndgrd quantity:16 health:0 price:288
+13-18-48 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Just Mags - ClassName: Mag_VSS_10Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+13-18-48 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:Mag_VSS_10Rnd quantity:0 health:0 price:120
+13-18-50 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Just Mags - ClassName: Mag_Saiga_8Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+13-18-50 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:Mag_Saiga_8Rnd quantity:0 health:0 price:120
+13-18-52 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Just Mags - ClassName: Mag_AK101_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+13-18-52 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:Mag_AK101_30Rnd quantity:0 health:0 price:120
+13-18-53 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Buttstocks - ClassName: Fal_FoldingBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 156 - CollateralMoney: 0 - TradeMode:Sell
+13-18-53 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:Fal_FoldingBttstck quantity:0 health:0 price:156
+13-18-55 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Buttstocks - ClassName: AK_FoldingBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 132 - CollateralMoney: 0 - TradeMode:Sell
+13-18-55 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:AK_FoldingBttstck quantity:0 health:0 price:132
+13-18-57 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Just Mags - ClassName: ttp90mag - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 180 - CollateralMoney: 0 - TradeMode:Sell
+13-18-57 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:ttp90mag quantity:1 health:0 price:180
+13-18-58 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Suppressors - ClassName: M4_Suppressor - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 360 - CollateralMoney: 0 - TradeMode:Sell
+13-18-58 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:M4_Suppressor quantity:0 health:0 price:360
+13-19-2 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Handguards & Rails - ClassName: AK74_Hndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 108 - CollateralMoney: 0 - TradeMode:Sell
+13-19-2 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:AK74_Hndgrd quantity:0 health:0 price:108
+13-19-3 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Holler Optics - ClassName: BUISOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 132 - CollateralMoney: 0 - TradeMode:Sell
+13-19-3 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:BUISOptic quantity:0 health:0 price:132
+13-19-8 | [INFO] InsuranceRequestHandler
+13-19-8 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+13-19-13 | [INFO] InsuranceRequestHandler
+13-19-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+13-19-19 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Bags - ClassName: MVS_Rucksack_Multicam - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3000 - CollateralMoney: 0 - TradeMode:Sell
+13-19-19 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Rucksack_Multicam quantity:0 health:0 price:3000
+13-19-21 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Belts - ClassName: MVS_Sheath_Multicam - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Sell
+13-19-21 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Sheath_Multicam quantity:0 health:0 price:500
+13-19-25 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Belts - ClassName: MVS_Sheath_Multicam_Tropic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Sell
+13-19-25 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Sheath_Multicam_Tropic quantity:0 health:0 price:500
+13-19-55 | [INFO] InsuranceRequestHandler
+13-19-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+13-19-58 | [INFO] TraderID: 5 - Customer: Dr. KilledByDeath - Category: Holler Pouches - ClassName: MVS_Utility_Pouch_OD - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Sell
+13-19-58 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_Utility_Pouch_OD quantity:0 health:0 price:300
+13-20-14 | [INFO] InsuranceRequestHandler
+13-20-14 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+13-20-17 | [INFO] TraderID: 7 - Customer: Dr. KilledByDeath - Category: Holler Protective Gear - ClassName: MVS_S10Respirator_Snow - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2500 - CollateralMoney: 0 - TradeMode:Sell
+13-20-17 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_S10Respirator_Snow quantity:0 health:0 price:2500
+13-20-18 | [INFO] TraderID: 7 - Customer: Dr. KilledByDeath - Category: Holler Protective Gear - ClassName: MVS_M50Respirator_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+13-20-18 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_M50Respirator_Black quantity:0 health:0 price:2000
+13-20-20 | [INFO] TraderID: 7 - Customer: Dr. KilledByDeath - Category: Holler Protective Gear - ClassName: MVS_PMK2Respirator_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+13-20-20 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_PMK2Respirator_Black quantity:0 health:0 price:2000
+13-20-22 | [INFO] TraderID: 7 - Customer: Dr. KilledByDeath - Category: Holler Protective Gear - ClassName: MVS_S10Respirator_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2500 - CollateralMoney: 0 - TradeMode:Sell
+13-20-22 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_S10Respirator_Black quantity:0 health:0 price:2500
+13-20-24 | [INFO] TraderID: 7 - Customer: Dr. KilledByDeath - Category: Holler Protective Gear - ClassName: MVS_M50Respirator_OD - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+13-20-24 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MVS_M50Respirator_OD quantity:0 health:0 price:2000
+13-21-48 | [INFO] InsuranceRequestHandler
+13-21-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+13-22-7 | [INFO] InsuranceRequestHandler
+13-22-7 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+13-22-16 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Buy
+13-22-16 | [INFO] Player:Dr. KilledByDeath - currency amount:207363
+13-22-16 | [INFO] Transaction Buy Succeeded:Dr. KilledByDeath product:TraderPlus_Money_Dollar100 quantity:2500 health:0 price:5000
+13-22-21 | [INFO] TraderID: 4 - Customer: Dr. KilledByDeath - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Buy
+13-22-21 | [INFO] Player:Dr. KilledByDeath - currency amount:207363
+13-22-21 | [INFO] Transaction Buy Succeeded:Dr. KilledByDeath product:TraderPlus_Money_Dollar100 quantity:2500 health:0 price:5000
+13-25-4 | [INFO] GetSafeStatut
+13-34-49 | [INFO] GetSafeStatut
+13-38-51 | [INFO] InsuranceRequestHandler
+13-38-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_36774377.json
+13-38-54 | [INFO] TraderID: 5 - Customer: Roaming - Category: Holler Camping & Survival - ClassName: PortableGasStove - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 180 - CollateralMoney: 0 - TradeMode:Sell
+13-38-54 | [INFO] Transaction Sell Succeeded:Roaming product:PortableGasStove quantity:0 health:0 price:180
+13-39-10 | [INFO] InsuranceRequestHandler
+13-39-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_36774377.json
+13-39-16 | [INFO] TraderID: 6 - Customer: Roaming - Category: Holler Electronics - ClassName: Battery9V - Quantity: 50 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Sell
+13-39-16 | [INFO] Transaction Sell Succeeded:Roaming product:Battery9V quantity:50 health:0 price:300
+13-39-18 | [INFO] TraderID: 6 - Customer: Roaming - Category: Holler Electronics - ClassName: Flashlight - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 210 - CollateralMoney: 0 - TradeMode:Sell
+13-39-18 | [INFO] Transaction Sell Succeeded:Roaming product:Flashlight quantity:0 health:0 price:210
+13-39-42 | [INFO] InsuranceRequestHandler
+13-39-42 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_36774377.json
+13-39-54 | [INFO] TraderID: 2 - Customer: Roaming - Category: Holler Base Building - ClassName: Rope - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+13-39-54 | [INFO] Player:Roaming - currency amount:790
+13-39-54 | [INFO] Transaction Buy Succeeded:Roaming product:Rope quantity:0 health:0 price:100
+13-40-8 | [INFO] InsuranceRequestHandler
+13-40-8 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_36774377.json
+13-40-17 | [INFO] TraderID: 5 - Customer: Roaming - Category: Holler Hunting & Fishing - ClassName: geb_SpinnerBait2 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+13-40-17 | [INFO] Player:Roaming - currency amount:690
+13-40-17 | [INFO] Transaction Buy Succeeded:Roaming product:geb_SpinnerBait2 quantity:0 health:0 price:200
+13-41-27 | [INFO] GetSafeStatut
+13-44-37 | [INFO] GetSafeStatut
+13-44-49 | [INFO] InsuranceRequestHandler
+13-44-49 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_36774377.json
+13-44-54 | [INFO] TraderID: 0 - Customer: Roaming - Category: Holler Fish - ClassName: geb_BrownTrout - Quantity: 1000 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 360 - CollateralMoney: 0 - TradeMode:Sell
+13-44-54 | [INFO] Transaction Sell Succeeded:Roaming product:geb_BrownTrout quantity:1000 health:0 price:360
+13-45-59 | [INFO] InsuranceRequestHandler
+13-45-59 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_36774377.json
+13-46-12 | [INFO] InsuranceRequestHandler
+13-46-12 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_36774377.json
+13-46-15 | [INFO] TraderID: 5 - Customer: Roaming - Category: Holler Bags - ClassName: simplebackpack_blue_mung - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 360 - CollateralMoney: 0 - TradeMode:Sell
+13-46-15 | [INFO] Transaction Sell Succeeded:Roaming product:simplebackpack_blue_mung quantity:0 health:0 price:360
+13-46-18 | [INFO] TraderID: 5 - Customer: Roaming - Category: Holler Camping & Survival - ClassName: Compass - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 60 - CollateralMoney: 0 - TradeMode:Sell
+13-46-18 | [INFO] Transaction Sell Succeeded:Roaming product:Compass quantity:0 health:0 price:60
+13-46-26 | [INFO] InsuranceRequestHandler
+13-46-26 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_36774377.json
+13-46-43 | [INFO] InsuranceRequestHandler
+13-46-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_36774377.json
+13-46-46 | [INFO] TraderID: 0 - Customer: Roaming - Category: Holler Beverages - ClassName: WaterBottle - Quantity: 1000 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+13-46-46 | [INFO] Player:Roaming - currency amount:1270
+13-46-46 | [INFO] Transaction Buy Succeeded:Roaming product:WaterBottle quantity:1000 health:0 price:200
+13-48-4 | [INFO] GetSafeStatut
+13-58-28 | [INFO] GetSafeStatut
+13-59-9 | [INFO] GetSafeStatut
+14-55-25 | [INFO] GetSafeStatut
+14-57-19 | [INFO] InsuranceRequestHandler
+14-57-19 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+14-57-23 | [INFO] TraderID: 1 - Customer: Dr. KilledByDeath - Category: Holler SUVs & Trucks - ClassName: SUV - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 475000 - CollateralMoney: 0 - TradeMode:Sell
+14-57-23 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:SUV quantity:0 health:0 price:475000
+14-57-42 | [INFO] InsuranceRequestHandler
+14-57-42 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+14-57-47 | [INFO] TraderID: 3 - Customer: Dr. KilledByDeath - Category: Holler Good Good - ClassName: CP_CannabisBrickSkunk - Quantity: 3 - Multiplier: 3 - MaxStock: -1 - Health: 0 - Price: 14832 - CollateralMoney: 0 - TradeMode:Sell
+14-57-47 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:CP_CannabisBrickSkunk quantity:9 health:0 price:14832
+14-57-50 | [INFO] TraderID: 3 - Customer: Dr. KilledByDeath - Category: Holler Good Good - ClassName: CP_CannabisSeedsPackSkunk - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1579 - CollateralMoney: 0 - TradeMode:Sell
+14-57-50 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:CP_CannabisSeedsPackSkunk quantity:0 health:0 price:1579
+14-57-52 | [INFO] TraderID: 3 - Customer: Dr. KilledByDeath - Category: Holler Good Good - ClassName: CP_CannabisBagSkunk - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 308 - CollateralMoney: 0 - TradeMode:Sell
+14-57-52 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:CP_CannabisBagSkunk quantity:1 health:0 price:308
+14-57-56 | [INFO] TraderID: 3 - Customer: Dr. KilledByDeath - Category: Holler Good Good - ClassName: CP_CannabisBagSkunk - Quantity: 3 - Multiplier: 3 - MaxStock: -1 - Health: 0 - Price: 924 - CollateralMoney: 0 - TradeMode:Sell
+14-57-56 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:CP_CannabisBagSkunk quantity:9 health:0 price:924
+14-58-0 | [INFO] TraderID: 3 - Customer: Dr. KilledByDeath - Category: Holler Good Good - ClassName: CP_CannabisSkunk - Quantity: 4 - Multiplier: 4 - MaxStock: -1 - Health: 0 - Price: 616 - CollateralMoney: 0 - TradeMode:Sell
+14-58-0 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:CP_CannabisSkunk quantity:16 health:0 price:616
+14-58-2 | [INFO] TraderID: 3 - Customer: Dr. KilledByDeath - Category: Holler Good Good - ClassName: CP_JointBlue - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2 - CollateralMoney: 0 - TradeMode:Sell
+14-58-2 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:CP_JointBlue quantity:0 health:0 price:2
+14-58-5 | [INFO] TraderID: 3 - Customer: Dr. KilledByDeath - Category: Holler Good Good - ClassName: CP_Relief_Balm - Quantity: 48 - Multiplier: 48 - MaxStock: -1 - Health: 0 - Price: 8400 - CollateralMoney: 0 - TradeMode:Sell
+14-58-5 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:CP_Relief_Balm quantity:2304 health:0 price:8400
+14-58-23 | [INFO] InsuranceRequestHandler
+14-58-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+14-59-33 | [INFO] GetSafeStatut
+14-59-38 | [INFO] TraderID: 1 - Customer: Dr. KilledByDeath - Category: Holler SUVs & Trucks - ClassName: MotorHome_woodland - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1000000 - CollateralMoney: 0 - TradeMode:Buy
+14-59-38 | [INFO] Player:Dr. KilledByDeath - currency amount:1001428
+14-59-38 | [INFO] Transaction Buy Succeeded:Dr. KilledByDeath product:MotorHome_woodland quantity:0 health:0 price:1000000
+14-59-59 | [INFO] InsuranceRequestHandler
+14-59-59 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_839735782.json
+15-0-4 | [INFO] TraderID: 5 - Customer: TSF_Mitsu - Category: Holler Vests - ClassName: MVS_Combat_Vest_Heavy_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3000 - CollateralMoney: 0 - TradeMode:Sell
+15-0-4 | [INFO] Transaction Sell Succeeded:TSF_Mitsu product:MVS_Combat_Vest_Heavy_Black quantity:0 health:0 price:3000
+15-0-7 | [INFO] InsuranceRequestHandler
+15-0-7 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_839735782.json
+15-1-45 | [INFO] InsuranceRequestHandler
+15-1-45 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+15-1-53 | [INFO] InsuranceRequestHandler
+15-1-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+15-1-55 | [INFO] TraderID: 1 - Customer: Dr. KilledByDeath - Category: Holler SUVs & Trucks - ClassName: MotorHome_woodland - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1000000 - CollateralMoney: 0 - TradeMode:Sell
+15-1-56 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:MotorHome_woodland quantity:0 health:0 price:1000000
+15-2-42 | [INFO] TraderID: 1 - Customer: Dr. KilledByDeath - Category: Holler Civilian Cars - ClassName: ChevroletCorvette_kamo - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1000000 - CollateralMoney: 0 - TradeMode:Buy
+15-2-42 | [INFO] Player:Dr. KilledByDeath - currency amount:1001428
+15-2-42 | [INFO] Transaction Buy Succeeded:Dr. KilledByDeath product:ChevroletCorvette_kamo quantity:0 health:0 price:1000000
+15-4-34 | [INFO] InsuranceRequestHandler
+15-4-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+15-4-38 | [INFO] TraderID: 1 - Customer: Dr. KilledByDeath - Category: Holler Civilian Cars - ClassName: ChevroletCorvette_kamo - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1000000 - CollateralMoney: 0 - TradeMode:Sell
+15-4-38 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:ChevroletCorvette_kamo quantity:0 health:0 price:1000000
+15-4-39 | [INFO] InsuranceRequestHandler
+15-4-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+15-5-58 | [INFO] TraderID: 1 - Customer: Dr. KilledByDeath - Category: Holler Helis - ClassName: RFFSHeli_LittleBird_Camo - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 900000 - CollateralMoney: 0 - TradeMode:Buy
+15-5-58 | [INFO] Player:Dr. KilledByDeath - currency amount:1001428
+15-5-58 | [INFO] Transaction Buy Succeeded:Dr. KilledByDeath product:RFFSHeli_LittleBird_Camo quantity:0 health:0 price:900000
+15-6-26 | [INFO] InsuranceRequestHandler
+15-6-26 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+15-6-33 | [INFO] TraderID: 1 - Customer: Dr. KilledByDeath - Category: Holler Heli Parts - ClassName: RFFSHeli_flight_case_red - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 20000 - CollateralMoney: 0 - TradeMode:Buy
+15-6-33 | [INFO] Player:Dr. KilledByDeath - currency amount:101428
+15-6-33 | [INFO] Transaction Buy Succeeded:Dr. KilledByDeath product:RFFSHeli_flight_case_red quantity:0 health:0 price:20000
+15-8-3 | [INFO] InsuranceRequestHandler
+15-8-3 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+15-8-5 | [INFO] TraderID: 7 - Customer: Dr. KilledByDeath - Category: Holler Medical - ClassName: Morphine - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1500 - CollateralMoney: 0 - TradeMode:Sell
+15-8-5 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:Morphine quantity:0 health:0 price:1500
+15-8-7 | [INFO] TraderID: 7 - Customer: Dr. KilledByDeath - Category: Holler Medical - ClassName: BandageDressing - Quantity: 4 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+15-8-7 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:BandageDressing quantity:4 health:0 price:240
+15-8-11 | [INFO] TraderID: 7 - Customer: Dr. KilledByDeath - Category: Holler Medical - ClassName: BloodBagEmpty - Quantity: 3 - Multiplier: 3 - MaxStock: -1 - Health: 0 - Price: 450 - CollateralMoney: 0 - TradeMode:Sell
+15-8-11 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:BloodBagEmpty quantity:9 health:0 price:450
+15-8-13 | [INFO] TraderID: 7 - Customer: Dr. KilledByDeath - Category: Holler Medical - ClassName: StartKitIV - Quantity: 5 - Multiplier: 5 - MaxStock: -1 - Health: 0 - Price: 1350 - CollateralMoney: 0 - TradeMode:Sell
+15-8-13 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:StartKitIV quantity:25 health:0 price:1350
+15-8-15 | [INFO] TraderID: 7 - Customer: Dr. KilledByDeath - Category: Holler Medical - ClassName: CharcoalTablets - Quantity: 12 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 360 - CollateralMoney: 0 - TradeMode:Sell
+15-8-15 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:CharcoalTablets quantity:12 health:0 price:360
+15-8-19 | [INFO] TraderID: 7 - Customer: Dr. KilledByDeath - Category: Holler Medical - ClassName: DisinfectantSpray - Quantity: 1000 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 480 - CollateralMoney: 0 - TradeMode:Sell
+15-8-19 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:DisinfectantSpray quantity:2000 health:0 price:480
+15-8-21 | [INFO] TraderID: 7 - Customer: Dr. KilledByDeath - Category: Holler Medical - ClassName: PainkillerTablets - Quantity: 12 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 720 - CollateralMoney: 0 - TradeMode:Sell
+15-8-21 | [INFO] Transaction Sell Succeeded:Dr. KilledByDeath product:PainkillerTablets quantity:12 health:0 price:720
+15-8-39 | [INFO] InsuranceRequestHandler
+15-8-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+15-8-58 | [INFO] InsuranceRequestHandler
+15-8-58 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_369601190.json
+15-11-21 | [INFO] GetSafeStatut
+15-15-55 | [INFO] GetSafeStatut
+15-17-14 | [INFO] GetSafeStatut
+15-18-13 | [INFO] InsuranceRequestHandler
+15-18-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_839735782.json
+15-18-16 | [INFO] TraderID: 1 - Customer: TSF_Mitsu - Category: Holler Vanilla Vehicle Components - ClassName: Sedan_02_Trunk_Grey - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Sell
+15-18-16 | [INFO] Transaction Sell Succeeded:TSF_Mitsu product:Sedan_02_Trunk_Grey quantity:0 health:0 price:300
+15-18-19 | [INFO] TraderID: 1 - Customer: TSF_Mitsu - Category: Holler Vanilla Vehicle Components - ClassName: Sedan_02_Hood_Grey - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Sell
+15-18-19 | [INFO] Transaction Sell Succeeded:TSF_Mitsu product:Sedan_02_Hood_Grey quantity:0 health:0 price:300
+15-18-22 | [INFO] TraderID: 1 - Customer: TSF_Mitsu - Category: Holler Vanilla Vehicle Components - ClassName: Sedan_02_Door_1_1_Grey - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Sell
+15-18-22 | [INFO] Transaction Sell Succeeded:TSF_Mitsu product:Sedan_02_Door_1_1_Grey quantity:0 health:0 price:300
+15-18-53 | [INFO] GetSafeStatut
+15-20-51 | [INFO] GetSafeStatut
+15-21-51 | [INFO] InsuranceRequestHandler
+15-21-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_839735782.json
+15-21-55 | [INFO] TraderID: 1 - Customer: TSF_Mitsu - Category: Holler Vanilla Vehicle Components - ClassName: Sedan_02_Wheel - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Sell
+15-21-55 | [INFO] Transaction Sell Succeeded:TSF_Mitsu product:Sedan_02_Wheel quantity:0 health:0 price:300
+15-21-56 | [INFO] TraderID: 1 - Customer: TSF_Mitsu - Category: Holler Vanilla Vehicle Components - ClassName: Sedan_02_Wheel - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Sell
+15-21-56 | [INFO] Transaction Sell Succeeded:TSF_Mitsu product:Sedan_02_Wheel quantity:0 health:0 price:300
+15-21-59 | [INFO] TraderID: 1 - Customer: TSF_Mitsu - Category: Holler Vanilla Vehicle Components - ClassName: Sedan_02_Door_1_2_Grey - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Sell
+15-21-59 | [INFO] Transaction Sell Succeeded:TSF_Mitsu product:Sedan_02_Door_1_2_Grey quantity:0 health:0 price:300
+15-22-0 | [INFO] TraderID: 1 - Customer: TSF_Mitsu - Category: Holler Vanilla Vehicle Components - ClassName: Sedan_02_Wheel - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Sell
+15-22-0 | [INFO] Transaction Sell Succeeded:TSF_Mitsu product:Sedan_02_Wheel quantity:0 health:0 price:300
+15-22-2 | [INFO] TraderID: 1 - Customer: TSF_Mitsu - Category: Holler Vanilla Vehicle Components - ClassName: Sedan_02_Wheel - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Sell
+15-22-2 | [INFO] Transaction Sell Succeeded:TSF_Mitsu product:Sedan_02_Wheel quantity:0 health:0 price:300
+15-22-3 | [INFO] TraderID: 1 - Customer: TSF_Mitsu - Category: Holler Vanilla Auto Parts - ClassName: HeadlightH7 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 48 - CollateralMoney: 0 - TradeMode:Sell
+15-22-3 | [INFO] Transaction Sell Succeeded:TSF_Mitsu product:HeadlightH7 quantity:0 health:0 price:48
+15-22-5 | [INFO] TraderID: 1 - Customer: TSF_Mitsu - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar20 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 20 - CollateralMoney: 0 - TradeMode:Sell
+15-22-5 | [INFO] Transaction Sell Succeeded:TSF_Mitsu product:TraderPlus_Money_Dollar20 quantity:1 health:0 price:20
+15-22-8 | [INFO] TraderID: 1 - Customer: TSF_Mitsu - Category: Holler Vanilla Vehicle Components - ClassName: Sedan_02_Door_2_1_Grey - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Sell
+15-22-8 | [INFO] Transaction Sell Succeeded:TSF_Mitsu product:Sedan_02_Door_2_1_Grey quantity:0 health:0 price:300
+15-22-10 | [INFO] TraderID: 1 - Customer: TSF_Mitsu - Category: Holler Vanilla Auto Parts - ClassName: HeadlightH7 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 48 - CollateralMoney: 0 - TradeMode:Sell
+15-22-10 | [INFO] Transaction Sell Succeeded:TSF_Mitsu product:HeadlightH7 quantity:0 health:0 price:48
+15-22-48 | [INFO] GetSafeStatut
+15-30-29 | [INFO] GetSafeStatut
+15-30-53 | [INFO] InsuranceRequestHandler
+15-30-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_839735782.json
+15-30-55 | [INFO] TraderID: 1 - Customer: TSF_Mitsu - Category: Holler Vanilla Vehicle Components - ClassName: Sedan_02_Door_2_2_Grey - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Sell
+15-30-55 | [INFO] Transaction Sell Succeeded:TSF_Mitsu product:Sedan_02_Door_2_2_Grey quantity:0 health:0 price:300
+15-30-57 | [INFO] TraderID: 1 - Customer: TSF_Mitsu - Category: Holler Vanilla Auto Parts - ClassName: CarRadiator - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+15-30-57 | [INFO] Transaction Sell Succeeded:TSF_Mitsu product:CarRadiator quantity:0 health:0 price:240
+15-32-15 | [INFO] InsuranceRequestHandler
+15-32-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_839735782.json
+15-38-40 | [INFO] RefreshLifeTimeCargo
+16-12-39 | [INFO] GetSafeStatut
+16-12-39 | [INFO] GetSafeStatut
+16-12-54 | [INFO] InsuranceRequestHandler
+16-12-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-12-55 | [INFO] InsuranceRequestHandler
+16-12-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+16-13-2 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Gear - ClassName: MVS_OpsCore_Yellow_Camo_Bunker - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+16-13-2 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_OpsCore_Yellow_Camo_Bunker quantity:0 health:0 price:2000
+16-13-7 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Vests - ClassName: MVS_Combat_Vest_Heavy_Snow - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3000 - CollateralMoney: 0 - TradeMode:Sell
+16-13-7 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_Combat_Vest_Heavy_Snow quantity:0 health:0 price:3000
+16-13-8 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Optics - ClassName: ACOGOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 285 - CollateralMoney: 0 - TradeMode:Sell
+16-13-8 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:ACOGOptic quantity:0 health:0 price:285
+16-13-11 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Assault Rifles - ClassName: AugShort - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 435 - CollateralMoney: 0 - TradeMode:Sell
+16-13-11 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:AugShort quantity:0 health:0 price:435
+16-13-12 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Bags - ClassName: MVS_Compact_1_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1600 - CollateralMoney: 0 - TradeMode:Sell
+16-13-12 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_Compact_1_Tan quantity:0 health:0 price:1600
+16-13-14 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Just Mags - ClassName: Mag_FAMAS_25Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+16-13-14 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:Mag_FAMAS_25Rnd quantity:0 health:0 price:120
+16-13-14 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Bags - ClassName: MVS_SlingPack_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2500 - CollateralMoney: 0 - TradeMode:Sell
+16-13-14 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_SlingPack_Tan quantity:0 health:0 price:2500
+16-13-16 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Bags - ClassName: MVS_SlingPack_OD - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2500 - CollateralMoney: 0 - TradeMode:Sell
+16-13-16 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_SlingPack_OD quantity:0 health:0 price:2500
+16-13-18 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Bags - ClassName: MVS_Assault_Pack_OD - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3000 - CollateralMoney: 0 - TradeMode:Sell
+16-13-18 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_Assault_Pack_OD quantity:0 health:0 price:3000
+16-13-18 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Sub Machine Guns - ClassName: ttp90 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 510 - CollateralMoney: 0 - TradeMode:Sell
+16-13-18 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:ttp90 quantity:0 health:0 price:510
+16-13-20 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Bags - ClassName: MVS_Pack_ERDL - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+16-13-20 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_Pack_ERDL quantity:0 health:0 price:2000
+16-13-23 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Pouches - ClassName: MVS_Medical_Pouch_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Sell
+16-13-23 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_Medical_Pouch_Tan quantity:0 health:0 price:500
+16-13-25 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Gear - ClassName: MVS_Helmet_01_Multicam_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+16-13-25 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_Helmet_01_Multicam_Black quantity:0 health:0 price:2000
+16-13-26 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Assault Rifles - ClassName: FAL - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 405 - CollateralMoney: 0 - TradeMode:Sell
+16-13-26 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:FAL quantity:0 health:1 price:405
+16-13-28 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Assault Rifles - ClassName: AKS74U - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 247 - CollateralMoney: 0 - TradeMode:Sell
+16-13-28 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:AKS74U quantity:0 health:1 price:247
+16-13-29 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Bags - ClassName: MVS_Assault_Pack_Forest_Bunker - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3000 - CollateralMoney: 0 - TradeMode:Sell
+16-13-29 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_Assault_Pack_Forest_Bunker quantity:0 health:0 price:3000
+16-13-31 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Optics - ClassName: PSO11Optic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 285 - CollateralMoney: 0 - TradeMode:Sell
+16-13-31 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:PSO11Optic quantity:0 health:0 price:285
+16-13-33 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Ghillies - ClassName: GhillieBushrag_Mossy - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1200 - CollateralMoney: 0 - TradeMode:Sell
+16-13-33 | [INFO] Transaction Sell Succeeded:Kinetsu product:GhillieBushrag_Mossy quantity:0 health:0 price:1200
+16-13-37 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Pouches - ClassName: MVS_Taco_Pouch_OD - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Sell
+16-13-37 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_Taco_Pouch_OD quantity:0 health:0 price:500
+16-13-40 | [INFO] InsuranceRequestHandler
+16-13-40 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-13-54 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Gear - ClassName: MVS_ArmoredHelmet_ERDL - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3000 - CollateralMoney: 0 - TradeMode:Sell
+16-13-54 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_ArmoredHelmet_ERDL quantity:0 health:0 price:3000
+16-13-57 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Gear - ClassName: MVS_CombatShirt_Snow - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1000 - CollateralMoney: 0 - TradeMode:Sell
+16-13-57 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_CombatShirt_Snow quantity:0 health:0 price:1000
+16-13-59 | [INFO] InsuranceRequestHandler
+16-13-59 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+16-14-0 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Bags - ClassName: MVS_Pack_Multicam_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+16-14-0 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_Pack_Multicam_Black quantity:0 health:0 price:2000
+16-14-4 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Gear - ClassName: MVS_Helmet_01_OD - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+16-14-4 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_Helmet_01_OD quantity:0 health:0 price:2000
+16-14-5 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Gear - ClassName: MVS_GorkaPants - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1200 - CollateralMoney: 0 - TradeMode:Sell
+16-14-5 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_GorkaPants quantity:0 health:0 price:1200
+16-14-7 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Gear - ClassName: MVS_Comtacs_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Sell
+16-14-7 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_Comtacs_Black quantity:0 health:0 price:5000
+16-14-10 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Gear - ClassName: MVS_Cap_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Sell
+16-14-10 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_Cap_Black quantity:0 health:0 price:500
+16-14-11 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Vests - ClassName: MVS_ChestRig_Multicam_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1500 - CollateralMoney: 0 - TradeMode:Sell
+16-14-11 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_ChestRig_Multicam_Black quantity:0 health:0 price:1500
+16-14-13 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Bags - ClassName: MVS_Pack_Multicam_Tropic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+16-14-13 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_Pack_Multicam_Tropic quantity:0 health:0 price:2000
+16-14-15 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Bags - ClassName: MVS_Rucksack_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3000 - CollateralMoney: 0 - TradeMode:Sell
+16-14-15 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_Rucksack_Black quantity:0 health:0 price:3000
+16-14-17 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Gear - ClassName: MVS_Facemask_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Sell
+16-14-17 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_Facemask_Tan quantity:0 health:0 price:500
+16-14-19 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Gear - ClassName: MVS_GorkaJacket_Multicam_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1200 - CollateralMoney: 0 - TradeMode:Sell
+16-14-19 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_GorkaJacket_Multicam_Black quantity:0 health:0 price:1200
+16-14-20 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Gear - ClassName: MVS_ArmoredHelmet_Multicam_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3000 - CollateralMoney: 0 - TradeMode:Sell
+16-14-20 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_ArmoredHelmet_Multicam_Black quantity:0 health:0 price:3000
+16-14-22 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Gear - ClassName: MVS_Shirt_BDU_Snow - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1500 - CollateralMoney: 0 - TradeMode:Sell
+16-14-22 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_Shirt_BDU_Snow quantity:0 health:0 price:1500
+16-14-23 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Bags - ClassName: MVS_Compact_2_ERDL - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1800 - CollateralMoney: 0 - TradeMode:Sell
+16-14-23 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_Compact_2_ERDL quantity:0 health:0 price:1800
+16-14-26 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Gear - ClassName: MVS_Cap_Multicam - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Sell
+16-14-26 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_Cap_Multicam quantity:0 health:0 price:500
+16-14-29 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Gear - ClassName: MVS_6B47_Helmet_Yellow_Camo_Bunker - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2500 - CollateralMoney: 0 - TradeMode:Sell
+16-14-29 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_6B47_Helmet_Yellow_Camo_Bunker quantity:0 health:0 price:2500
+16-14-40 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Vests - ClassName: MVS_Combat_Vest_Heavy_Multicam - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3000 - CollateralMoney: 0 - TradeMode:Sell
+16-14-40 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_Combat_Vest_Heavy_Multicam quantity:0 health:0 price:3000
+16-14-43 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Gear - ClassName: MVS_Helmet_02_Snow - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1800 - CollateralMoney: 0 - TradeMode:Sell
+16-14-43 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_Helmet_02_Snow quantity:0 health:0 price:1800
+16-14-46 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Bags - ClassName: MVS_Radio_Pack_Multicam - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2500 - CollateralMoney: 0 - TradeMode:Sell
+16-14-46 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_Radio_Pack_Multicam quantity:0 health:0 price:2500
+16-14-49 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Gear - ClassName: MVS_WarriorHelmet_Snow - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 4000 - CollateralMoney: 0 - TradeMode:Sell
+16-14-49 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_WarriorHelmet_Snow quantity:0 health:0 price:4000
+16-14-52 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Vests - ClassName: MVS_Combat_Vest_OD - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+16-14-52 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_Combat_Vest_OD quantity:0 health:0 price:2000
+16-14-54 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Gear - ClassName: MVS_ArmoredHelmet_Snow - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3000 - CollateralMoney: 0 - TradeMode:Sell
+16-14-54 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_ArmoredHelmet_Snow quantity:0 health:0 price:3000
+16-14-57 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Vests - ClassName: MVS_ChestRig_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1500 - CollateralMoney: 0 - TradeMode:Sell
+16-14-57 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_ChestRig_Black quantity:0 health:0 price:1500
+16-15-0 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Gear - ClassName: MVS_CombatShirt_Multicam_Tropic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1000 - CollateralMoney: 0 - TradeMode:Sell
+16-15-0 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_CombatShirt_Multicam_Tropic quantity:0 health:0 price:1000
+16-15-2 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Gear - ClassName: MVS_6B47_Helmet_OD - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2500 - CollateralMoney: 0 - TradeMode:Sell
+16-15-2 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_6B47_Helmet_OD quantity:0 health:0 price:2500
+16-15-5 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Gear - ClassName: MVS_OpsCore_ERDL - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+16-15-5 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_OpsCore_ERDL quantity:0 health:0 price:2000
+16-15-7 | [INFO] InsuranceRequestHandler
+16-15-7 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+16-15-8 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Gear - ClassName: MVS_6B47_Helmet_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2500 - CollateralMoney: 0 - TradeMode:Sell
+16-15-8 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_6B47_Helmet_Tan quantity:0 health:0 price:2500
+16-15-18 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Gear - ClassName: MVS_GorkaPants_Multicam_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1200 - CollateralMoney: 0 - TradeMode:Sell
+16-15-18 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_GorkaPants_Multicam_Black quantity:0 health:0 price:1200
+16-15-25 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Pouches - ClassName: MVS_Admin_Pouch_Forest_Bunker - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Sell
+16-15-25 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_Admin_Pouch_Forest_Bunker quantity:0 health:0 price:500
+16-16-4 | [INFO] InsuranceRequestHandler
+16-16-4 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+16-16-9 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Vests - ClassName: MVS_ChestRig_Yellow_Camo_Bunker - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1500 - CollateralMoney: 0 - TradeMode:Sell
+16-16-9 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_ChestRig_Yellow_Camo_Bunker quantity:0 health:0 price:1500
+16-16-11 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Pouches - ClassName: MVS_Magazine_Pouch_Multicam_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 800 - CollateralMoney: 0 - TradeMode:Sell
+16-16-11 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_Magazine_Pouch_Multicam_Black quantity:0 health:0 price:800
+16-16-48 | [INFO] InsuranceRequestHandler
+16-16-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+16-16-51 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Vests - ClassName: MVS_Combat_Vest_Heavy_Yellow_Camo_Bunker - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3000 - CollateralMoney: 0 - TradeMode:Sell
+16-16-51 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_Combat_Vest_Heavy_Yellow_Camo_Bunker quantity:0 health:0 price:3000
+16-16-53 | [INFO] TraderID: 5 - Customer: Kinetsu - Category: Holler Pouches - ClassName: MVS_Medical_Pouch_Multicam_Tropic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Sell
+16-16-53 | [INFO] Transaction Sell Succeeded:Kinetsu product:MVS_Medical_Pouch_Multicam_Tropic quantity:0 health:0 price:500
+16-16-57 | [INFO] InsuranceRequestHandler
+16-16-57 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-17-2 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Gear - ClassName: MVS_CombatShirt_Multicam - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1000 - CollateralMoney: 0 - TradeMode:Sell
+16-17-2 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_CombatShirt_Multicam quantity:0 health:0 price:1000
+16-17-6 | [INFO] InsuranceRequestHandler
+16-17-6 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+16-17-13 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Vests - ClassName: MVS_Combat_Vest_Multicam_Tropic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Sell
+16-17-13 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_Combat_Vest_Multicam_Tropic quantity:0 health:0 price:2000
+16-17-16 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Pouches - ClassName: MVS_Heavy_Pouch_Snow - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 800 - CollateralMoney: 0 - TradeMode:Sell
+16-17-16 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_Heavy_Pouch_Snow quantity:0 health:0 price:800
+16-17-53 | [INFO] GetSafeStatut
+16-17-58 | [INFO] InsuranceRequestHandler
+16-17-58 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-18-5 | [INFO] InsuranceRequestHandler
+16-18-5 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+16-18-9 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Just Mags - ClassName: Mag_Saiga_8Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+16-18-9 | [INFO] Transaction Sell Succeeded:Kinetsu product:Mag_Saiga_8Rnd quantity:0 health:0 price:120
+16-18-14 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Assault Rifles - ClassName: AugShort - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 435 - CollateralMoney: 0 - TradeMode:Sell
+16-18-14 | [INFO] Transaction Sell Succeeded:Kinetsu product:AugShort quantity:0 health:0 price:435
+16-18-21 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Just Mags - ClassName: Mag_Saiga_Drum20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+16-18-21 | [INFO] Transaction Sell Succeeded:Kinetsu product:Mag_Saiga_Drum20Rnd quantity:0 health:0 price:120
+16-18-23 | [INFO] GetSafeStatut
+16-18-24 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Buttstocks - ClassName: Fal_OeBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 156 - CollateralMoney: 0 - TradeMode:Sell
+16-18-24 | [INFO] Transaction Sell Succeeded:Kinetsu product:Fal_OeBttstck quantity:0 health:0 price:156
+16-18-24 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Pouches - ClassName: MVS_Magazine_Pouch_ERDL - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 800 - CollateralMoney: 0 - TradeMode:Sell
+16-18-24 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_Magazine_Pouch_ERDL quantity:0 health:0 price:800
+16-19-9 | [INFO] InsuranceRequestHandler
+16-19-9 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-19-13 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Buttstocks - ClassName: Fal_OeBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 156 - CollateralMoney: 0 - TradeMode:Sell
+16-19-13 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:Fal_OeBttstck quantity:0 health:0 price:156
+16-19-15 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Buttstocks - ClassName: AKS74U_Bttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 144 - CollateralMoney: 0 - TradeMode:Sell
+16-19-15 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:AKS74U_Bttstck quantity:0 health:0 price:144
+16-19-18 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Optics - ClassName: ACOGOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 285 - CollateralMoney: 0 - TradeMode:Sell
+16-19-18 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:ACOGOptic quantity:0 health:0 price:285
+16-19-18 | [INFO] InsuranceRequestHandler
+16-19-18 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+16-19-22 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Assault Rifles - ClassName: AKM - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 292 - CollateralMoney: 0 - TradeMode:Sell
+16-19-22 | [INFO] Transaction Sell Succeeded:Kinetsu product:AKM quantity:0 health:1 price:292
+16-19-25 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Assault Rifles - ClassName: M4A1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 396 - CollateralMoney: 0 - TradeMode:Sell
+16-19-25 | [INFO] Transaction Sell Succeeded:Kinetsu product:M4A1 quantity:0 health:1 price:396
+16-19-26 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+16-19-26 | [INFO] Player:EpIcRaGeZ - currency amount:167555
+16-19-26 | [INFO] Transaction Buy Succeeded:EpIcRaGeZ product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+16-19-29 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Buttstocks - ClassName: M4_OEBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+16-19-29 | [INFO] Transaction Sell Succeeded:Kinetsu product:M4_OEBttstck quantity:0 health:0 price:120
+16-19-29 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+16-19-29 | [INFO] Player:EpIcRaGeZ - currency amount:167555
+16-19-29 | [INFO] Transaction Buy Succeeded:EpIcRaGeZ product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+16-19-31 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Buttstocks - ClassName: AK_PlasticBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+16-19-31 | [INFO] Transaction Sell Succeeded:Kinetsu product:AK_PlasticBttstck quantity:0 health:0 price:120
+16-19-32 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+16-19-32 | [INFO] Player:EpIcRaGeZ - currency amount:167555
+16-19-32 | [INFO] Transaction Buy Succeeded:EpIcRaGeZ product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+16-19-33 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+16-19-33 | [INFO] Player:EpIcRaGeZ - currency amount:167555
+16-19-33 | [INFO] Transaction Buy Succeeded:EpIcRaGeZ product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+16-19-34 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Handguards & Rails - ClassName: M4_PlasticHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 72 - CollateralMoney: 0 - TradeMode:Sell
+16-19-34 | [INFO] Transaction Sell Succeeded:Kinetsu product:M4_PlasticHndgrd quantity:0 health:0 price:72
+16-19-35 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+16-19-35 | [INFO] Player:EpIcRaGeZ - currency amount:167555
+16-19-35 | [INFO] Transaction Buy Succeeded:EpIcRaGeZ product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+16-19-36 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Optics - ClassName: M4_CarryHandleOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 156 - CollateralMoney: 0 - TradeMode:Sell
+16-19-36 | [INFO] Transaction Sell Succeeded:Kinetsu product:M4_CarryHandleOptic quantity:0 health:0 price:156
+16-19-53 | [INFO] GetSafeStatut
+16-20-2 | [INFO] InsuranceRequestHandler
+16-20-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+16-20-5 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Handguards & Rails - ClassName: AK74_Hndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 108 - CollateralMoney: 0 - TradeMode:Sell
+16-20-5 | [INFO] Transaction Sell Succeeded:Kinetsu product:AK74_Hndgrd quantity:0 health:0 price:108
+16-20-10 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Suppressors - ClassName: PistolSuppressor - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+16-20-11 | [INFO] Transaction Sell Succeeded:Kinetsu product:PistolSuppressor quantity:0 health:0 price:240
+16-20-20 | [INFO] InsuranceRequestHandler
+16-20-20 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_442990275.json
+16-20-24 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: BloodBagEmpty - Quantity: 4 - Multiplier: 4 - MaxStock: -1 - Health: 0 - Price: 600 - CollateralMoney: 0 - TradeMode:Sell
+16-20-24 | [INFO] Transaction Sell Succeeded:CyberPunked product:BloodBagEmpty quantity:16 health:0 price:600
+16-20-32 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: BandageDressing - Quantity: 44 - Multiplier: 11 - MaxStock: -1 - Health: 0 - Price: 2640 - CollateralMoney: 0 - TradeMode:Sell
+16-20-32 | [INFO] Transaction Sell Succeeded:CyberPunked product:BandageDressing quantity:484 health:0 price:2640
+16-20-34 | [INFO] InsuranceRequestHandler
+16-20-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+16-20-35 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: BloodTestKit - Quantity: 14 - Multiplier: 14 - MaxStock: -1 - Health: 0 - Price: 3360 - CollateralMoney: 0 - TradeMode:Sell
+16-20-35 | [INFO] Transaction Sell Succeeded:CyberPunked product:BloodTestKit quantity:196 health:0 price:3360
+16-20-37 | [INFO] TraderID: 0 - Customer: Kinetsu - Category: Holler Pelts - ClassName: WolfPelt - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Sell
+16-20-37 | [INFO] Transaction Sell Succeeded:Kinetsu product:WolfPelt quantity:0 health:0 price:400
+16-20-38 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: Thermometer - Quantity: 7 - Multiplier: 7 - MaxStock: -1 - Health: 0 - Price: 420 - CollateralMoney: 0 - TradeMode:Sell
+16-20-38 | [INFO] Transaction Sell Succeeded:CyberPunked product:Thermometer quantity:49 health:0 price:420
+16-20-40 | [INFO] TraderID: 0 - Customer: Kinetsu - Category: Holler Pelts - ClassName: WolfPelt - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 300 - CollateralMoney: 0 - TradeMode:Sell
+16-20-40 | [INFO] Transaction Sell Succeeded:Kinetsu product:WolfPelt quantity:0 health:1 price:300
+16-20-42 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: Epinephrine - Quantity: 5 - Multiplier: 5 - MaxStock: -1 - Health: 0 - Price: 7500 - CollateralMoney: 0 - TradeMode:Sell
+16-20-42 | [INFO] Transaction Sell Succeeded:CyberPunked product:Epinephrine quantity:25 health:0 price:7500
+16-20-43 | [INFO] TraderID: 0 - Customer: Kinetsu - Category: Holler Pelts - ClassName: Radioactive_bear_pelt - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Sell
+16-20-43 | [INFO] Transaction Sell Succeeded:Kinetsu product:Radioactive_bear_pelt quantity:0 health:0 price:5000
+16-20-45 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: StartKitIV - Quantity: 14 - Multiplier: 14 - MaxStock: -1 - Health: 0 - Price: 3780 - CollateralMoney: 0 - TradeMode:Sell
+16-20-45 | [INFO] Transaction Sell Succeeded:CyberPunked product:StartKitIV quantity:196 health:0 price:3780
+16-20-47 | [INFO] InsuranceRequestHandler
+16-20-47 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+16-20-48 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: DisinfectantSpray - Quantity: 1500 - Multiplier: 3 - MaxStock: -1 - Health: 0 - Price: 720 - CollateralMoney: 0 - TradeMode:Sell
+16-20-48 | [INFO] Transaction Sell Succeeded:CyberPunked product:DisinfectantSpray quantity:4500 health:0 price:720
+16-20-49 | [INFO] InsuranceRequestHandler
+16-20-49 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-20-51 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: CharcoalTablets - Quantity: 72 - Multiplier: 6 - MaxStock: -1 - Health: 0 - Price: 2160 - CollateralMoney: 0 - TradeMode:Sell
+16-20-51 | [INFO] Transaction Sell Succeeded:CyberPunked product:CharcoalTablets quantity:432 health:0 price:2160
+16-20-54 | [INFO] TraderID: 6 - Customer: EpIcRaGeZ - Category: Holler Collectibles - ClassName: Collectable_PokemonCard_Ninetales - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 10000 - CollateralMoney: 0 - TradeMode:Sell
+16-20-54 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:Collectable_PokemonCard_Ninetales quantity:0 health:0 price:10000
+16-20-55 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: SalineBag - Quantity: 2 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 960 - CollateralMoney: 0 - TradeMode:Sell
+16-20-55 | [INFO] Transaction Sell Succeeded:CyberPunked product:SalineBag quantity:4 health:0 price:960
+16-20-58 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: Morphine - Quantity: 3 - Multiplier: 3 - MaxStock: -1 - Health: 0 - Price: 4500 - CollateralMoney: 0 - TradeMode:Sell
+16-20-58 | [INFO] Transaction Sell Succeeded:CyberPunked product:Morphine quantity:9 health:0 price:4500
+16-21-0 | [INFO] TraderID: 6 - Customer: EpIcRaGeZ - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+16-21-0 | [INFO] Player:EpIcRaGeZ - currency amount:177555
+16-21-0 | [INFO] Transaction Buy Succeeded:EpIcRaGeZ product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+16-21-2 | [INFO] TraderID: 6 - Customer: EpIcRaGeZ - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+16-21-2 | [INFO] Player:EpIcRaGeZ - currency amount:177555
+16-21-2 | [INFO] Transaction Buy Succeeded:EpIcRaGeZ product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+16-21-2 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: DisinfectantAlcohol - Quantity: 400 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 720 - CollateralMoney: 0 - TradeMode:Sell
+16-21-2 | [INFO] Transaction Sell Succeeded:CyberPunked product:DisinfectantAlcohol quantity:800 health:0 price:720
+16-21-5 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: TetracyclineAntibiotics - Quantity: 12 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 840 - CollateralMoney: 0 - TradeMode:Sell
+16-21-5 | [INFO] Transaction Sell Succeeded:CyberPunked product:TetracyclineAntibiotics quantity:12 health:0 price:840
+16-21-7 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: PainkillerTablets - Quantity: 12 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 720 - CollateralMoney: 0 - TradeMode:Sell
+16-21-7 | [INFO] Transaction Sell Succeeded:CyberPunked product:PainkillerTablets quantity:12 health:0 price:720
+16-21-9 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: FirstAidKit - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 90 - CollateralMoney: 0 - TradeMode:Sell
+16-21-9 | [INFO] Transaction Sell Succeeded:CyberPunked product:FirstAidKit quantity:0 health:1 price:90
+16-21-22 | [INFO] InsuranceRequestHandler
+16-21-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-21-24 | [INFO] InsuranceRequestHandler
+16-21-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_442990275.json
+16-21-26 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Bags - ClassName: MVS_Rucksack_Forest_Bunker - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3000 - CollateralMoney: 0 - TradeMode:Sell
+16-21-26 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_Rucksack_Forest_Bunker quantity:0 health:0 price:3000
+16-21-27 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: FirstAidKit - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 90 - CollateralMoney: 0 - TradeMode:Sell
+16-21-27 | [INFO] Transaction Sell Succeeded:CyberPunked product:FirstAidKit quantity:0 health:1 price:90
+16-21-29 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: FirstAidKit - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 90 - CollateralMoney: 0 - TradeMode:Sell
+16-21-29 | [INFO] Transaction Sell Succeeded:CyberPunked product:FirstAidKit quantity:0 health:1 price:90
+16-21-42 | [INFO] InsuranceRequestHandler
+16-21-42 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-21-44 | [INFO] InsuranceRequestHandler
+16-21-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_442990275.json
+16-21-48 | [INFO] TraderID: 3 - Customer: CyberPunked - Category: Holler Good Good - ClassName: CP_Relief_Balm - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 8750 - CollateralMoney: 0 - TradeMode:Sell
+16-21-48 | [INFO] Transaction Sell Succeeded:CyberPunked product:CP_Relief_Balm quantity:2500 health:0 price:8750
+16-21-49 | [INFO] TraderID: 5 - Customer: EpIcRaGeZ - Category: Holler Pouches - ClassName: MVS_Utility_Pouch_Multicam_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Sell
+16-21-49 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:MVS_Utility_Pouch_Multicam_Black quantity:0 health:0 price:300
+16-21-51 | [INFO] TraderID: 3 - Customer: CyberPunked - Category: Holler Good Good - ClassName: CP_Relief_Balm - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 8750 - CollateralMoney: 0 - TradeMode:Sell
+16-21-51 | [INFO] Transaction Sell Succeeded:CyberPunked product:CP_Relief_Balm quantity:2500 health:0 price:8750
+16-21-55 | [INFO] TraderID: 3 - Customer: CyberPunked - Category: Holler Good Good - ClassName: CP_Relief_Balm - Quantity: 20 - Multiplier: 20 - MaxStock: -1 - Health: 0 - Price: 3500 - CollateralMoney: 0 - TradeMode:Sell
+16-21-55 | [INFO] Transaction Sell Succeeded:CyberPunked product:CP_Relief_Balm quantity:400 health:0 price:3500
+16-21-57 | [INFO] TraderID: 3 - Customer: CyberPunked - Category: Holler Good Good - ClassName: CP_CannabisSeedsPackStardawg - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2392 - CollateralMoney: 0 - TradeMode:Sell
+16-21-57 | [INFO] Transaction Sell Succeeded:CyberPunked product:CP_CannabisSeedsPackStardawg quantity:0 health:0 price:2392
+16-21-59 | [INFO] TraderID: 3 - Customer: CyberPunked - Category: Holler Good Good - ClassName: CP_CannabisSeedsPackSkunk - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1579 - CollateralMoney: 0 - TradeMode:Sell
+16-21-59 | [INFO] Transaction Sell Succeeded:CyberPunked product:CP_CannabisSeedsPackSkunk quantity:0 health:0 price:1579
+16-22-10 | [INFO] InsuranceRequestHandler
+16-22-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-22-14 | [INFO] TraderID: 0 - Customer: EpIcRaGeZ - Category: Holler Pelts - ClassName: DeerPelt - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Sell
+16-22-14 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:DeerPelt quantity:0 health:0 price:400
+16-22-18 | [INFO] InsuranceRequestHandler
+16-22-18 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-22-23 | [INFO] TraderID: 0 - Customer: EpIcRaGeZ - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+16-22-23 | [INFO] Player:EpIcRaGeZ - currency amount:181255
+16-22-23 | [INFO] Transaction Buy Succeeded:EpIcRaGeZ product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+16-22-25 | [INFO] TraderID: 0 - Customer: EpIcRaGeZ - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+16-22-25 | [INFO] Player:EpIcRaGeZ - currency amount:181255
+16-22-25 | [INFO] Transaction Buy Succeeded:EpIcRaGeZ product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+16-23-17 | [INFO] InsuranceRequestHandler
+16-23-17 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-23-21 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Just Mags - ClassName: Mag_CMAG_10Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+16-23-21 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:Mag_CMAG_10Rnd quantity:0 health:0 price:120
+16-23-25 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Just Mags - ClassName: Mag_CMAG_10Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+16-23-25 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:Mag_CMAG_10Rnd quantity:0 health:0 price:120
+16-25-49 | [INFO] InsuranceRequestHandler
+16-25-49 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_442990275.json
+16-25-58 | [INFO] TraderID: 4 - Customer: CyberPunked - Category: Holler Just Mags - ClassName: Mag_CZ527_5rnd - Quantity: 2 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+16-25-58 | [INFO] Transaction Sell Succeeded:CyberPunked product:Mag_CZ527_5rnd quantity:4 health:0 price:240
+16-26-3 | [INFO] InsuranceRequestHandler
+16-26-3 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_442990275.json
+16-26-6 | [INFO] TraderID: 4 - Customer: CyberPunked - Category: Holler Suppressors - ClassName: PistolSuppressor - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+16-26-6 | [INFO] Player:CyberPunked - currency amount:451808
+16-26-6 | [INFO] Transaction Buy Succeeded:CyberPunked product:PistolSuppressor quantity:0 health:0 price:400
+16-26-8 | [INFO] TraderID: 4 - Customer: CyberPunked - Category: Holler Suppressors - ClassName: PistolSuppressor - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+16-26-8 | [INFO] Player:CyberPunked - currency amount:451408
+16-26-8 | [INFO] Transaction Buy Succeeded:CyberPunked product:PistolSuppressor quantity:0 health:0 price:400
+16-26-13 | [INFO] TraderID: 4 - Customer: CyberPunked - Category: Holler Just Mags - ClassName: Mag_FNX45_15Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+16-26-13 | [INFO] Player:CyberPunked - currency amount:451008
+16-26-13 | [INFO] Transaction Buy Succeeded:CyberPunked product:Mag_FNX45_15Rnd quantity:0 health:0 price:200
+16-26-14 | [INFO] TraderID: 4 - Customer: CyberPunked - Category: Holler Just Mags - ClassName: Mag_FNX45_15Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+16-26-14 | [INFO] Player:CyberPunked - currency amount:450808
+16-26-14 | [INFO] Transaction Buy Succeeded:CyberPunked product:Mag_FNX45_15Rnd quantity:0 health:0 price:200
+16-26-15 | [INFO] TraderID: 4 - Customer: CyberPunked - Category: Holler Just Mags - ClassName: Mag_FNX45_15Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+16-26-15 | [INFO] Player:CyberPunked - currency amount:450608
+16-26-15 | [INFO] Transaction Buy Succeeded:CyberPunked product:Mag_FNX45_15Rnd quantity:0 health:0 price:200
+16-26-16 | [INFO] TraderID: 4 - Customer: CyberPunked - Category: Holler Just Mags - ClassName: Mag_FNX45_15Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+16-26-16 | [INFO] Player:CyberPunked - currency amount:450408
+16-26-16 | [INFO] Transaction Buy Succeeded:CyberPunked product:Mag_FNX45_15Rnd quantity:0 health:0 price:200
+16-27-29 | [INFO] InsuranceRequestHandler
+16-27-29 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+16-27-36 | [INFO] InsuranceRequestHandler
+16-27-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_442990275.json
+16-27-40 | [INFO] TraderID: 2 - Customer: CyberPunked - Category: Holler Gardening - ClassName: PepperSeedsPack - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 90 - CollateralMoney: 0 - TradeMode:Sell
+16-27-40 | [INFO] Transaction Sell Succeeded:CyberPunked product:PepperSeedsPack quantity:0 health:1 price:90
+16-27-42 | [INFO] TraderID: 2 - Customer: CyberPunked - Category: Holler Gardening - ClassName: PepperSeedsPack - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+16-27-42 | [INFO] Transaction Sell Succeeded:CyberPunked product:PepperSeedsPack quantity:0 health:0 price:120
+16-27-45 | [INFO] TraderID: 2 - Customer: CyberPunked - Category: Holler Gardening - ClassName: TomatoSeedsPack - Quantity: 3 - Multiplier: 3 - MaxStock: -1 - Health: 0 - Price: 360 - CollateralMoney: 0 - TradeMode:Sell
+16-27-45 | [INFO] Transaction Sell Succeeded:CyberPunked product:TomatoSeedsPack quantity:9 health:0 price:360
+16-27-49 | [INFO] TraderID: 2 - Customer: CyberPunked - Category: Holler Gardening - ClassName: PumpkinSeedsPack - Quantity: 2 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+16-27-49 | [INFO] Transaction Sell Succeeded:CyberPunked product:PumpkinSeedsPack quantity:4 health:0 price:240
+16-27-51 | [INFO] TraderID: 2 - Customer: CyberPunked - Category: Holler Gardening - ClassName: ZucchiniSeedsPack - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+16-27-51 | [INFO] Transaction Sell Succeeded:CyberPunked product:ZucchiniSeedsPack quantity:0 health:0 price:120
+16-28-13 | [INFO] InsuranceRequestHandler
+16-28-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-28-35 | [INFO] TraderID: 3 - Customer: EpIcRaGeZ - Category: Holler Good Good - ClassName: CP_CannabisBlackFrost - Quantity: 14 - Multiplier: 14 - MaxStock: -1 - Health: 0 - Price: 4732 - CollateralMoney: 0 - TradeMode:Sell
+16-28-35 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:CP_CannabisBlackFrost quantity:196 health:0 price:4732
+16-28-41 | [INFO] TraderID: 3 - Customer: EpIcRaGeZ - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+16-28-41 | [INFO] Player:EpIcRaGeZ - currency amount:186227
+16-28-41 | [INFO] Transaction Buy Succeeded:EpIcRaGeZ product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+16-28-42 | [INFO] InsuranceRequestHandler
+16-28-42 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+16-28-43 | [INFO] TraderID: 3 - Customer: EpIcRaGeZ - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+16-28-43 | [INFO] Player:EpIcRaGeZ - currency amount:186227
+16-28-43 | [INFO] Transaction Buy Succeeded:EpIcRaGeZ product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+16-28-44 | [INFO] TraderID: 3 - Customer: EpIcRaGeZ - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+16-28-44 | [INFO] Player:EpIcRaGeZ - currency amount:186227
+16-28-44 | [INFO] Transaction Buy Succeeded:EpIcRaGeZ product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+16-28-46 | [INFO] TraderID: 3 - Customer: EpIcRaGeZ - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+16-28-46 | [INFO] Player:EpIcRaGeZ - currency amount:186227
+16-28-46 | [INFO] Transaction Buy Succeeded:EpIcRaGeZ product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+16-29-42 | [INFO] GetSafeStatut
+16-30-6 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Assault Rifles - ClassName: AKM - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 650 - CollateralMoney: 0 - TradeMode:Buy
+16-30-6 | [INFO] Player:Kinetsu - currency amount:49735
+16-30-6 | [INFO] Transaction Buy Succeeded:Kinetsu product:AKM quantity:0 health:0 price:650
+16-30-12 | [INFO] InsuranceRequestHandler
+16-30-12 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-30-31 | [INFO] InsuranceRequestHandler
+16-30-31 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+16-30-35 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Just Mags - ClassName: Mag_AK74_45Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+16-30-35 | [INFO] Transaction Sell Succeeded:Kinetsu product:Mag_AK74_45Rnd quantity:0 health:0 price:120
+16-30-37 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Just Mags - ClassName: Mag_AK74_45Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+16-30-37 | [INFO] Transaction Sell Succeeded:Kinetsu product:Mag_AK74_45Rnd quantity:0 health:0 price:120
+16-30-38 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Just Mags - ClassName: Mag_AK74_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+16-30-38 | [INFO] Transaction Sell Succeeded:Kinetsu product:Mag_AK74_30Rnd quantity:0 health:0 price:120
+16-30-41 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Just Mags - ClassName: Mag_AK74_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+16-30-41 | [INFO] Transaction Sell Succeeded:Kinetsu product:Mag_AK74_30Rnd quantity:0 health:0 price:120
+16-30-44 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Just Mags - ClassName: Mag_AK74_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+16-30-44 | [INFO] Transaction Sell Succeeded:Kinetsu product:Mag_AK74_30Rnd quantity:0 health:0 price:120
+16-30-46 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Just Mags - ClassName: Mag_AK74_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+16-30-46 | [INFO] Transaction Sell Succeeded:Kinetsu product:Mag_AK74_30Rnd quantity:0 health:0 price:120
+16-30-48 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Assault Rifles - ClassName: AK74 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 202 - CollateralMoney: 0 - TradeMode:Sell
+16-30-48 | [INFO] Transaction Sell Succeeded:Kinetsu product:AK74 quantity:0 health:1 price:202
+16-31-18 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Assault Rifles - ClassName: ttak458poli - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 880 - CollateralMoney: 0 - TradeMode:Buy
+16-31-18 | [INFO] Player:EpIcRaGeZ - currency amount:186227
+16-31-18 | [INFO] Transaction Buy Succeeded:EpIcRaGeZ product:ttak458poli quantity:0 health:0 price:880
+16-31-37 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Just Mags - ClassName: Mag_AKM_Drum75Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+16-31-37 | [INFO] Player:Kinetsu - currency amount:50007
+16-31-37 | [INFO] Transaction Buy Succeeded:Kinetsu product:Mag_AKM_Drum75Rnd quantity:0 health:0 price:200
+16-31-40 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Just Mags - ClassName: Mag_AKM_Drum75Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+16-31-40 | [INFO] Player:Kinetsu - currency amount:49807
+16-31-40 | [INFO] Transaction Buy Succeeded:Kinetsu product:Mag_AKM_Drum75Rnd quantity:0 health:0 price:200
+16-31-42 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Just Mags - ClassName: Mag_AKM_Drum75Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+16-31-42 | [INFO] Player:Kinetsu - currency amount:49607
+16-31-42 | [INFO] Transaction Buy Succeeded:Kinetsu product:Mag_AKM_Drum75Rnd quantity:0 health:0 price:200
+16-32-6 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-6 | [INFO] Player:Kinetsu - currency amount:49407
+16-32-6 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-8 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-8 | [INFO] Player:Kinetsu - currency amount:48967
+16-32-8 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-10 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-10 | [INFO] Player:Kinetsu - currency amount:48527
+16-32-10 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-12 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-12 | [INFO] Player:Kinetsu - currency amount:48087
+16-32-12 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-13 | [INFO] InsuranceRequestHandler
+16-32-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-32-14 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-14 | [INFO] Player:Kinetsu - currency amount:47647
+16-32-14 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-16 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Assault Rifles - ClassName: AKM - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 390 - CollateralMoney: 0 - TradeMode:Sell
+16-32-16 | [INFO] Transaction Sell Failed:EpIcRaGeZ product:AKM quantity:0 health:0 price:390
+16-32-20 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-20 | [INFO] Player:Kinetsu - currency amount:47207
+16-32-20 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-22 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-22 | [INFO] Player:Kinetsu - currency amount:46767
+16-32-23 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-24 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-24 | [INFO] Player:Kinetsu - currency amount:46327
+16-32-25 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-26 | [INFO] InsuranceRequestHandler
+16-32-26 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-32-26 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-26 | [INFO] Player:Kinetsu - currency amount:45887
+16-32-27 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-28 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-28 | [INFO] Player:Kinetsu - currency amount:45447
+16-32-28 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-31 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Assault Rifles - ClassName: AKM - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 390 - CollateralMoney: 0 - TradeMode:Sell
+16-32-31 | [INFO] Transaction Sell Failed:EpIcRaGeZ product:AKM quantity:0 health:0 price:390
+16-32-31 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-31 | [INFO] Player:Kinetsu - currency amount:45007
+16-32-31 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-33 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-33 | [INFO] Player:Kinetsu - currency amount:44567
+16-32-33 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-34 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-34 | [INFO] Player:Kinetsu - currency amount:44127
+16-32-34 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-35 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Assault Rifles - ClassName: AKM - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 390 - CollateralMoney: 0 - TradeMode:Sell
+16-32-35 | [INFO] Transaction Sell Failed:EpIcRaGeZ product:AKM quantity:0 health:0 price:390
+16-32-36 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-36 | [INFO] Player:Kinetsu - currency amount:43687
+16-32-36 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-38 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-38 | [INFO] Player:Kinetsu - currency amount:43247
+16-32-38 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-40 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-40 | [INFO] Player:Kinetsu - currency amount:42807
+16-32-40 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-42 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-42 | [INFO] Player:Kinetsu - currency amount:42367
+16-32-42 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-44 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-44 | [INFO] Player:Kinetsu - currency amount:41927
+16-32-44 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-46 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-46 | [INFO] Player:Kinetsu - currency amount:41487
+16-32-46 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-48 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-48 | [INFO] Player:Kinetsu - currency amount:41047
+16-32-48 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-32-50 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Ammo - ClassName: AmmoBox_762x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+16-32-50 | [INFO] Player:Kinetsu - currency amount:40607
+16-32-50 | [INFO] Transaction Buy Succeeded:Kinetsu product:AmmoBox_762x39_20Rnd quantity:0 health:0 price:440
+16-33-4 | [INFO] InsuranceRequestHandler
+16-33-4 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+16-33-20 | [INFO] InsuranceRequestHandler
+16-33-20 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_70911298.json
+16-33-24 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Assault Rifles - ClassName: AKM - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 292 - CollateralMoney: 0 - TradeMode:Sell
+16-33-24 | [INFO] Transaction Sell Succeeded:Kinetsu product:AKM quantity:0 health:1 price:292
+16-33-26 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Handguards & Rails - ClassName: AK_RailHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 108 - CollateralMoney: 0 - TradeMode:Sell
+16-33-26 | [INFO] Transaction Sell Succeeded:Kinetsu product:AK_RailHndgrd quantity:0 health:0 price:108
+16-33-28 | [INFO] TraderID: 4 - Customer: Kinetsu - Category: Holler Buttstocks - ClassName: AK_PlasticBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+16-33-28 | [INFO] Transaction Sell Succeeded:Kinetsu product:AK_PlasticBttstck quantity:0 health:0 price:120
+16-34-35 | [INFO] InsuranceRequestHandler
+16-34-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-34-57 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Optics - ClassName: KobraOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 420 - CollateralMoney: 0 - TradeMode:Buy
+16-34-57 | [INFO] Player:EpIcRaGeZ - currency amount:185347
+16-34-57 | [INFO] Transaction Buy Succeeded:EpIcRaGeZ product:KobraOptic quantity:0 health:0 price:420
+16-35-11 | [INFO] InsuranceRequestHandler
+16-35-11 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-35-15 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Holler Optics - ClassName: KashtanOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 330 - CollateralMoney: 0 - TradeMode:Sell
+16-35-15 | [INFO] Transaction Sell Succeeded:EpIcRaGeZ product:KashtanOptic quantity:0 health:0 price:330
+16-35-18 | [INFO] InsuranceRequestHandler
+16-35-18 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_86564395.json
+16-35-22 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+16-35-22 | [INFO] Player:EpIcRaGeZ - currency amount:185257
+16-35-22 | [INFO] Transaction Buy Succeeded:EpIcRaGeZ product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+16-35-24 | [INFO] TraderID: 4 - Customer: EpIcRaGeZ - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+16-35-24 | [INFO] Player:EpIcRaGeZ - currency amount:185257
+16-35-24 | [INFO] Transaction Buy Succeeded:EpIcRaGeZ product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+16-37-24 | [INFO] GetSafeStatut
+16-37-25 | [INFO] GetSafeStatut
+16-52-53 | [INFO] RefreshLifeTimeCargo
+16-54-1 | [INFO] GetSafeStatut
+16-54-36 | [INFO] InsuranceRequestHandler
+16-54-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_442990275.json
+16-54-43 | [INFO] TraderID: 4 - Customer: CyberPunked - Category: Holler Optics - ClassName: KobraOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 420 - CollateralMoney: 0 - TradeMode:Buy
+16-54-43 | [INFO] Player:CyberPunked - currency amount:451138
+16-54-43 | [INFO] Transaction Buy Succeeded:CyberPunked product:KobraOptic quantity:0 health:0 price:420
+16-54-52 | [INFO] InsuranceRequestHandler
+16-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_442990275.json
+16-54-55 | [INFO] TraderID: 6 - Customer: CyberPunked - Category: Holler Electronics - ClassName: Battery9V - Quantity: 50 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+16-54-55 | [INFO] Player:CyberPunked - currency amount:450718
+16-54-55 | [INFO] Transaction Buy Succeeded:CyberPunked product:Battery9V quantity:50 health:0 price:500
+16-54-56 | [INFO] TraderID: 6 - Customer: CyberPunked - Category: Holler Electronics - ClassName: Battery9V - Quantity: 50 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+16-54-56 | [INFO] Player:CyberPunked - currency amount:450218
+16-54-56 | [INFO] Transaction Buy Succeeded:CyberPunked product:Battery9V quantity:50 health:0 price:500
+16-54-57 | [INFO] TraderID: 6 - Customer: CyberPunked - Category: Holler Electronics - ClassName: Battery9V - Quantity: 50 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+16-54-57 | [INFO] Player:CyberPunked - currency amount:449718
+16-54-57 | [INFO] Transaction Buy Succeeded:CyberPunked product:Battery9V quantity:50 health:0 price:500
+17-5-6 | [INFO] GetSafeStatut
+17-16-47 | [INFO] GetSafeStatut
+17-16-56 | [INFO] GetSafeStatut
+17-17-19 | [INFO] InsuranceRequestHandler
+17-17-19 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_442990275.json
+17-17-22 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: Thermometer - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 60 - CollateralMoney: 0 - TradeMode:Sell
+17-17-22 | [INFO] Transaction Sell Succeeded:CyberPunked product:Thermometer quantity:0 health:0 price:60
+17-17-24 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: DisinfectantSpray - Quantity: 500 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+17-17-24 | [INFO] Transaction Sell Succeeded:CyberPunked product:DisinfectantSpray quantity:500 health:0 price:240
+17-17-27 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: StartKitIV - Quantity: 2 - Multiplier: 2 - MaxStock: -1 - Health: 0 - Price: 540 - CollateralMoney: 0 - TradeMode:Sell
+17-17-27 | [INFO] Transaction Sell Succeeded:CyberPunked product:StartKitIV quantity:4 health:0 price:540
+17-17-31 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: BloodTestKit - Quantity: 3 - Multiplier: 3 - MaxStock: -1 - Health: 0 - Price: 720 - CollateralMoney: 0 - TradeMode:Sell
+17-17-31 | [INFO] Transaction Sell Succeeded:CyberPunked product:BloodTestKit quantity:9 health:0 price:720
+17-17-33 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: CharcoalTablets - Quantity: 12 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 360 - CollateralMoney: 0 - TradeMode:Sell
+17-17-33 | [INFO] Transaction Sell Succeeded:CyberPunked product:CharcoalTablets quantity:12 health:0 price:360
+17-17-35 | [INFO] TraderID: 7 - Customer: CyberPunked - Category: Holler Medical - ClassName: Morphine - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1500 - CollateralMoney: 0 - TradeMode:Sell
+17-17-35 | [INFO] Transaction Sell Succeeded:CyberPunked product:Morphine quantity:0 health:0 price:1500
+17-17-46 | [INFO] InsuranceRequestHandler
+17-17-46 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_442990275.json
+17-17-52 | [INFO] InsuranceRequestHandler
+17-17-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_416867315.json
+17-18-12 | [INFO] InsuranceRequestHandler
+17-18-12 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_442990275.json
+17-18-16 | [INFO] TraderID: 3 - Customer: CyberPunked - Category: Holler Good Good - ClassName: CP_Relief_Balm - Quantity: 48 - Multiplier: 48 - MaxStock: -1 - Health: 0 - Price: 8400 - CollateralMoney: 0 - TradeMode:Sell
+17-18-16 | [INFO] Transaction Sell Succeeded:CyberPunked product:CP_Relief_Balm quantity:2304 health:0 price:8400
+17-23-27 | [INFO] GetSafeStatut
+17-23-30 | [INFO] GetSafeStatut
+17-27-16 | [INFO] CARLOCK HAS BEEN DETACHED BY:CyberPunked
+17-37-30 | [INFO] GetSafeStatut
+17-37-31 | [INFO] GetSafeStatut
+17-37-46 | [INFO] InsuranceRequestHandler
+17-37-46 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_442990275.json
+17-37-50 | [INFO] TraderID: 1 - Customer: CyberPunked - Category: Holler Vanilla Auto Parts - ClassName: CarRadiator - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+17-37-50 | [INFO] Player:CyberPunked - currency amount:461038
+17-37-50 | [INFO] Transaction Buy Succeeded:CyberPunked product:CarRadiator quantity:0 health:0 price:400
+17-38-19 | [INFO] GetSafeStatut
+17-38-20 | [INFO] GetSafeStatut
+17-45-47 | [INFO] GetSafeStatut
+17-45-48 | [INFO] GetSafeStatut

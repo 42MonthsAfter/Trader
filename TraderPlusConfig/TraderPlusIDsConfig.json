@@ -21,7 +21,11 @@
             "Categories": [
                 "Holler Vanilla Auto Parts",
                 "Holler Vanilla Vehicle Components",
-                "Holler Cars",
+                "Holler Civilian Cars",
+                "Holler SUVs & Trucks",
+                "Holler Military Vehicles",
+                "Holler Public Transport",
+                "Holler Helis",
                 "Holler Heli Parts",
                 "Money Exchange"
             ],
@@ -97,6 +101,7 @@
             "Id": 6,
             "Categories": [
                 "Holler Electronics",
+                "Holler Collectibles",
                 "Money Exchange"
             ],
             "LicencesRequired": [],

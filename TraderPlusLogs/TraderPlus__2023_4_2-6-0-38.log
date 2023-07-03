@@ -1,0 +1,514 @@
+Creation Time: 2023_4_2-6-0-38
+6-0-38 | [INFO] TraderPlusCore - Started !
+6-0-38 | [INFO] TraderPlus file exist ! loading...
+6-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+6-0-38 | [INFO] TraderPlus file exist ! loading...
+6-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+6-0-38 | [INFO] TraderPlus file exist ! loading...
+6-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+6-0-38 | [INFO] TraderPlus file exist ! loading...
+6-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+6-0-38 | [INFO] TraderPlus file exist ! loading...
+6-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+6-0-38 | [INFO] TraderPlus file exist ! loading...
+6-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+6-0-38 | [INFO] TraderPlusServer - Started
+6-0-38 | [INFO] TraderPlusBankingCore - Started !
+6-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.json
+6-0-38 | [INFO] TraderPlusBankingServer - Started
+6-0-38 | [INFO] CarLockCore - Started !
+6-0-38 | [INFO] CarLockServer - Started
+6-0-38 | [INFO] SafeZoneCore - Started !
+6-0-38 | [INFO] DEBUG MODE ENABLED
+6-0-56 | [INFO] ID_count: 10
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Beverages.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Packaged Food.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fruit & Veg.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Meat.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fish.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fungus.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Pelts.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Money Exchange.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Vanilla Auto Parts.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Vanilla Vehicle Components.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Cars.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Heli Parts.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Money Exchange.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Tools.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Gardening.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Base Building.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Base Decor.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Flags.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Money Exchange.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Holler Good Good.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Money Exchange.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Hand Guns.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Bows.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Shotguns.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Sub Machine Guns.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Long Rifles.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Assault Rifles.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Sniper Rifles.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Just Mags.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Buttstocks.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Suppressors.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Compensators.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Optics.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Handguards & Rails.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Bayonets.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Melee & Blades.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Weapon Lights.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Weapon Care.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Ammo.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Money Exchange.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Bags.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Gear.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Pouches.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Belts.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Vests.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Ghillies.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Patches & Armbands.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Camping & Survival.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Hunting & Fishing.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Money Exchange.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Holler Electronics.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Money Exchange.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Holler Medical.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Holler Protective Gear.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Money Exchange.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Melee & Blades.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Pistols.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Machine Guns.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Sniper Rifles.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Shotguns.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Assault Rifles.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Bayonets.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Ammo.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Lights.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Suppressors.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Optics.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Attachments.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Halloween.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Covid.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Grenades.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Cosmetics.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Pants.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Tops.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Masks.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Hats.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Gear.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Vests.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Helmets.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Bags.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Collectable.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Masks.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Money Exchange.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_9\Airsoft Weapons.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_9\Airsoft Clothing.json
+6-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_9\Money Exchange.json
+6-0-56 | [INFO] SetTradersSpawner: Started
+6-0-56 | [INFO] obj created: SurvivorF_Helga
+6-0-56 | [INFO] TraderPlayer created and added!: 
+6-0-56 | [INFO] obj created: SurvivorM_Jose
+6-0-56 | [INFO] TraderPlayer created and added!: 
+6-0-56 | [INFO] obj created: SurvivorM_Taiki
+6-0-56 | [INFO] TraderPlayer created and added!: 
+6-0-56 | [INFO] obj created: SurvivorF_Eva
+6-0-56 | [INFO] TraderPlayer created and added!: 
+6-0-56 | [INFO] obj created: SurvivorM_Seth
+6-0-56 | [INFO] TraderPlayer created and added!: 
+6-0-56 | [INFO] obj created: SurvivorM_Seth
+6-0-56 | [INFO] TraderPlayer created and added!: 
+6-0-56 | [INFO] obj created: SurvivorF_Eva
+6-0-56 | [INFO] TraderPlayer created and added!: 
+6-0-56 | [INFO] obj created: SurvivorM_Rolf
+6-0-56 | [INFO] TraderPlayer created and added!: 
+6-0-56 | [INFO] SetTradersSpawner: Ended
+6-0-56 | [INFO] SetObjectSpawner: Started
+6-0-56 | [INFO] SetObjectSpawner: Ended
+6-0-56 | [INFO] DefaultTraderStock - Started
+10-8-50 | [INFO] InsuranceRequestHandler
+10-9-25 | [INFO] InsuranceRequestHandler
+10-9-25 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_384924949.json
+10-16-30 | [INFO] InsuranceRequestHandler
+10-16-41 | [INFO] TraderID: 0 - Customer: mario - Category: Holler Beverages - ClassName: SodaCan_Kvass - Quantity: 300 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 60 - CollateralMoney: 0 - TradeMode:Sell
+10-16-41 | [INFO] Transaction Sell Succeeded:mario product:SodaCan_Kvass quantity:300 health:0 price:60
+10-17-14 | [INFO] InsuranceRequestHandler
+10-17-14 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_227568778.json
+10-17-17 | [INFO] TraderID: 0 - Customer: mario - Category: Holler Fish - ClassName: geb_AngelfishFilletMeat - Quantity: 500 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 48 - CollateralMoney: 0 - TradeMode:Sell
+10-17-17 | [INFO] Transaction Sell Succeeded:mario product:geb_AngelfishFilletMeat quantity:500 health:0 price:48
+10-17-19 | [INFO] TraderID: 0 - Customer: mario - Category: Holler Fish - ClassName: geb_AngelfishFilletMeat - Quantity: 500 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 48 - CollateralMoney: 0 - TradeMode:Sell
+10-17-20 | [INFO] Transaction Sell Succeeded:mario product:geb_AngelfishFilletMeat quantity:500 health:0 price:48
+10-17-22 | [INFO] InsuranceRequestHandler
+10-17-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_227568778.json
+10-17-26 | [INFO] TraderID: 0 - Customer: mario - Category: Holler Fish - ClassName: geb_AngelfishFilletMeat - Quantity: 500 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 48 - CollateralMoney: 0 - TradeMode:Sell
+10-17-26 | [INFO] Transaction Sell Succeeded:mario product:geb_AngelfishFilletMeat quantity:500 health:0 price:48
+10-17-39 | [INFO] TraderID: 0 - Customer: mario - Category: Holler Packaged Food - ClassName: ZagorkyChocolate - Quantity: 100 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 60 - CollateralMoney: 0 - TradeMode:Sell
+10-17-39 | [INFO] Transaction Sell Succeeded:mario product:ZagorkyChocolate quantity:100 health:0 price:60
+10-17-42 | [INFO] TraderID: 0 - Customer: mario - Category: Holler Fish - ClassName: geb_AngelfishFilletMeat - Quantity: 500 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 48 - CollateralMoney: 0 - TradeMode:Sell
+10-17-42 | [INFO] Transaction Sell Succeeded:mario product:geb_AngelfishFilletMeat quantity:500 health:0 price:48
+10-17-44 | [INFO] TraderID: 0 - Customer: mario - Category: Holler Fish - ClassName: geb_AngelfishFilletMeat - Quantity: 500 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 48 - CollateralMoney: 0 - TradeMode:Sell
+10-17-44 | [INFO] Transaction Sell Succeeded:mario product:geb_AngelfishFilletMeat quantity:500 health:0 price:48
+10-17-47 | [INFO] TraderID: 0 - Customer: mario - Category: Holler Fish - ClassName: geb_AngelfishFilletMeat - Quantity: 500 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 48 - CollateralMoney: 0 - TradeMode:Sell
+10-17-47 | [INFO] Transaction Sell Succeeded:mario product:geb_AngelfishFilletMeat quantity:500 health:0 price:48
+10-17-49 | [INFO] TraderID: 0 - Customer: mario - Category: Holler Fish - ClassName: geb_AngelfishFilletMeat - Quantity: 500 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 48 - CollateralMoney: 0 - TradeMode:Sell
+10-17-49 | [INFO] Transaction Sell Succeeded:mario product:geb_AngelfishFilletMeat quantity:500 health:0 price:48
+10-17-52 | [INFO] TraderID: 0 - Customer: mario - Category: Holler Fish - ClassName: geb_AngelfishFilletMeat - Quantity: 500 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 48 - CollateralMoney: 0 - TradeMode:Sell
+10-17-52 | [INFO] Transaction Sell Succeeded:mario product:geb_AngelfishFilletMeat quantity:500 health:0 price:48
+10-17-54 | [INFO] TraderID: 0 - Customer: mario - Category: Holler Fish - ClassName: geb_AngelfishFilletMeat - Quantity: 500 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 48 - CollateralMoney: 0 - TradeMode:Sell
+10-17-54 | [INFO] Transaction Sell Succeeded:mario product:geb_AngelfishFilletMeat quantity:500 health:0 price:48
+10-18-18 | [INFO] InsuranceRequestHandler
+10-18-18 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_227568778.json
+10-18-27 | [INFO] TraderID: 0 - Customer: mario - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+10-18-27 | [INFO] Player:mario - currency amount:652
+10-18-27 | [INFO] Transaction Buy Succeeded:mario product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+10-18-34 | [INFO] InsuranceRequestHandler
+10-18-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_227568778.json
+10-18-38 | [INFO] TraderID: 0 - Customer: mario - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+10-18-38 | [INFO] Player:mario - currency amount:652
+10-18-38 | [INFO] Transaction Buy Succeeded:mario product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+10-18-41 | [INFO] TraderID: 0 - Customer: mario - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+10-18-41 | [INFO] Player:mario - currency amount:652
+10-18-41 | [INFO] Transaction Buy Succeeded:mario product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+10-18-45 | [INFO] InsuranceRequestHandler
+10-18-45 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_227568778.json
+10-18-48 | [INFO] TraderID: 0 - Customer: mario - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+10-18-48 | [INFO] Player:mario - currency amount:652
+10-18-48 | [INFO] Transaction Buy Succeeded:mario product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+10-18-49 | [INFO] TraderID: 0 - Customer: mario - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+10-18-49 | [INFO] Player:mario - currency amount:652
+10-18-49 | [INFO] Transaction Buy Succeeded:mario product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+10-18-50 | [INFO] TraderID: 0 - Customer: mario - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+10-18-50 | [INFO] Player:mario - currency amount:652
+10-18-50 | [INFO] Transaction Buy Succeeded:mario product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+10-18-55 | [INFO] InsuranceRequestHandler
+10-18-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_227568778.json
+10-18-58 | [INFO] TraderID: 0 - Customer: mario - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+10-18-58 | [INFO] Player:mario - currency amount:652
+10-18-58 | [INFO] Transaction Buy Succeeded:mario product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+10-19-0 | [INFO] TraderID: 0 - Customer: mario - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+10-19-0 | [INFO] Player:mario - currency amount:652
+10-19-0 | [INFO] Transaction Buy Succeeded:mario product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+10-19-2 | [INFO] TraderID: 0 - Customer: mario - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+10-19-2 | [INFO] Player:mario - currency amount:652
+10-19-2 | [INFO] Transaction Buy Succeeded:mario product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+10-19-4 | [INFO] TraderID: 0 - Customer: mario - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+10-19-4 | [INFO] Player:mario - currency amount:652
+10-19-4 | [INFO] Transaction Buy Succeeded:mario product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+10-20-38 | [INFO] InsuranceRequestHandler
+10-20-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_227568778.json
+10-21-4 | [INFO] TraderID: 4 - Customer: mario - Category: Holler Shotguns - ClassName: Izh43Shotgun - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-21-4 | [INFO] Player:mario - currency amount:652
+10-21-4 | [INFO] Transaction Buy Succeeded:mario product:Izh43Shotgun quantity:0 health:0 price:200
+10-21-32 | [INFO] InsuranceRequestHandler
+10-21-32 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_227568778.json
+10-31-22 | [INFO] InsuranceRequestHandler
+10-31-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_384924949.json
+10-32-0 | [INFO] InsuranceRequestHandler
+10-32-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_384924949.json
+10-32-22 | [INFO] InsuranceRequestHandler
+10-32-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_384924949.json
+10-33-9 | [INFO] InsuranceRequestHandler
+10-33-9 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_384924949.json
+10-39-54 | [INFO] InsuranceRequestHandler
+10-39-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_62166080.json
+10-41-6 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Hand Guns - ClassName: Engraved1911 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1400 - CollateralMoney: 0 - TradeMode:Buy
+10-41-6 | [INFO] Player:Jrasl - currency amount:58315
+10-41-6 | [INFO] Transaction Buy Succeeded:Jrasl product:Engraved1911 quantity:0 health:0 price:1400
+10-41-15 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Hand Guns - ClassName: lebedev_PL15_mung - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1200 - CollateralMoney: 0 - TradeMode:Buy
+10-41-15 | [INFO] Player:Jrasl - currency amount:56915
+10-41-15 | [INFO] Transaction Buy Succeeded:Jrasl product:lebedev_PL15_mung quantity:0 health:0 price:1200
+10-41-25 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Optics - ClassName: FNP45_MRDSOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Buy
+10-41-25 | [INFO] Player:Jrasl - currency amount:55715
+10-41-25 | [INFO] Transaction Buy Succeeded:Jrasl product:FNP45_MRDSOptic quantity:0 health:0 price:240
+10-41-27 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Optics - ClassName: FNP45_MRDSOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Buy
+10-41-27 | [INFO] Player:Jrasl - currency amount:55475
+10-41-27 | [INFO] Transaction Buy Succeeded:Jrasl product:FNP45_MRDSOptic quantity:0 health:0 price:240
+10-41-29 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Optics - ClassName: FNP45_MRDSOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Buy
+10-41-29 | [INFO] Player:Jrasl - currency amount:55235
+10-41-29 | [INFO] Transaction Buy Succeeded:Jrasl product:FNP45_MRDSOptic quantity:0 health:0 price:240
+10-41-38 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Weapon Lights - ClassName: TLRLight - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-41-38 | [INFO] Player:Jrasl - currency amount:54995
+10-41-38 | [INFO] Transaction Buy Succeeded:Jrasl product:TLRLight quantity:0 health:0 price:200
+10-41-40 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Weapon Lights - ClassName: TLRLight - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-41-40 | [INFO] Player:Jrasl - currency amount:54795
+10-41-40 | [INFO] Transaction Buy Succeeded:Jrasl product:TLRLight quantity:0 health:0 price:200
+10-42-8 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Just Mags - ClassName: Mag_1911_7Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-42-8 | [INFO] Player:Jrasl - currency amount:54595
+10-42-8 | [INFO] Transaction Buy Succeeded:Jrasl product:Mag_1911_7Rnd quantity:0 health:0 price:200
+10-42-12 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Just Mags - ClassName: Mag_1911_7Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-42-12 | [INFO] Player:Jrasl - currency amount:54395
+10-42-12 | [INFO] Transaction Buy Succeeded:Jrasl product:Mag_1911_7Rnd quantity:0 health:0 price:200
+10-42-15 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Just Mags - ClassName: Mag_1911_7Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+10-42-15 | [INFO] Transaction Sell Succeeded:Jrasl product:Mag_1911_7Rnd quantity:0 health:0 price:120
+10-45-2 | [INFO] InsuranceRequestHandler
+10-45-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_62166080.json
+10-45-10 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Optics - ClassName: FNP45_MRDSOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 144 - CollateralMoney: 0 - TradeMode:Sell
+10-45-10 | [INFO] Transaction Sell Succeeded:Jrasl product:FNP45_MRDSOptic quantity:0 health:0 price:144
+10-45-22 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Just Mags - ClassName: Mag_1911_7Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-45-22 | [INFO] Player:Jrasl - currency amount:54459
+10-45-22 | [INFO] Transaction Buy Succeeded:Jrasl product:Mag_1911_7Rnd quantity:0 health:0 price:200
+10-45-25 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Just Mags - ClassName: Mag_1911_7Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-45-25 | [INFO] Player:Jrasl - currency amount:54259
+10-45-25 | [INFO] Transaction Buy Succeeded:Jrasl product:Mag_1911_7Rnd quantity:0 health:0 price:200
+10-45-53 | [INFO] InsuranceRequestHandler
+10-45-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_62166080.json
+10-45-59 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Just Mags - ClassName: Mag_lebedev_PL15_16Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-45-59 | [INFO] Player:Jrasl - currency amount:54059
+10-45-59 | [INFO] Transaction Buy Succeeded:Jrasl product:Mag_lebedev_PL15_16Rnd quantity:0 health:0 price:200
+10-46-3 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Just Mags - ClassName: Mag_lebedev_PL15_16Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-46-3 | [INFO] Player:Jrasl - currency amount:53859
+10-46-3 | [INFO] Transaction Buy Succeeded:Jrasl product:Mag_lebedev_PL15_16Rnd quantity:0 health:0 price:200
+10-46-6 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Just Mags - ClassName: Mag_lebedev_PL15_16Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-46-6 | [INFO] Player:Jrasl - currency amount:53659
+10-46-6 | [INFO] Transaction Buy Succeeded:Jrasl product:Mag_lebedev_PL15_16Rnd quantity:0 health:0 price:200
+10-46-9 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Just Mags - ClassName: Mag_AK74_45Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-46-9 | [INFO] Player:Jrasl - currency amount:53459
+10-46-9 | [INFO] Transaction Buy Succeeded:Jrasl product:Mag_AK74_45Rnd quantity:0 health:0 price:200
+10-46-11 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Just Mags - ClassName: Mag_AK74_45Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-46-11 | [INFO] Player:Jrasl - currency amount:53259
+10-46-12 | [INFO] Transaction Buy Succeeded:Jrasl product:Mag_AK74_45Rnd quantity:0 health:0 price:200
+10-46-14 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Just Mags - ClassName: Mag_AK74_45Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-46-14 | [INFO] Player:Jrasl - currency amount:53059
+10-46-14 | [INFO] Transaction Buy Succeeded:Jrasl product:Mag_AK74_45Rnd quantity:0 health:0 price:200
+10-47-10 | [INFO] InsuranceRequestHandler
+10-47-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_62166080.json
+10-47-31 | [INFO] InsuranceRequestHandler
+10-47-31 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_62166080.json
+10-47-46 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-47-46 | [INFO] Player:Jrasl - currency amount:52859
+10-47-46 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-47-58 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-47-58 | [INFO] Player:Jrasl - currency amount:52419
+10-47-58 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-48-0 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 264 - CollateralMoney: 0 - TradeMode:Sell
+10-48-0 | [INFO] Transaction Sell Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:264
+10-48-2 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 264 - CollateralMoney: 0 - TradeMode:Sell
+10-48-2 | [INFO] Transaction Sell Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:264
+10-48-7 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-48-7 | [INFO] Player:Jrasl - currency amount:52507
+10-48-7 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-48-9 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-48-9 | [INFO] Player:Jrasl - currency amount:52067
+10-48-9 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-48-13 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 264 - CollateralMoney: 0 - TradeMode:Sell
+10-48-13 | [INFO] Transaction Sell Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:264
+10-48-16 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-48-16 | [INFO] Player:Jrasl - currency amount:51891
+10-48-16 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-48-19 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-48-19 | [INFO] Player:Jrasl - currency amount:51451
+10-48-19 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-48-21 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-48-21 | [INFO] Player:Jrasl - currency amount:51011
+10-48-21 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-48-23 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-48-23 | [INFO] Player:Jrasl - currency amount:50571
+10-48-23 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-48-25 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-48-25 | [INFO] Player:Jrasl - currency amount:50131
+10-48-25 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-48-27 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-48-27 | [INFO] Player:Jrasl - currency amount:49691
+10-48-27 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-48-29 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-48-29 | [INFO] Player:Jrasl - currency amount:49251
+10-48-29 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-48-31 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-48-31 | [INFO] Player:Jrasl - currency amount:48811
+10-48-31 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-48-33 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-48-33 | [INFO] Player:Jrasl - currency amount:48371
+10-48-33 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-51-35 | [INFO] InsuranceRequestHandler
+10-52-16 | [INFO] InsuranceRequestHandler
+10-52-16 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_237951360.json
+10-52-51 | [INFO] InsuranceRequestHandler
+10-52-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_237951360.json
+10-53-3 | [INFO] InsuranceRequestHandler
+10-53-3 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_62166080.json
+10-53-15 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-53-15 | [INFO] Player:Jrasl - currency amount:47931
+10-53-15 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-53-17 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-53-17 | [INFO] Player:Jrasl - currency amount:47491
+10-53-17 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-53-21 | [INFO] InsuranceRequestHandler
+10-53-21 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_237951360.json
+10-53-22 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-53-22 | [INFO] Player:Jrasl - currency amount:47051
+10-53-22 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-53-25 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-53-25 | [INFO] Player:Jrasl - currency amount:46611
+10-53-25 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-53-27 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_545x39_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 440 - CollateralMoney: 0 - TradeMode:Buy
+10-53-27 | [INFO] Player:Jrasl - currency amount:46171
+10-53-27 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_545x39_20Rnd quantity:0 health:0 price:440
+10-53-28 | [INFO] TraderID: 1 - Customer: UpNorth - Category: Holler Vanilla Auto Parts - ClassName: Paper - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1 - CollateralMoney: 0 - TradeMode:Buy
+10-53-28 | [INFO] Player:UpNorth - currency amount:100
+10-53-28 | [INFO] Transaction Buy Succeeded:UpNorth product:Paper quantity:0 health:0 price:1
+10-53-53 | [INFO] InsuranceRequestHandler
+10-53-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_237951360.json
+10-53-58 | [INFO] TraderID: 1 - Customer: UpNorth - Category: Holler Vanilla Auto Parts - ClassName: Paper - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1 - CollateralMoney: 0 - TradeMode:Sell
+10-53-58 | [INFO] Transaction Sell Succeeded:UpNorth product:Paper quantity:0 health:0 price:1
+10-54-45 | [INFO] InsuranceRequestHandler
+10-54-45 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_237951360.json
+10-54-57 | [INFO] InsuranceRequestHandler
+10-54-57 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_237951360.json
+10-55-6 | [INFO] InsuranceRequestHandler
+10-55-6 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_237951360.json
+10-55-8 | [INFO] InsuranceRequestHandler
+10-55-8 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_62166080.json
+10-55-19 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_9x19_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-55-19 | [INFO] Player:Jrasl - currency amount:45731
+10-55-19 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_9x19_25rnd quantity:0 health:0 price:200
+10-55-23 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_9x19_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-55-23 | [INFO] Player:Jrasl - currency amount:45531
+10-55-23 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_9x19_25rnd quantity:0 health:0 price:200
+10-55-25 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_9x19_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-55-25 | [INFO] Player:Jrasl - currency amount:45331
+10-55-25 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_9x19_25rnd quantity:0 health:0 price:200
+10-56-20 | [INFO] InsuranceRequestHandler
+10-56-20 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_237951360.json
+10-56-58 | [INFO] InsuranceRequestHandler
+10-56-58 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_62166080.json
+10-57-4 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Suppressors - ClassName: PistolSuppressor - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+10-57-4 | [INFO] Player:Jrasl - currency amount:45131
+10-57-4 | [INFO] Transaction Buy Succeeded:Jrasl product:PistolSuppressor quantity:0 health:0 price:400
+10-57-6 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Suppressors - ClassName: PistolSuppressor - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+10-57-6 | [INFO] Player:Jrasl - currency amount:44731
+10-57-6 | [INFO] Transaction Buy Succeeded:Jrasl product:PistolSuppressor quantity:0 health:0 price:400
+10-57-13 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_9x19_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-57-13 | [INFO] Player:Jrasl - currency amount:44331
+10-57-13 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_9x19_25rnd quantity:0 health:0 price:200
+10-57-15 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_9x19_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-57-15 | [INFO] Player:Jrasl - currency amount:44131
+10-57-15 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_9x19_25rnd quantity:0 health:0 price:200
+10-57-18 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_9x19_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-57-18 | [INFO] Player:Jrasl - currency amount:43931
+10-57-18 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_9x19_25rnd quantity:0 health:0 price:200
+10-57-20 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_9x19_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-57-20 | [INFO] Player:Jrasl - currency amount:43731
+10-57-20 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_9x19_25rnd quantity:0 health:0 price:200
+10-57-23 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_9x19_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-57-23 | [INFO] Player:Jrasl - currency amount:43531
+10-57-23 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_9x19_25rnd quantity:0 health:0 price:200
+10-57-26 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_9x19_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-57-26 | [INFO] Player:Jrasl - currency amount:43331
+10-57-26 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_9x19_25rnd quantity:0 health:0 price:200
+10-57-29 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_9x19_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+10-57-29 | [INFO] Player:Jrasl - currency amount:43131
+10-57-29 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_9x19_25rnd quantity:0 health:0 price:200
+10-59-31 | [INFO] InsuranceRequestHandler
+10-59-31 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_62166080.json
+10-59-40 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_45ACP_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+10-59-40 | [INFO] Player:Jrasl - currency amount:42931
+10-59-40 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_45ACP_25rnd quantity:0 health:0 price:400
+10-59-43 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_45ACP_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+10-59-43 | [INFO] Player:Jrasl - currency amount:42531
+10-59-43 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_45ACP_25rnd quantity:0 health:0 price:400
+10-59-59 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_45ACP_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+10-59-59 | [INFO] Player:Jrasl - currency amount:42131
+10-59-59 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_45ACP_25rnd quantity:0 health:0 price:400
+11-0-2 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_45ACP_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+11-0-2 | [INFO] Player:Jrasl - currency amount:41731
+11-0-2 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_45ACP_25rnd quantity:0 health:0 price:400
+11-0-5 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_45ACP_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+11-0-5 | [INFO] Player:Jrasl - currency amount:41331
+11-0-5 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_45ACP_25rnd quantity:0 health:0 price:400
+11-0-7 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_45ACP_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+11-0-7 | [INFO] Player:Jrasl - currency amount:40931
+11-0-7 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_45ACP_25rnd quantity:0 health:0 price:400
+11-0-10 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_45ACP_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+11-0-10 | [INFO] Player:Jrasl - currency amount:40531
+11-0-10 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_45ACP_25rnd quantity:0 health:0 price:400
+11-0-12 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_45ACP_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+11-0-12 | [INFO] Player:Jrasl - currency amount:40131
+11-0-12 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_45ACP_25rnd quantity:0 health:0 price:400
+11-2-18 | [INFO] InsuranceRequestHandler
+11-2-18 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_62166080.json
+11-2-23 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_45ACP_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+11-2-23 | [INFO] Player:Jrasl - currency amount:39731
+11-2-23 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_45ACP_25rnd quantity:0 health:0 price:400
+11-3-36 | [INFO] InsuranceRequestHandler
+11-3-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_62166080.json
+11-3-48 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-3-48 | [INFO] Player:Jrasl - currency amount:39331
+11-3-48 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-3-49 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-3-49 | [INFO] Player:Jrasl - currency amount:38991
+11-3-49 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-3-51 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-3-51 | [INFO] Player:Jrasl - currency amount:38651
+11-3-51 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-3-53 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-3-53 | [INFO] Player:Jrasl - currency amount:38311
+11-3-53 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-3-55 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-3-55 | [INFO] Player:Jrasl - currency amount:37971
+11-3-55 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-3-57 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-3-57 | [INFO] Player:Jrasl - currency amount:37631
+11-3-57 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-3-58 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-3-58 | [INFO] Player:Jrasl - currency amount:37291
+11-3-58 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-4-0 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-4-0 | [INFO] Player:Jrasl - currency amount:36951
+11-4-0 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-4-2 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-4-2 | [INFO] Player:Jrasl - currency amount:36611
+11-4-2 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-4-4 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-4-4 | [INFO] Player:Jrasl - currency amount:36271
+11-4-4 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-4-6 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-4-6 | [INFO] Player:Jrasl - currency amount:35931
+11-4-6 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-4-8 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-4-8 | [INFO] Player:Jrasl - currency amount:35591
+11-4-8 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-4-10 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-4-10 | [INFO] Player:Jrasl - currency amount:35251
+11-4-10 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-4-12 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-4-12 | [INFO] Player:Jrasl - currency amount:34911
+11-4-12 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-4-13 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-4-13 | [INFO] Player:Jrasl - currency amount:34571
+11-4-13 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-4-15 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-4-15 | [INFO] Player:Jrasl - currency amount:34231
+11-4-15 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-4-17 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-4-17 | [INFO] Player:Jrasl - currency amount:33891
+11-4-17 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-4-18 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-4-18 | [INFO] Player:Jrasl - currency amount:33551
+11-4-18 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-4-20 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-4-20 | [INFO] Player:Jrasl - currency amount:33211
+11-4-20 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-4-22 | [INFO] TraderID: 4 - Customer: Jrasl - Category: Holler Ammo - ClassName: AmmoBox_556x45_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 340 - CollateralMoney: 0 - TradeMode:Buy
+11-4-22 | [INFO] Player:Jrasl - currency amount:32871
+11-4-22 | [INFO] Transaction Buy Succeeded:Jrasl product:AmmoBox_556x45_20Rnd quantity:0 health:0 price:340
+11-4-52 | [INFO] InsuranceRequestHandler
+11-4-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_62166080.json
+11-4-57 | [INFO] TraderID: 7 - Customer: Jrasl - Category: Holler Medical - ClassName: BandageDressing - Quantity: 4 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+11-4-57 | [INFO] Transaction Sell Succeeded:Jrasl product:BandageDressing quantity:4 health:0 price:240
+11-5-0 | [INFO] TraderID: 7 - Customer: Jrasl - Category: Holler Medical - ClassName: BandageDressing - Quantity: 4 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+11-5-0 | [INFO] Transaction Sell Succeeded:Jrasl product:BandageDressing quantity:4 health:0 price:240
+11-7-22 | [INFO] InsuranceRequestHandler
+11-7-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_62166080.json
+11-7-28 | [INFO] TraderID: 7 - Customer: Jrasl - Category: Holler Medical - ClassName: BandageDressing - Quantity: 4 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+11-7-28 | [INFO] Player:Jrasl - currency amount:33011
+11-7-28 | [INFO] Transaction Buy Succeeded:Jrasl product:BandageDressing quantity:4 health:0 price:400
+11-7-29 | [INFO] TraderID: 7 - Customer: Jrasl - Category: Holler Medical - ClassName: BandageDressing - Quantity: 4 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+11-7-29 | [INFO] Player:Jrasl - currency amount:32611
+11-7-29 | [INFO] Transaction Buy Succeeded:Jrasl product:BandageDressing quantity:4 health:0 price:400
+11-7-31 | [INFO] TraderID: 7 - Customer: Jrasl - Category: Holler Medical - ClassName: BandageDressing - Quantity: 4 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+11-7-31 | [INFO] Player:Jrasl - currency amount:32211
+11-7-31 | [INFO] Transaction Buy Succeeded:Jrasl product:BandageDressing quantity:4 health:0 price:400
+11-7-32 | [INFO] TraderID: 7 - Customer: Jrasl - Category: Holler Medical - ClassName: BandageDressing - Quantity: 4 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+11-7-32 | [INFO] Player:Jrasl - currency amount:31811
+11-7-32 | [INFO] Transaction Buy Succeeded:Jrasl product:BandageDressing quantity:4 health:0 price:400
