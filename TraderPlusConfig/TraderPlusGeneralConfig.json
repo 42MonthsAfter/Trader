@@ -171,7 +171,8 @@
                 "TacticalGloves_Black",
                 "SportGlasses_Green",
                 "MVS_Belt_OD",
-                "MVS_BoonieHat"
+                "MVS_BoonieHat",
+                "CombatBoots_Black"
             ]
         },
         {
@@ -193,7 +194,8 @@
                 "TTsKOJacket_Camo",
                 "CargoPants_Black",
                 "Zeroy_fishing_Wellies_Camo2",
-                "DesignerGlasses"
+                "DesignerGlasses",
+                "CombatBoots_Black"
             ]
         },
         {
@@ -241,6 +243,55 @@
                 "NBCGlovesGray",
                 "NBCBootsYellow",
                 "SurgicalMask"
+            ]
+        },
+        {
+            "Id": 8,
+            "Name": "SurvivorM_Seth",
+            "GivenName": "Walt",
+            "Role": "Specialty Trader",
+            "Position": [
+                5609.49,
+                28.7698,
+                5426.05
+            ],
+            "Orientation": [
+                150.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "SWAT_Vest",
+                "SWAT_Shirt",
+                "SWAT_Pants",
+                "SWAT_Helmet",
+                "SWAT_Gloves",
+                "SWAT_Balaclava",
+                "SWAT_Goggles",
+                "CombatBoots_Black"
+            ]
+        },
+        {
+            "Id": 9,
+            "Name": "SurvivorM_Seth",
+            "GivenName": "Stinky Pete",
+            "Role": "Specialty Trader",
+            "Position": [
+                7633.66,
+                41.1912,
+                9938.85
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "Slouch_Hat_Brown",
+                "bs_cartman",
+                "CargoPants_Beige",
+                "AviatorGlasses",
+                "FlipFlops_Colorbase"
             ]
         }
     ],

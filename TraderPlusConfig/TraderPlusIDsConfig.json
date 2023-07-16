@@ -86,6 +86,7 @@
                 "Holler Bags",
                 "Holler Gear",
                 "Holler Pouches",
+                "Holler Patches & Armbands",
                 "Holler Belts",
                 "Holler Vests",
                 "Holler Ghillies",
@@ -136,16 +137,6 @@
                 "Teddy's Covid",
                 "Teddy's Grenades",
                 "Teddy's Cosmetics",
-                "MVS Pants",
-                "MVS Tops",
-                "MVS Masks",
-                "MVS Hats",
-                "MVS Gear",
-                "MVS Vests",
-                "MVS Helmets",
-                "MVS Bags",
-                "Collectable",
-                "Masks",
                 "Money Exchange"
             ],
             "LicencesRequired": [],
@@ -154,8 +145,7 @@
         {
             "Id": 9,
             "Categories": [
-                "Airsoft Weapons",
-                "Airsoft Clothing",
+                "Stinky Pete's Stash",
                 "Money Exchange"
             ],
             "LicencesRequired": [],
