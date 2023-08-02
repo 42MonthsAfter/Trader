@@ -251,12 +251,12 @@
             "GivenName": "Walt",
             "Role": "Specialty Trader",
             "Position": [
-                5609.49,
-                28.7698,
-                5426.05
+                8202.87,
+                154.633,
+                12237
             ],
             "Orientation": [
-                150.0,
+                220.0,
                 0.0,
                 0.0
             ],
@@ -277,12 +277,12 @@
             "GivenName": "Stinky Pete",
             "Role": "Specialty Trader",
             "Position": [
-                7633.66,
-                41.1912,
-                9938.85
+                8200.14,
+                154.633,
+                12239.7
             ],
             "Orientation": [
-                0.0,
+                180.0,
                 0.0,
                 0.0
             ],

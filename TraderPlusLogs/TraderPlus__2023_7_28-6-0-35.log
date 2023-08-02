@@ -1,0 +1,716 @@
+Creation Time: 2023_7_28-6-0-35
+6-0-35 | [INFO] TraderPlusCore - Started !
+6-0-35 | [INFO] TraderPlus file exist ! loading...
+6-0-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+6-0-35 | [INFO] TraderPlus file exist ! loading...
+6-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+6-0-36 | [INFO] TraderPlus file exist ! loading...
+6-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+6-0-36 | [INFO] TraderPlus file exist ! loading...
+6-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+6-0-36 | [INFO] TraderPlus file exist ! loading...
+6-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+6-0-36 | [INFO] TraderPlus file exist ! loading...
+6-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+6-0-36 | [INFO] TraderPlusServer - Started
+6-0-36 | [INFO] TraderPlusBankingCore - Started !
+6-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.json
+6-0-36 | [INFO] TraderPlusBankingServer - Started
+6-0-36 | [INFO] CarLockCore - Started !
+6-0-36 | [INFO] CarLockServer - Started
+6-0-36 | [INFO] SafeZoneCore - Started !
+6-0-36 | [INFO] DEBUG MODE ENABLED
+6-0-48 | [INFO] RefreshLifeTimeCargo
+6-0-48 | [INFO] RefreshLifeTimeCargo
+6-0-48 | [INFO] RefreshLifeTimeCargo
+6-0-48 | [INFO] RefreshLifeTimeCargo
+6-0-48 | [INFO] RefreshLifeTimeCargo
+6-0-48 | [INFO] RefreshLifeTimeCargo
+6-0-48 | [INFO] RefreshLifeTimeCargo
+6-0-48 | [INFO] RefreshLifeTimeCargo
+6-0-48 | [INFO] RefreshLifeTimeCargo
+6-0-48 | [INFO] RefreshLifeTimeCargo
+6-0-48 | [INFO] RefreshLifeTimeCargo
+6-0-48 | [INFO] RefreshLifeTimeCargo
+6-0-48 | [INFO] RefreshLifeTimeCargo
+6-0-48 | [INFO] RefreshLifeTimeCargo
+6-0-48 | [INFO] RefreshLifeTimeCargo
+6-0-49 | [INFO] RefreshLifeTimeCargo
+6-0-49 | [INFO] RefreshLifeTimeCargo
+6-0-50 | [INFO] RefreshLifeTimeCargo
+6-0-50 | [INFO] RefreshLifeTimeCargo
+6-0-51 | [INFO] RefreshLifeTimeCargo
+6-0-51 | [INFO] RefreshLifeTimeCargo
+6-0-51 | [INFO] RefreshLifeTimeCargo
+6-0-51 | [INFO] RefreshLifeTimeCargo
+6-0-51 | [INFO] RefreshLifeTimeCargo
+6-0-51 | [INFO] RefreshLifeTimeCargo
+6-0-52 | [INFO] RefreshLifeTimeCargo
+6-0-56 | [INFO] RefreshLifeTimeCargo
+6-0-56 | [INFO] RefreshLifeTimeCargo
+6-0-56 | [INFO] RefreshLifeTimeCargo
+6-1-0 | [INFO] ID_count: 10
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Beverages.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Packaged Food.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fruit & Veg.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Meat.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fish.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Fungus.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Holler Pelts.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Vanilla Auto Parts.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Vanilla Vehicle Components.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Civilian Cars.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler SUVs & Trucks.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Military Vehicles.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Public Transport.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Helis.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Holler Heli Parts.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Tools.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Gardening.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Base Building.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Base Decor.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Holler Flags.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Holler Good Good.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Hand Guns.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Bows.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Shotguns.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Sub Machine Guns.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Long Rifles.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Assault Rifles.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Sniper Rifles.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Just Mags.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Buttstocks.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Suppressors.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Compensators.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Optics.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Handguards & Rails.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Bayonets.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Melee & Blades.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Weapon Lights.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Weapon Care.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Holler Ammo.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Bags.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Gear.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Pouches.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Patches & Armbands.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Belts.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Vests.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Ghillies.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Patches & Armbands.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Camping & Survival.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Holler Hunting & Fishing.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Holler Electronics.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Holler Collectibles.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Holler Medical.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Holler Protective Gear.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Melee & Blades.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Pistols.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Machine Guns.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Sniper Rifles.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Shotguns.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Assault Rifles.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Bayonets.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Ammo.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Lights.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Suppressors.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Optics.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Attachments.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Halloween.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Covid.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Grenades.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Cosmetics.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Money Exchange.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_9\Stinky Pete's Stash.json
+6-1-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_9\Money Exchange.json
+6-1-0 | [INFO] SetTradersSpawner: Started
+6-1-0 | [INFO] obj created: SurvivorF_Helga
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] obj created: SurvivorM_Jose
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] obj created: SurvivorM_Taiki
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] obj created: SurvivorF_Eva
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] obj created: SurvivorM_Seth
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] obj created: SurvivorM_Seth
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] obj created: SurvivorF_Eva
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] obj created: SurvivorM_Rolf
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] obj created: SurvivorM_Seth
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] obj created: SurvivorM_Seth
+6-1-0 | [INFO] TraderPlayer created and added!: 
+6-1-0 | [INFO] SetTradersSpawner: Ended
+6-1-0 | [INFO] SetObjectSpawner: Started
+6-1-0 | [INFO] SetObjectSpawner: Ended
+6-1-0 | [INFO] DefaultTraderStock - Started
+7-47-2 | [INFO] GetSafeStatut
+7-48-37 | [INFO] InsuranceRequestHandler
+7-48-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_17954802.json
+7-48-41 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Ammo - ClassName: M18SmokeGrenade_White - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 24 - CollateralMoney: 0 - TradeMode:Sell
+7-48-41 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:M18SmokeGrenade_White quantity:0 health:0 price:24
+7-48-45 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Ammo - ClassName: M18SmokeGrenade_Yellow - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 24 - CollateralMoney: 0 - TradeMode:Sell
+7-48-45 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:M18SmokeGrenade_Yellow quantity:0 health:0 price:24
+7-48-48 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Ammo - ClassName: FlashGrenade - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 18 - CollateralMoney: 0 - TradeMode:Sell
+7-48-48 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:FlashGrenade quantity:0 health:0 price:18
+7-48-50 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Ammo - ClassName: M18SmokeGrenade_Purple - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 24 - CollateralMoney: 0 - TradeMode:Sell
+7-48-50 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:M18SmokeGrenade_Purple quantity:0 health:0 price:24
+7-48-52 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Ammo - ClassName: M18SmokeGrenade_Yellow - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 24 - CollateralMoney: 0 - TradeMode:Sell
+7-48-52 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:M18SmokeGrenade_Yellow quantity:0 health:0 price:24
+7-48-54 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Ammo - ClassName: M18SmokeGrenade_Red - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 24 - CollateralMoney: 0 - TradeMode:Sell
+7-48-54 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:M18SmokeGrenade_Red quantity:0 health:0 price:24
+7-48-55 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Ammo - ClassName: M18SmokeGrenade_Yellow - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 24 - CollateralMoney: 0 - TradeMode:Sell
+7-48-55 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:M18SmokeGrenade_Yellow quantity:0 health:0 price:24
+7-48-57 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Assault Rifles - ClassName: aek - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 720 - CollateralMoney: 0 - TradeMode:Sell
+7-48-57 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:aek quantity:0 health:0 price:720
+7-48-59 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Ammo - ClassName: M18SmokeGrenade_Yellow - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 24 - CollateralMoney: 0 - TradeMode:Sell
+7-48-59 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:M18SmokeGrenade_Yellow quantity:0 health:0 price:24
+7-49-1 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Shotguns - ClassName: Saiga - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 540 - CollateralMoney: 0 - TradeMode:Sell
+7-49-1 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:Saiga quantity:0 health:1 price:540
+7-49-3 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Sub Machine Guns - ClassName: MP5K - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 281 - CollateralMoney: 0 - TradeMode:Sell
+7-49-3 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:MP5K quantity:0 health:1 price:281
+7-49-5 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Buttstocks - ClassName: MP5k_StockBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+7-49-5 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:MP5k_StockBttstck quantity:0 health:0 price:120
+7-49-7 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Handguards & Rails - ClassName: MP5_PlasticHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 96 - CollateralMoney: 0 - TradeMode:Sell
+7-49-7 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:MP5_PlasticHndgrd quantity:0 health:0 price:96
+7-49-9 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Buttstocks - ClassName: Saiga_Bttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 168 - CollateralMoney: 0 - TradeMode:Sell
+7-49-9 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:Saiga_Bttstck quantity:0 health:0 price:168
+7-49-11 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Ammo - ClassName: FlashGrenade - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 18 - CollateralMoney: 0 - TradeMode:Sell
+7-49-11 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:FlashGrenade quantity:0 health:0 price:18
+7-49-13 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Assault Rifles - ClassName: AugShort - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 435 - CollateralMoney: 0 - TradeMode:Sell
+7-49-13 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:AugShort quantity:0 health:0 price:435
+7-49-15 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Ammo - ClassName: M18SmokeGrenade_Purple - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 24 - CollateralMoney: 0 - TradeMode:Sell
+7-49-15 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:M18SmokeGrenade_Purple quantity:0 health:0 price:24
+7-49-17 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Sub Machine Guns - ClassName: PP19 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 480 - CollateralMoney: 0 - TradeMode:Sell
+7-49-17 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:PP19 quantity:0 health:0 price:480
+7-49-19 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Ammo - ClassName: M18SmokeGrenade_Green - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 24 - CollateralMoney: 0 - TradeMode:Sell
+7-49-19 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:M18SmokeGrenade_Green quantity:0 health:0 price:24
+7-49-21 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Ammo - ClassName: M18SmokeGrenade_Red - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 24 - CollateralMoney: 0 - TradeMode:Sell
+7-49-21 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:M18SmokeGrenade_Red quantity:0 health:0 price:24
+7-49-23 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Sub Machine Guns - ClassName: MP5K - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 281 - CollateralMoney: 0 - TradeMode:Sell
+7-49-23 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:MP5K quantity:0 health:1 price:281
+7-49-24 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Handguards & Rails - ClassName: MP5_PlasticHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 96 - CollateralMoney: 0 - TradeMode:Sell
+7-49-24 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:MP5_PlasticHndgrd quantity:0 health:0 price:96
+7-49-26 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Buttstocks - ClassName: MP5k_StockBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+7-49-26 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:MP5k_StockBttstck quantity:0 health:0 price:120
+7-49-34 | [INFO] InsuranceRequestHandler
+7-49-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_17954802.json
+7-49-36 | [INFO] InsuranceRequestHandler
+7-49-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_17954802.json
+7-49-39 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Pistols - ClassName: TWP_SigSauerP250 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 4850 - CollateralMoney: 0 - TradeMode:Sell
+7-49-39 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_SigSauerP250 quantity:0 health:0 price:4850
+7-49-42 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Assault Rifles - ClassName: TWP_AK107Camouflage - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 7200 - CollateralMoney: 0 - TradeMode:Sell
+7-49-42 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_AK107Camouflage quantity:0 health:0 price:7200
+7-49-43 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Pistols - ClassName: TWP_FN57Toxic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 5200 - CollateralMoney: 0 - TradeMode:Sell
+7-49-43 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_FN57Toxic quantity:0 health:0 price:5200
+7-49-45 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Assault Rifles - ClassName: TWP_ASVal - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 7200 - CollateralMoney: 0 - TradeMode:Sell
+7-49-45 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_ASVal quantity:0 health:0 price:7200
+7-49-47 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Pistols - ClassName: TWP_HK47 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 4650 - CollateralMoney: 0 - TradeMode:Sell
+7-49-47 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_HK47 quantity:0 health:0 price:4650
+7-49-49 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Bayonets - ClassName: TWP_BoarBayonet - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 750 - CollateralMoney: 0 - TradeMode:Sell
+7-49-49 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_BoarBayonet quantity:0 health:0 price:750
+7-49-51 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Pistols - ClassName: TWP_P8 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 4450 - CollateralMoney: 0 - TradeMode:Sell
+7-49-51 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_P8 quantity:0 health:0 price:4450
+7-49-53 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Pistols - ClassName: TWP_P2000Protector - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 5650 - CollateralMoney: 0 - TradeMode:Sell
+7-49-53 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_P2000Protector quantity:0 health:0 price:5650
+7-49-55 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Pistols - ClassName: TWP_BerettaSwordCutlass - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 6350 - CollateralMoney: 0 - TradeMode:Sell
+7-49-55 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_BerettaSwordCutlass quantity:0 health:0 price:6350
+7-49-57 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Melee & Blades - ClassName: TWP_SawBat - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Sell
+7-49-57 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_SawBat quantity:0 health:0 price:400
+7-49-59 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Assault Rifles - ClassName: TWP_HK416Blue - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 7200 - CollateralMoney: 0 - TradeMode:Sell
+7-49-59 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_HK416Blue quantity:0 health:0 price:7200
+7-50-0 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Pistols - ClassName: TWP_FN57Pink - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 5600 - CollateralMoney: 0 - TradeMode:Sell
+7-50-0 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_FN57Pink quantity:0 health:0 price:5600
+7-50-2 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Machine Guns - ClassName: TWP_MPX - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 6600 - CollateralMoney: 0 - TradeMode:Sell
+7-50-2 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_MPX quantity:0 health:0 price:6600
+7-50-3 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Assault Rifles - ClassName: TWP_CZScorpion - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 7200 - CollateralMoney: 0 - TradeMode:Sell
+7-50-3 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_CZScorpion quantity:0 health:0 price:7200
+7-50-5 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Pistols - ClassName: TWP_ColtPython - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 6400 - CollateralMoney: 0 - TradeMode:Sell
+7-50-5 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_ColtPython quantity:0 health:0 price:6400
+7-50-7 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Pistols - ClassName: TWP_DesertEagleSky - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 6650 - CollateralMoney: 0 - TradeMode:Sell
+7-50-7 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_DesertEagleSky quantity:0 health:0 price:6650
+7-50-9 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Assault Rifles - ClassName: TWP_CZScorpion - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 7200 - CollateralMoney: 0 - TradeMode:Sell
+7-50-9 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_CZScorpion quantity:0 health:0 price:7200
+7-51-36 | [INFO] InsuranceRequestHandler
+7-51-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_17954802.json
+7-51-39 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Shotguns - ClassName: Saiga - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 540 - CollateralMoney: 0 - TradeMode:Sell
+7-51-39 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:Saiga quantity:0 health:1 price:540
+7-51-41 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Assault Rifles - ClassName: ttak458poli - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 528 - CollateralMoney: 0 - TradeMode:Sell
+7-51-41 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:ttak458poli quantity:0 health:0 price:528
+7-51-42 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Long Rifles - ClassName: Mosin9130 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 303 - CollateralMoney: 0 - TradeMode:Sell
+7-51-42 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:Mosin9130 quantity:0 health:1 price:303
+7-51-44 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Assault Rifles - ClassName: AugShort - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 435 - CollateralMoney: 0 - TradeMode:Sell
+7-51-44 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:AugShort quantity:0 health:0 price:435
+7-51-46 | [INFO] TraderID: 4 - Customer: Col. C. Lopes - Category: Holler Buttstocks - ClassName: Saiga_Bttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 168 - CollateralMoney: 0 - TradeMode:Sell
+7-51-46 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:Saiga_Bttstck quantity:0 health:0 price:168
+7-51-52 | [INFO] InsuranceRequestHandler
+7-51-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_17954802.json
+7-51-54 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Assault Rifles - ClassName: TWP_AMDSpaceship - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 7200 - CollateralMoney: 0 - TradeMode:Sell
+7-51-54 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_AMDSpaceship quantity:0 health:0 price:7200
+7-51-56 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Assault Rifles - ClassName: TWP_GalilSAR - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 7200 - CollateralMoney: 0 - TradeMode:Sell
+7-51-56 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_GalilSAR quantity:0 health:0 price:7200
+7-51-58 | [INFO] TraderID: 8 - Customer: Col. C. Lopes - Category: Teddy's Assault Rifles - ClassName: TWP_ACE23 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 7200 - CollateralMoney: 0 - TradeMode:Sell
+7-51-58 | [INFO] Transaction Sell Succeeded:Col. C. Lopes product:TWP_ACE23 quantity:0 health:0 price:7200
+7-52-47 | [INFO] InsuranceRequestHandler
+7-52-47 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_17954802.json
+7-56-7 | [INFO] GetSafeStatut
+8-52-33 | [INFO] GetSafeStatut
+8-52-33 | [INFO] GetSafeStatut
+8-54-14 | [INFO] InsuranceRequestHandler
+8-54-14 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_439282874.json
+8-54-19 | [INFO] InsuranceRequestHandler
+8-54-19 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_447071218.json
+8-54-23 | [INFO] TraderID: 8 - Customer: og - Category: Teddy's Pistols - ClassName: TWP_MagnumCompetitor - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 7600 - CollateralMoney: 0 - TradeMode:Sell
+8-54-23 | [INFO] Transaction Sell Succeeded:og product:TWP_MagnumCompetitor quantity:0 health:0 price:7600
+8-54-25 | [INFO] TraderID: 8 - Customer: og - Category: Teddy's Pistols - ClassName: TWP_1911_WilsonCombat - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 5500 - CollateralMoney: 0 - TradeMode:Sell
+8-54-25 | [INFO] Transaction Sell Succeeded:og product:TWP_1911_WilsonCombat quantity:0 health:0 price:5500
+8-54-27 | [INFO] TraderID: 8 - Customer: og - Category: Teddy's Pistols - ClassName: TWP_DesertEagleFalcon - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 7000 - CollateralMoney: 0 - TradeMode:Sell
+8-54-27 | [INFO] Transaction Sell Succeeded:og product:TWP_DesertEagleFalcon quantity:0 health:0 price:7000
+8-54-29 | [INFO] TraderID: 8 - Customer: og - Category: Teddy's Pistols - ClassName: TWP_Colt1911Stainless - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 4950 - CollateralMoney: 0 - TradeMode:Sell
+8-54-29 | [INFO] Transaction Sell Succeeded:og product:TWP_Colt1911Stainless quantity:0 health:0 price:4950
+8-54-31 | [INFO] TraderID: 8 - Customer: og - Category: Teddy's Shotguns - ClassName: TWP_Komrad12 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 5800 - CollateralMoney: 0 - TradeMode:Sell
+8-54-31 | [INFO] Transaction Sell Succeeded:og product:TWP_Komrad12 quantity:0 health:0 price:5800
+8-54-34 | [INFO] TraderID: 8 - Customer: og - Category: Teddy's Pistols - ClassName: TWP_ArexZero - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 4200 - CollateralMoney: 0 - TradeMode:Sell
+8-54-34 | [INFO] Transaction Sell Succeeded:og product:TWP_ArexZero quantity:0 health:0 price:4200
+8-54-36 | [INFO] TraderID: 8 - Customer: og - Category: Teddy's Machine Guns - ClassName: TWP_MP7 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 6600 - CollateralMoney: 0 - TradeMode:Sell
+8-54-36 | [INFO] Transaction Sell Succeeded:og product:TWP_MP7 quantity:0 health:0 price:6600
+8-54-38 | [INFO] TraderID: 8 - Customer: og - Category: Teddy's Shotguns - ClassName: TWP_MP153 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 5950 - CollateralMoney: 0 - TradeMode:Sell
+8-54-38 | [INFO] Transaction Sell Succeeded:og product:TWP_MP153 quantity:0 health:0 price:5950
+8-54-40 | [INFO] TraderID: 8 - Customer: og - Category: Teddy's Pistols - ClassName: TWP_GlockZapper - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 6400 - CollateralMoney: 0 - TradeMode:Sell
+8-54-40 | [INFO] Transaction Sell Succeeded:og product:TWP_GlockZapper quantity:0 health:0 price:6400
+8-54-42 | [INFO] TraderID: 8 - Customer: og - Category: Teddy's Machine Guns - ClassName: TWP_P90Shallow_Grave - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 7200 - CollateralMoney: 0 - TradeMode:Sell
+8-54-42 | [INFO] Transaction Sell Succeeded:og product:TWP_P90Shallow_Grave quantity:0 health:0 price:7200
+8-54-44 | [INFO] TraderID: 8 - Customer: og - Category: Teddy's Assault Rifles - ClassName: TWP_Famas - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 7200 - CollateralMoney: 0 - TradeMode:Sell
+8-54-44 | [INFO] Transaction Sell Succeeded:og product:TWP_Famas quantity:0 health:0 price:7200
+8-54-46 | [INFO] TraderID: 8 - Customer: og - Category: Teddy's Shotguns - ClassName: TWP_BenelliM3 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 6800 - CollateralMoney: 0 - TradeMode:Sell
+8-54-46 | [INFO] Transaction Sell Succeeded:og product:TWP_BenelliM3 quantity:0 health:0 price:6800
+8-54-49 | [INFO] TraderID: 8 - Customer: og - Category: Teddy's Assault Rifles - ClassName: TWP_LAR - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 7200 - CollateralMoney: 0 - TradeMode:Sell
+8-54-49 | [INFO] Transaction Sell Succeeded:og product:TWP_LAR quantity:0 health:0 price:7200
+8-55-41 | [INFO] InsuranceRequestHandler
+8-55-41 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_439282874.json
+8-56-3 | [INFO] InsuranceRequestHandler
+8-56-3 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_439282874.json
+8-56-10 | [INFO] TraderID: 5 - Customer: BillyBadAzzJR420 - Category: Holler Belts - ClassName: MilitaryBelt - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+8-56-10 | [INFO] Player:BillyBadAzzJR420 - currency amount:47445
+8-56-10 | [INFO] Transaction Buy Succeeded:BillyBadAzzJR420 product:MilitaryBelt quantity:0 health:0 price:200
+8-56-22 | [INFO] InsuranceRequestHandler
+8-56-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_447071218.json
+8-56-25 | [INFO] TraderID: 8 - Customer: og - Category: Teddy's Pistols - ClassName: TWP_DesertEagle - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 6500 - CollateralMoney: 0 - TradeMode:Sell
+8-56-25 | [INFO] Transaction Sell Succeeded:og product:TWP_DesertEagle quantity:0 health:0 price:6500
+8-56-28 | [INFO] TraderID: 8 - Customer: og - Category: Teddy's Pistols - ClassName: TWP_P2000Renegade - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 5150 - CollateralMoney: 0 - TradeMode:Sell
+8-56-28 | [INFO] Transaction Sell Succeeded:og product:TWP_P2000Renegade quantity:0 health:0 price:5150
+8-56-34 | [INFO] InsuranceRequestHandler
+8-56-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_447071218.json
+8-56-40 | [INFO] TraderID: 4 - Customer: og - Category: Holler Assault Rifles - ClassName: junkak - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 420 - CollateralMoney: 0 - TradeMode:Sell
+8-56-40 | [INFO] Transaction Sell Succeeded:og product:junkak quantity:0 health:0 price:420
+8-56-43 | [INFO] TraderID: 4 - Customer: og - Category: Holler Assault Rifles - ClassName: AK101 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 213 - CollateralMoney: 0 - TradeMode:Sell
+8-56-43 | [INFO] Transaction Sell Succeeded:og product:AK101 quantity:0 health:1 price:213
+8-56-45 | [INFO] TraderID: 4 - Customer: og - Category: Holler Assault Rifles - ClassName: M16A2 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 247 - CollateralMoney: 0 - TradeMode:Sell
+8-56-45 | [INFO] Transaction Sell Succeeded:og product:M16A2 quantity:0 health:1 price:247
+8-56-48 | [INFO] TraderID: 4 - Customer: og - Category: Holler Assault Rifles - ClassName: M16A2 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 247 - CollateralMoney: 0 - TradeMode:Sell
+8-56-48 | [INFO] Transaction Sell Succeeded:og product:M16A2 quantity:0 health:1 price:247
+8-56-50 | [INFO] TraderID: 4 - Customer: og - Category: Holler Buttstocks - ClassName: AK74_WoodBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-56-50 | [INFO] Transaction Sell Succeeded:og product:AK74_WoodBttstck quantity:0 health:0 price:120
+8-56-53 | [INFO] TraderID: 4 - Customer: og - Category: Holler Just Mags - ClassName: Mag_CMAG_10Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-56-53 | [INFO] Transaction Sell Succeeded:og product:Mag_CMAG_10Rnd quantity:0 health:0 price:120
+8-56-56 | [INFO] TraderID: 4 - Customer: og - Category: Holler Just Mags - ClassName: Mag_CMAG_10Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-56-56 | [INFO] Transaction Sell Succeeded:og product:Mag_CMAG_10Rnd quantity:0 health:0 price:120
+8-56-58 | [INFO] TraderID: 4 - Customer: og - Category: Holler Just Mags - ClassName: Mag_AK74_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-56-58 | [INFO] Transaction Sell Succeeded:og product:Mag_AK74_30Rnd quantity:0 health:0 price:120
+8-56-59 | [INFO] InsuranceRequestHandler
+8-56-59 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_439282874.json
+8-56-59 | [INFO] TraderID: 4 - Customer: og - Category: Holler Handguards & Rails - ClassName: AK_PlasticHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 72 - CollateralMoney: 0 - TradeMode:Sell
+8-56-59 | [INFO] Transaction Sell Succeeded:og product:AK_PlasticHndgrd quantity:0 health:0 price:72
+8-57-1 | [INFO] TraderID: 4 - Customer: og - Category: Holler Buttstocks - ClassName: AK_WoodBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-57-1 | [INFO] Transaction Sell Succeeded:og product:AK_WoodBttstck quantity:0 health:0 price:120
+8-57-3 | [INFO] TraderID: 4 - Customer: og - Category: Holler Handguards & Rails - ClassName: AK_PlasticHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 72 - CollateralMoney: 0 - TradeMode:Sell
+8-57-3 | [INFO] Transaction Sell Succeeded:og product:AK_PlasticHndgrd quantity:0 health:0 price:72
+8-57-8 | [INFO] TraderID: 4 - Customer: og - Category: Holler Handguards & Rails - ClassName: AK_PlasticHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 72 - CollateralMoney: 0 - TradeMode:Sell
+8-57-8 | [INFO] Transaction Sell Succeeded:og product:AK_PlasticHndgrd quantity:0 health:0 price:72
+8-57-9 | [INFO] TraderID: 4 - Customer: og - Category: Holler Suppressors - ClassName: M4_Suppressor - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 360 - CollateralMoney: 0 - TradeMode:Sell
+8-57-9 | [INFO] Transaction Sell Succeeded:og product:M4_Suppressor quantity:0 health:0 price:360
+8-57-12 | [INFO] TraderID: 4 - Customer: og - Category: Holler Suppressors - ClassName: AK_Suppressor - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 360 - CollateralMoney: 0 - TradeMode:Sell
+8-57-12 | [INFO] Transaction Sell Succeeded:og product:AK_Suppressor quantity:0 health:0 price:360
+8-57-14 | [INFO] TraderID: 4 - Customer: og - Category: Holler Just Mags - ClassName: Mag_AKM_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-57-14 | [INFO] Transaction Sell Succeeded:og product:Mag_AKM_30Rnd quantity:0 health:0 price:120
+8-57-17 | [INFO] TraderID: 4 - Customer: og - Category: Holler Handguards & Rails - ClassName: M4_MPHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 96 - CollateralMoney: 0 - TradeMode:Sell
+8-57-17 | [INFO] Transaction Sell Succeeded:og product:M4_MPHndgrd quantity:0 health:0 price:96
+8-57-19 | [INFO] TraderID: 4 - Customer: og - Category: Holler Handguards & Rails - ClassName: M4_RISHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 84 - CollateralMoney: 0 - TradeMode:Sell
+8-57-19 | [INFO] Transaction Sell Succeeded:og product:M4_RISHndgrd quantity:0 health:0 price:84
+8-57-22 | [INFO] TraderID: 4 - Customer: og - Category: Holler Just Mags - ClassName: Mag_VSS_10Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-57-22 | [INFO] Transaction Sell Succeeded:og product:Mag_VSS_10Rnd quantity:0 health:0 price:120
+8-57-24 | [INFO] TraderID: 4 - Customer: og - Category: Holler Assault Rifles - ClassName: FAMAS - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 360 - CollateralMoney: 0 - TradeMode:Sell
+8-57-24 | [INFO] Transaction Sell Succeeded:og product:FAMAS quantity:0 health:1 price:360
+8-57-28 | [INFO] TraderID: 4 - Customer: og - Category: Holler Buttstocks - ClassName: M4_OEBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-57-28 | [INFO] Transaction Sell Succeeded:og product:M4_OEBttstck quantity:0 health:0 price:120
+8-57-30 | [INFO] TraderID: 4 - Customer: og - Category: Holler Handguards & Rails - ClassName: AK74_Hndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 108 - CollateralMoney: 0 - TradeMode:Sell
+8-57-30 | [INFO] Transaction Sell Succeeded:og product:AK74_Hndgrd quantity:0 health:0 price:108
+8-57-32 | [INFO] TraderID: 4 - Customer: og - Category: Holler Buttstocks - ClassName: M4_OEBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-57-32 | [INFO] Transaction Sell Succeeded:og product:M4_OEBttstck quantity:0 health:0 price:120
+8-57-34 | [INFO] TraderID: 4 - Customer: og - Category: Holler Buttstocks - ClassName: M4_OEBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-57-34 | [INFO] Transaction Sell Succeeded:og product:M4_OEBttstck quantity:0 health:0 price:120
+8-57-35 | [INFO] TraderID: 5 - Customer: BillyBadAzzJR420 - Category: Holler Patches & Armbands - ClassName: MVS_Patch_10 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1 - CollateralMoney: 0 - TradeMode:Buy
+8-57-35 | [INFO] Player:BillyBadAzzJR420 - currency amount:47245
+8-57-35 | [INFO] Transaction Buy Succeeded:BillyBadAzzJR420 product:MVS_Patch_10 quantity:0 health:0 price:1
+8-57-36 | [INFO] TraderID: 4 - Customer: og - Category: Holler Handguards & Rails - ClassName: AK74_Hndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 108 - CollateralMoney: 0 - TradeMode:Sell
+8-57-36 | [INFO] Transaction Sell Succeeded:og product:AK74_Hndgrd quantity:0 health:0 price:108
+8-57-39 | [INFO] TraderID: 4 - Customer: og - Category: Holler Buttstocks - ClassName: AK_PlasticBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-57-39 | [INFO] Transaction Sell Succeeded:og product:AK_PlasticBttstck quantity:0 health:0 price:120
+8-57-41 | [INFO] TraderID: 4 - Customer: og - Category: Holler Buttstocks - ClassName: AK_PlasticBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-57-41 | [INFO] Transaction Sell Succeeded:og product:AK_PlasticBttstck quantity:0 health:0 price:120
+8-57-43 | [INFO] TraderID: 4 - Customer: og - Category: Holler Just Mags - ClassName: Mag_FAMAS_25Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-57-43 | [INFO] Transaction Sell Succeeded:og product:Mag_FAMAS_25Rnd quantity:0 health:0 price:120
+8-57-46 | [INFO] TraderID: 4 - Customer: og - Category: Holler Just Mags - ClassName: Mag_VAL_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-57-46 | [INFO] Transaction Sell Succeeded:og product:Mag_VAL_20Rnd quantity:0 health:0 price:120
+8-57-48 | [INFO] TraderID: 4 - Customer: og - Category: Holler Just Mags - ClassName: Mag_FAMAS_25Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-57-48 | [INFO] Transaction Sell Succeeded:og product:Mag_FAMAS_25Rnd quantity:0 health:0 price:120
+8-57-50 | [INFO] TraderID: 4 - Customer: og - Category: Holler Buttstocks - ClassName: AK_PlasticBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-57-50 | [INFO] Transaction Sell Succeeded:og product:AK_PlasticBttstck quantity:0 health:0 price:120
+8-57-53 | [INFO] TraderID: 4 - Customer: og - Category: Holler Optics - ClassName: KashtanOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 330 - CollateralMoney: 0 - TradeMode:Sell
+8-57-53 | [INFO] Transaction Sell Succeeded:og product:KashtanOptic quantity:0 health:0 price:330
+8-57-55 | [INFO] TraderID: 4 - Customer: og - Category: Holler Optics - ClassName: KashtanOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 330 - CollateralMoney: 0 - TradeMode:Sell
+8-57-55 | [INFO] Transaction Sell Succeeded:og product:KashtanOptic quantity:0 health:0 price:330
+8-57-58 | [INFO] TraderID: 4 - Customer: og - Category: Holler Handguards & Rails - ClassName: M4_PlasticHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 72 - CollateralMoney: 0 - TradeMode:Sell
+8-57-58 | [INFO] Transaction Sell Succeeded:og product:M4_PlasticHndgrd quantity:0 health:0 price:72
+8-58-0 | [INFO] TraderID: 4 - Customer: og - Category: Holler Buttstocks - ClassName: AK_FoldingBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 132 - CollateralMoney: 0 - TradeMode:Sell
+8-58-0 | [INFO] Transaction Sell Succeeded:og product:AK_FoldingBttstck quantity:0 health:0 price:132
+8-58-3 | [INFO] TraderID: 4 - Customer: og - Category: Holler Just Mags - ClassName: Mag_Saiga_8Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-58-3 | [INFO] Transaction Sell Succeeded:og product:Mag_Saiga_8Rnd quantity:0 health:0 price:120
+8-58-5 | [INFO] TraderID: 4 - Customer: og - Category: Holler Handguards & Rails - ClassName: M4_PlasticHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 72 - CollateralMoney: 0 - TradeMode:Sell
+8-58-5 | [INFO] Transaction Sell Succeeded:og product:M4_PlasticHndgrd quantity:0 health:0 price:72
+8-58-7 | [INFO] TraderID: 4 - Customer: og - Category: Holler Handguards & Rails - ClassName: AK_WoodHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 96 - CollateralMoney: 0 - TradeMode:Sell
+8-58-7 | [INFO] Transaction Sell Succeeded:og product:AK_WoodHndgrd quantity:0 health:0 price:96
+8-58-9 | [INFO] TraderID: 4 - Customer: og - Category: Holler Handguards & Rails - ClassName: AK_WoodHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 96 - CollateralMoney: 0 - TradeMode:Sell
+8-58-9 | [INFO] Transaction Sell Succeeded:og product:AK_WoodHndgrd quantity:0 health:0 price:96
+8-58-19 | [INFO] InsuranceRequestHandler
+8-58-19 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_447071218.json
+8-59-0 | [INFO] InsuranceRequestHandler
+8-59-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_439282874.json
+8-59-6 | [INFO] InsuranceRequestHandler
+8-59-6 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_447071218.json
+8-59-9 | [INFO] TraderID: 3 - Customer: og - Category: Holler Good Good - ClassName: CP_TobaccoSeedsPack - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 7 - CollateralMoney: 0 - TradeMode:Sell
+8-59-9 | [INFO] Transaction Sell Succeeded:og product:CP_TobaccoSeedsPack quantity:0 health:0 price:7
+8-59-11 | [INFO] TraderID: 3 - Customer: og - Category: Holler Good Good - ClassName: CP_Relief_Balm - Quantity: 24 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 175 - CollateralMoney: 0 - TradeMode:Sell
+8-59-11 | [INFO] Transaction Sell Succeeded:og product:CP_Relief_Balm quantity:24 health:0 price:175
+8-59-11 | [INFO] TraderID: 5 - Customer: BillyBadAzzJR420 - Category: Holler Patches & Armbands - ClassName: MVS_Patch_29 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1 - CollateralMoney: 0 - TradeMode:Buy
+8-59-11 | [INFO] Player:BillyBadAzzJR420 - currency amount:47244
+8-59-11 | [INFO] Transaction Buy Succeeded:BillyBadAzzJR420 product:MVS_Patch_29 quantity:0 health:0 price:1
+8-59-13 | [INFO] TraderID: 3 - Customer: og - Category: Holler Good Good - ClassName: CP_Relief_Balm - Quantity: 24 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 175 - CollateralMoney: 0 - TradeMode:Sell
+8-59-13 | [INFO] Transaction Sell Succeeded:og product:CP_Relief_Balm quantity:24 health:0 price:175
+8-59-29 | [INFO] InsuranceRequestHandler
+8-59-29 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_439282874.json
+8-59-34 | [INFO] InsuranceRequestHandler
+8-59-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_447071218.json
+8-59-37 | [INFO] TraderID: 2 - Customer: og - Category: Holler Gardening - ClassName: PepperSeedsPack - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-59-37 | [INFO] Transaction Sell Succeeded:og product:PepperSeedsPack quantity:0 health:0 price:120
+8-59-39 | [INFO] TraderID: 2 - Customer: og - Category: Holler Gardening - ClassName: PepperSeedsPack - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-59-39 | [INFO] Transaction Sell Succeeded:og product:PepperSeedsPack quantity:0 health:0 price:120
+8-59-40 | [INFO] TraderID: 2 - Customer: og - Category: Holler Gardening - ClassName: PumpkinSeedsPack - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-59-40 | [INFO] Transaction Sell Succeeded:og product:PumpkinSeedsPack quantity:0 health:0 price:120
+8-59-43 | [INFO] TraderID: 2 - Customer: og - Category: Holler Gardening - ClassName: TomatoSeedsPack - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-59-43 | [INFO] Transaction Sell Succeeded:og product:TomatoSeedsPack quantity:0 health:0 price:120
+8-59-45 | [INFO] TraderID: 2 - Customer: og - Category: Holler Gardening - ClassName: TomatoSeedsPack - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-59-45 | [INFO] Transaction Sell Succeeded:og product:TomatoSeedsPack quantity:0 health:0 price:120
+8-59-47 | [INFO] TraderID: 2 - Customer: og - Category: Holler Gardening - ClassName: PumpkinSeedsPack - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-59-47 | [INFO] Transaction Sell Succeeded:og product:PumpkinSeedsPack quantity:0 health:0 price:120
+8-59-50 | [INFO] TraderID: 2 - Customer: og - Category: Holler Gardening - ClassName: ZucchiniSeedsPack - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-59-50 | [INFO] Transaction Sell Succeeded:og product:ZucchiniSeedsPack quantity:0 health:0 price:120
+8-59-53 | [INFO] TraderID: 2 - Customer: og - Category: Holler Gardening - ClassName: ZucchiniSeedsPack - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-59-53 | [INFO] Transaction Sell Succeeded:og product:ZucchiniSeedsPack quantity:0 health:0 price:120
+8-59-56 | [INFO] TraderID: 2 - Customer: og - Category: Holler Gardening - ClassName: ZucchiniSeedsPack - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-59-56 | [INFO] Transaction Sell Succeeded:og product:ZucchiniSeedsPack quantity:0 health:0 price:120
+8-59-58 | [INFO] TraderID: 2 - Customer: og - Category: Holler Gardening - ClassName: PumpkinSeedsPack - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+8-59-58 | [INFO] Transaction Sell Succeeded:og product:PumpkinSeedsPack quantity:0 health:0 price:120
+9-0-2 | [INFO] InsuranceRequestHandler
+9-0-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_439282874.json
+9-0-52 | [INFO] InsuranceRequestHandler
+9-0-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_439282874.json
+9-1-2 | [INFO] TraderID: 7 - Customer: BillyBadAzzJR420 - Category: Holler Medical - ClassName: BandageDressing - Quantity: 4 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+9-1-2 | [INFO] Player:BillyBadAzzJR420 - currency amount:47243
+9-1-2 | [INFO] Transaction Buy Succeeded:BillyBadAzzJR420 product:BandageDressing quantity:4 health:0 price:400
+9-1-9 | [INFO] TraderID: 7 - Customer: BillyBadAzzJR420 - Category: Holler Medical - ClassName: TetracyclineAntibiotics - Quantity: 12 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1400 - CollateralMoney: 0 - TradeMode:Buy
+9-1-9 | [INFO] Player:BillyBadAzzJR420 - currency amount:46843
+9-1-9 | [INFO] Transaction Buy Succeeded:BillyBadAzzJR420 product:TetracyclineAntibiotics quantity:12 health:0 price:1400
+9-1-11 | [INFO] TraderID: 7 - Customer: BillyBadAzzJR420 - Category: Holler Medical - ClassName: VitaminBottle - Quantity: 50 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Buy
+9-1-11 | [INFO] Player:BillyBadAzzJR420 - currency amount:45443
+9-1-11 | [INFO] Transaction Buy Succeeded:BillyBadAzzJR420 product:VitaminBottle quantity:50 health:0 price:2000
+9-2-21 | [INFO] InsuranceRequestHandler
+9-2-21 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_447071218.json
+9-2-25 | [INFO] TraderID: 4 - Customer: og - Category: Holler Assault Rifles - ClassName: M16A2 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 247 - CollateralMoney: 0 - TradeMode:Sell
+9-2-25 | [INFO] Transaction Sell Succeeded:og product:M16A2 quantity:0 health:1 price:247
+9-5-1 | [INFO] GetSafeStatut
+9-8-31 | [INFO] GetSafeStatut
+9-8-32 | [INFO] GetSafeStatut
+9-34-20 | [INFO] GetSafeStatut
+9-34-20 | [INFO] GetSafeStatut
+9-34-40 | [INFO] GetSafeStatut
+9-34-43 | [INFO] GetSafeStatut
+9-35-34 | [INFO] GetSafeStatut
+9-35-47 | [INFO] InsuranceRequestHandler
+9-35-47 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_447071218.json
+9-36-2 | [INFO] TraderID: 1 - Customer: og - Category: Holler Vanilla Auto Parts - ClassName: CarLock - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Buy
+9-36-2 | [INFO] Player:og - currency amount:50275
+9-36-2 | [INFO] Transaction Buy Succeeded:og product:CarLock quantity:0 health:0 price:2000
+9-36-17 | [INFO] InsuranceRequestHandler
+9-36-17 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_447071218.json
+9-36-26 | [INFO] TraderID: 7 - Customer: og - Category: Holler Medical - ClassName: TetracyclineAntibiotics - Quantity: 12 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1400 - CollateralMoney: 0 - TradeMode:Buy
+9-36-26 | [INFO] Player:og - currency amount:48275
+9-36-26 | [INFO] Transaction Buy Succeeded:og product:TetracyclineAntibiotics quantity:12 health:0 price:1400
+9-37-8 | [INFO] GetSafeStatut
+9-38-35 | [INFO] GetSafeStatut
+9-38-54 | [INFO] InsuranceRequestHandler
+9-38-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_439282874.json
+9-39-1 | [INFO] TraderID: 7 - Customer: BillyBadAzzJR420 - Category: Holler Medical - ClassName: DisinfectantSpray - Quantity: 500 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+9-39-1 | [INFO] Player:BillyBadAzzJR420 - currency amount:43443
+9-39-1 | [INFO] Transaction Buy Succeeded:BillyBadAzzJR420 product:DisinfectantSpray quantity:500 health:0 price:400
+9-39-5 | [INFO] TraderID: 7 - Customer: BillyBadAzzJR420 - Category: Holler Medical - ClassName: IodineTincture - Quantity: 250 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 750 - CollateralMoney: 0 - TradeMode:Buy
+9-39-5 | [INFO] Player:BillyBadAzzJR420 - currency amount:43043
+9-39-5 | [INFO] Transaction Buy Succeeded:BillyBadAzzJR420 product:IodineTincture quantity:250 health:0 price:750
+9-39-8 | [INFO] TraderID: 7 - Customer: BillyBadAzzJR420 - Category: Holler Medical - ClassName: CharcoalTablets - Quantity: 12 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 600 - CollateralMoney: 0 - TradeMode:Buy
+9-39-8 | [INFO] Player:BillyBadAzzJR420 - currency amount:42293
+9-39-8 | [INFO] Transaction Buy Succeeded:BillyBadAzzJR420 product:CharcoalTablets quantity:12 health:0 price:600
+9-39-16 | [INFO] GetSafeStatut
+9-39-31 | [INFO] InsuranceRequestHandler
+9-39-31 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_447071218.json
+9-39-41 | [INFO] TraderID: 1 - Customer: og - Category: Holler Heli Parts - ClassName: RFFSHeli_flight_case_red - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 20000 - CollateralMoney: 0 - TradeMode:Buy
+9-39-41 | [INFO] Player:og - currency amount:46875
+9-39-41 | [INFO] Transaction Buy Succeeded:og product:RFFSHeli_flight_case_red quantity:0 health:0 price:20000
+9-39-56 | [INFO] InsuranceRequestHandler
+9-39-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_439282874.json
+9-40-59 | [INFO] GetSafeStatut
+9-44-45 | [INFO] GetSafeStatut
+9-45-26 | [INFO] GetSafeStatut
+9-46-55 | [INFO] GetSafeStatut
+9-47-44 | [INFO] GetSafeStatut
+9-48-0 | [INFO] GetSafeStatut
+10-50-48 | [INFO] InsuranceRequestHandler
+10-50-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+10-50-56 | [INFO] TraderID: 9 - Customer: Dustin - Category: Stinky Pete's Stash - ClassName: Collectable_PokemonCard_Alakazam - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 7500 - CollateralMoney: 0 - TradeMode:Sell
+10-50-56 | [INFO] Transaction Sell Succeeded:Dustin product:Collectable_PokemonCard_Alakazam quantity:0 health:0 price:7500
+10-53-23 | [INFO] InsuranceRequestHandler
+10-53-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-24-30 | [INFO] GetSafeStatut
+11-27-44 | [INFO] InsuranceRequestHandler
+11-27-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-27-49 | [INFO] TraderID: 7 - Customer: Dustin - Category: Holler Medical - ClassName: Morphine - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1500 - CollateralMoney: 0 - TradeMode:Sell
+11-27-49 | [INFO] Transaction Sell Succeeded:Dustin product:Morphine quantity:0 health:0 price:1500
+11-27-54 | [INFO] TraderID: 7 - Customer: Dustin - Category: Holler Medical - ClassName: DisinfectantAlcohol - Quantity: 200 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 360 - CollateralMoney: 0 - TradeMode:Sell
+11-27-54 | [INFO] Transaction Sell Succeeded:Dustin product:DisinfectantAlcohol quantity:200 health:0 price:360
+11-28-9 | [INFO] InsuranceRequestHandler
+11-28-9 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-29-17 | [INFO] InsuranceRequestHandler
+11-29-17 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-29-36 | [INFO] InsuranceRequestHandler
+11-29-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-29-40 | [INFO] TraderID: 5 - Customer: Dustin - Category: Holler Hunting & Fishing - ClassName: FishingRod - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 390 - CollateralMoney: 0 - TradeMode:Sell
+11-29-40 | [INFO] Transaction Sell Succeeded:Dustin product:FishingRod quantity:0 health:0 price:390
+11-29-42 | [INFO] TraderID: 5 - Customer: Dustin - Category: Holler Ghillies - ClassName: GhillieTop_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1500 - CollateralMoney: 0 - TradeMode:Sell
+11-29-42 | [INFO] Transaction Sell Succeeded:Dustin product:GhillieTop_Tan quantity:0 health:0 price:1500
+11-29-45 | [INFO] TraderID: 5 - Customer: Dustin - Category: Holler Hunting & Fishing - ClassName: FishingRod - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 390 - CollateralMoney: 0 - TradeMode:Sell
+11-29-45 | [INFO] Transaction Sell Succeeded:Dustin product:FishingRod quantity:0 health:0 price:390
+11-30-2 | [INFO] InsuranceRequestHandler
+11-30-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-30-5 | [INFO] TraderID: 5 - Customer: Dustin - Category: Holler Hunting & Fishing - ClassName: Msp_TackleBox - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 576 - CollateralMoney: 0 - TradeMode:Sell
+11-30-5 | [INFO] Transaction Sell Succeeded:Dustin product:Msp_TackleBox quantity:0 health:0 price:576
+11-30-26 | [INFO] InsuranceRequestHandler
+11-30-26 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-30-32 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Just Mags - ClassName: Mag_MP5_15Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+11-30-32 | [INFO] Transaction Sell Succeeded:Dustin product:Mag_MP5_15Rnd quantity:0 health:0 price:120
+11-30-39 | [INFO] InsuranceRequestHandler
+11-30-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-30-53 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Just Mags - ClassName: Mag_Deagle_9rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+11-30-53 | [INFO] Transaction Sell Succeeded:Dustin product:Mag_Deagle_9rnd quantity:0 health:0 price:120
+11-30-58 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Melee & Blades - ClassName: KukriKnife - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 420 - CollateralMoney: 0 - TradeMode:Sell
+11-30-58 | [INFO] Transaction Sell Succeeded:Dustin product:KukriKnife quantity:0 health:0 price:420
+11-31-1 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Long Rifles - ClassName: ttgarand - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 540 - CollateralMoney: 0 - TradeMode:Sell
+11-31-1 | [INFO] Transaction Sell Succeeded:Dustin product:ttgarand quantity:0 health:0 price:540
+11-31-23 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Assault Rifles - ClassName: M16A2 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 247 - CollateralMoney: 0 - TradeMode:Sell
+11-31-23 | [INFO] Transaction Sell Succeeded:Dustin product:M16A2 quantity:0 health:1 price:247
+11-31-28 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Assault Rifles - ClassName: M4A1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 396 - CollateralMoney: 0 - TradeMode:Sell
+11-31-28 | [INFO] Transaction Sell Succeeded:Dustin product:M4A1 quantity:0 health:1 price:396
+11-32-22 | [INFO] InsuranceRequestHandler
+11-32-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-32-38 | [INFO] InsuranceRequestHandler
+11-32-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-32-46 | [INFO] InsuranceRequestHandler
+11-32-46 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-32-50 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Assault Rifles - ClassName: M4A1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 396 - CollateralMoney: 0 - TradeMode:Sell
+11-32-50 | [INFO] Transaction Sell Succeeded:Dustin product:M4A1 quantity:0 health:1 price:396
+11-32-52 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Buttstocks - ClassName: M4_OEBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+11-32-52 | [INFO] Transaction Sell Succeeded:Dustin product:M4_OEBttstck quantity:0 health:0 price:120
+11-32-55 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Buttstocks - ClassName: M4_OEBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+11-32-55 | [INFO] Transaction Sell Succeeded:Dustin product:M4_OEBttstck quantity:0 health:0 price:120
+11-32-57 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Optics - ClassName: M4_CarryHandleOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 156 - CollateralMoney: 0 - TradeMode:Sell
+11-32-57 | [INFO] Transaction Sell Succeeded:Dustin product:M4_CarryHandleOptic quantity:0 health:0 price:156
+11-33-0 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Handguards & Rails - ClassName: M4_PlasticHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 72 - CollateralMoney: 0 - TradeMode:Sell
+11-33-0 | [INFO] Transaction Sell Succeeded:Dustin product:M4_PlasticHndgrd quantity:0 health:0 price:72
+11-33-8 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Optics - ClassName: M4_CarryHandleOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 156 - CollateralMoney: 0 - TradeMode:Sell
+11-33-8 | [INFO] Transaction Sell Succeeded:Dustin product:M4_CarryHandleOptic quantity:0 health:0 price:156
+11-33-17 | [INFO] InsuranceRequestHandler
+11-33-17 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-33-22 | [INFO] InsuranceRequestHandler
+11-33-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-33-39 | [INFO] InsuranceRequestHandler
+11-33-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-33-43 | [INFO] TraderID: 8 - Customer: Dustin - Category: Teddy's Halloween - ClassName: TWP_BloodyMachete - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Sell
+11-33-43 | [INFO] Transaction Sell Succeeded:Dustin product:TWP_BloodyMachete quantity:0 health:0 price:500
+11-33-51 | [INFO] InsuranceRequestHandler
+11-33-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-33-56 | [INFO] TraderID: 6 - Customer: Dustin - Category: Holler Electronics - ClassName: ElectronicRepairKit - Quantity: 100 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1200 - CollateralMoney: 0 - TradeMode:Sell
+11-33-56 | [INFO] Transaction Sell Succeeded:Dustin product:ElectronicRepairKit quantity:100 health:0 price:1200
+11-34-5 | [INFO] InsuranceRequestHandler
+11-34-5 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-34-44 | [INFO] InsuranceRequestHandler
+11-34-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-34-53 | [INFO] InsuranceRequestHandler
+11-34-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-35-2 | [INFO] InsuranceRequestHandler
+11-35-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-35-10 | [INFO] InsuranceRequestHandler
+11-35-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-35-14 | [INFO] TraderID: 8 - Customer: Dustin - Category: Teddy's Shotguns - ClassName: TWP_Armsan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 5200 - CollateralMoney: 0 - TradeMode:Sell
+11-35-14 | [INFO] Transaction Sell Succeeded:Dustin product:TWP_Armsan quantity:0 health:0 price:5200
+11-35-29 | [INFO] InsuranceRequestHandler
+11-35-29 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-36-50 | [INFO] InsuranceRequestHandler
+11-36-50 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-36-54 | [INFO] TraderID: 3 - Customer: Dustin - Category: Holler Good Good - ClassName: CP_CannabisSeedsPackBlackFrost - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3458 - CollateralMoney: 0 - TradeMode:Sell
+11-36-54 | [INFO] Transaction Sell Succeeded:Dustin product:CP_CannabisSeedsPackBlackFrost quantity:0 health:0 price:3458
+11-36-57 | [INFO] TraderID: 3 - Customer: Dustin - Category: Holler Good Good - ClassName: CP_CannabisSeedsPackBlue - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2652 - CollateralMoney: 0 - TradeMode:Sell
+11-36-57 | [INFO] Transaction Sell Succeeded:Dustin product:CP_CannabisSeedsPackBlue quantity:0 health:0 price:2652
+11-40-41 | [INFO] InsuranceRequestHandler
+11-40-41 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-41-2 | [INFO] InsuranceRequestHandler
+11-41-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-41-15 | [INFO] InsuranceRequestHandler
+11-41-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-41-25 | [INFO] InsuranceRequestHandler
+11-41-25 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-41-46 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Optics - ClassName: ACOGOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 475 - CollateralMoney: 0 - TradeMode:Buy
+11-41-46 | [INFO] Player:Dustin - currency amount:55646
+11-41-46 | [INFO] Transaction Buy Succeeded:Dustin product:ACOGOptic quantity:0 health:0 price:475
+11-42-45 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Ammo - ClassName: AmmoBox_9x39AP_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 320 - CollateralMoney: 0 - TradeMode:Buy
+11-42-45 | [INFO] Player:Dustin - currency amount:55171
+11-42-45 | [INFO] Transaction Buy Succeeded:Dustin product:AmmoBox_9x39AP_20Rnd quantity:0 health:0 price:320
+11-42-47 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Ammo - ClassName: AmmoBox_9x39AP_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 320 - CollateralMoney: 0 - TradeMode:Buy
+11-42-47 | [INFO] Player:Dustin - currency amount:54851
+11-42-47 | [INFO] Transaction Buy Succeeded:Dustin product:AmmoBox_9x39AP_20Rnd quantity:0 health:0 price:320
+11-42-48 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Ammo - ClassName: AmmoBox_9x39AP_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 320 - CollateralMoney: 0 - TradeMode:Buy
+11-42-48 | [INFO] Player:Dustin - currency amount:54531
+11-42-48 | [INFO] Transaction Buy Succeeded:Dustin product:AmmoBox_9x39AP_20Rnd quantity:0 health:0 price:320
+11-42-50 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Ammo - ClassName: AmmoBox_9x39AP_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 320 - CollateralMoney: 0 - TradeMode:Buy
+11-42-50 | [INFO] Player:Dustin - currency amount:54211
+11-42-50 | [INFO] Transaction Buy Succeeded:Dustin product:AmmoBox_9x39AP_20Rnd quantity:0 health:0 price:320
+11-42-51 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Ammo - ClassName: AmmoBox_9x39AP_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 320 - CollateralMoney: 0 - TradeMode:Buy
+11-42-51 | [INFO] Player:Dustin - currency amount:53891
+11-42-51 | [INFO] Transaction Buy Succeeded:Dustin product:AmmoBox_9x39AP_20Rnd quantity:0 health:0 price:320
+11-42-52 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Ammo - ClassName: AmmoBox_9x39AP_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 320 - CollateralMoney: 0 - TradeMode:Buy
+11-42-52 | [INFO] Player:Dustin - currency amount:53571
+11-42-52 | [INFO] Transaction Buy Succeeded:Dustin product:AmmoBox_9x39AP_20Rnd quantity:0 health:0 price:320
+11-42-53 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Ammo - ClassName: AmmoBox_9x39AP_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 320 - CollateralMoney: 0 - TradeMode:Buy
+11-42-53 | [INFO] Player:Dustin - currency amount:53251
+11-42-53 | [INFO] Transaction Buy Succeeded:Dustin product:AmmoBox_9x39AP_20Rnd quantity:0 health:0 price:320
+11-42-54 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Ammo - ClassName: AmmoBox_9x39AP_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 320 - CollateralMoney: 0 - TradeMode:Buy
+11-42-54 | [INFO] Player:Dustin - currency amount:52931
+11-42-54 | [INFO] Transaction Buy Succeeded:Dustin product:AmmoBox_9x39AP_20Rnd quantity:0 health:0 price:320
+11-42-56 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Ammo - ClassName: AmmoBox_9x39AP_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 320 - CollateralMoney: 0 - TradeMode:Buy
+11-42-56 | [INFO] Player:Dustin - currency amount:52611
+11-42-56 | [INFO] Transaction Buy Succeeded:Dustin product:AmmoBox_9x39AP_20Rnd quantity:0 health:0 price:320
+11-42-57 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Ammo - ClassName: AmmoBox_9x39AP_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 320 - CollateralMoney: 0 - TradeMode:Buy
+11-42-57 | [INFO] Player:Dustin - currency amount:52291
+11-42-57 | [INFO] Transaction Buy Succeeded:Dustin product:AmmoBox_9x39AP_20Rnd quantity:0 health:0 price:320
+11-45-7 | [INFO] InsuranceRequestHandler
+11-45-7 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-45-22 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Assault Rifles - ClassName: M4A1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 528 - CollateralMoney: 0 - TradeMode:Sell
+11-45-22 | [INFO] Transaction Sell Succeeded:Dustin product:M4A1 quantity:0 health:0 price:528
+11-45-26 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Suppressors - ClassName: M4_Suppressor - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 270 - CollateralMoney: 0 - TradeMode:Sell
+11-45-26 | [INFO] Transaction Sell Succeeded:Dustin product:M4_Suppressor quantity:0 health:1 price:270
+11-45-30 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Suppressors - ClassName: M4_Suppressor - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 360 - CollateralMoney: 0 - TradeMode:Sell
+11-45-30 | [INFO] Transaction Sell Succeeded:Dustin product:M4_Suppressor quantity:0 health:0 price:360
+11-45-33 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Buttstocks - ClassName: M4_MPBttstck_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 132 - CollateralMoney: 0 - TradeMode:Sell
+11-45-33 | [INFO] Transaction Sell Succeeded:Dustin product:M4_MPBttstck_Black quantity:0 health:0 price:132
+11-45-35 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Optics - ClassName: M68Optic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+11-45-35 | [INFO] Transaction Sell Succeeded:Dustin product:M68Optic quantity:0 health:0 price:240
+11-45-38 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Just Mags - ClassName: Mag_STANAG_60Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+11-45-38 | [INFO] Transaction Sell Succeeded:Dustin product:Mag_STANAG_60Rnd quantity:0 health:0 price:120
+11-45-41 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Handguards & Rails - ClassName: M4_RISHndgrd_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 84 - CollateralMoney: 0 - TradeMode:Sell
+11-45-41 | [INFO] Transaction Sell Succeeded:Dustin product:M4_RISHndgrd_Black quantity:0 health:0 price:84
+11-45-43 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Just Mags - ClassName: Mag_STANAG_60Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+11-45-43 | [INFO] Transaction Sell Succeeded:Dustin product:Mag_STANAG_60Rnd quantity:0 health:0 price:120
+11-45-47 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Optics - ClassName: ACOGOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 285 - CollateralMoney: 0 - TradeMode:Sell
+11-45-47 | [INFO] Transaction Sell Succeeded:Dustin product:ACOGOptic quantity:0 health:0 price:285
+11-45-53 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Melee & Blades - ClassName: HuntingKnife - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 156 - CollateralMoney: 0 - TradeMode:Sell
+11-45-53 | [INFO] Transaction Sell Succeeded:Dustin product:HuntingKnife quantity:0 health:0 price:156
+11-46-5 | [INFO] InsuranceRequestHandler
+11-46-5 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-46-15 | [INFO] InsuranceRequestHandler
+11-46-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-46-18 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Assault Rifles - ClassName: VSS - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 450 - CollateralMoney: 0 - TradeMode:Sell
+11-46-18 | [INFO] Transaction Sell Succeeded:Dustin product:VSS quantity:0 health:1 price:450
+11-47-0 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Assault Rifles - ClassName: ASVAL - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 800 - CollateralMoney: 0 - TradeMode:Buy
+11-47-0 | [INFO] Player:Dustin - currency amount:54716
+11-47-0 | [INFO] Transaction Buy Succeeded:Dustin product:ASVAL quantity:0 health:0 price:800
+11-47-25 | [INFO] InsuranceRequestHandler
+11-47-25 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-47-32 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Optics - ClassName: ACOGOptic_6x - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 600 - CollateralMoney: 0 - TradeMode:Buy
+11-47-32 | [INFO] Player:Dustin - currency amount:53916
+11-47-32 | [INFO] Transaction Buy Succeeded:Dustin product:ACOGOptic_6x quantity:0 health:0 price:600
+11-47-43 | [INFO] InsuranceRequestHandler
+11-47-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-47-49 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Just Mags - ClassName: Mag_VAL_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+11-47-49 | [INFO] Player:Dustin - currency amount:53316
+11-47-49 | [INFO] Transaction Buy Succeeded:Dustin product:Mag_VAL_20Rnd quantity:0 health:0 price:200
+11-49-2 | [INFO] InsuranceRequestHandler
+11-49-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-49-7 | [INFO] TraderID: 4 - Customer: Dustin - Category: Holler Just Mags - ClassName: Mag_VAL_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+11-49-7 | [INFO] Player:Dustin - currency amount:53116
+11-49-7 | [INFO] Transaction Buy Succeeded:Dustin product:Mag_VAL_20Rnd quantity:0 health:0 price:200
+11-50-21 | [INFO] InsuranceRequestHandler
+11-50-21 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-50-31 | [INFO] InsuranceRequestHandler
+11-50-31 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-50-36 | [INFO] InsuranceRequestHandler
+11-50-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-55-57 | [INFO] InsuranceRequestHandler
+11-55-57 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_59769977.json
+11-56-0 | [INFO] TraderID: 5 - Customer: Dustin - Category: Holler Bags - ClassName: WaterproofBag_Green - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 240 - CollateralMoney: 0 - TradeMode:Sell
+11-56-0 | [INFO] Transaction Sell Succeeded:Dustin product:WaterproofBag_Green quantity:0 health:0 price:240
+11-56-11 | [INFO] TraderID: 5 - Customer: Dustin - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Sell
+11-56-11 | [INFO] Transaction Sell Succeeded:Dustin product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+11-56-14 | [INFO] TraderID: 5 - Customer: Dustin - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Sell
+11-56-14 | [INFO] Transaction Sell Succeeded:Dustin product:TraderPlus_Money_Dollar100 quantity:1 health:0 price:100
+11-56-29 | [INFO] TraderID: 5 - Customer: Dustin - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Sell
+11-56-29 | [INFO] Transaction Sell Succeeded:Dustin product:TraderPlus_Money_Dollar100 quantity:2500 health:0 price:5000
+11-56-32 | [INFO] TraderID: 5 - Customer: Dustin - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Sell
+11-56-32 | [INFO] Transaction Sell Succeeded:Dustin product:TraderPlus_Money_Dollar100 quantity:2500 health:0 price:5000
+11-56-34 | [INFO] TraderID: 5 - Customer: Dustin - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Sell
+11-56-34 | [INFO] Transaction Sell Succeeded:Dustin product:TraderPlus_Money_Dollar100 quantity:2500 health:0 price:5000
+11-56-36 | [INFO] TraderID: 5 - Customer: Dustin - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Sell
+11-56-36 | [INFO] Transaction Sell Succeeded:Dustin product:TraderPlus_Money_Dollar100 quantity:2500 health:0 price:5000
+11-56-38 | [INFO] TraderID: 5 - Customer: Dustin - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Sell
+11-56-38 | [INFO] Transaction Sell Succeeded:Dustin product:TraderPlus_Money_Dollar100 quantity:2500 health:0 price:5000
+11-56-40 | [INFO] TraderID: 5 - Customer: Dustin - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Sell
+11-56-40 | [INFO] Transaction Sell Succeeded:Dustin product:TraderPlus_Money_Dollar100 quantity:2500 health:0 price:5000
+11-56-42 | [INFO] TraderID: 5 - Customer: Dustin - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Sell
+11-56-42 | [INFO] Transaction Sell Succeeded:Dustin product:TraderPlus_Money_Dollar100 quantity:2500 health:0 price:5000
+11-56-44 | [INFO] TraderID: 5 - Customer: Dustin - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Sell
+11-56-44 | [INFO] Transaction Sell Succeeded:Dustin product:TraderPlus_Money_Dollar100 quantity:2500 health:0 price:5000
+11-56-46 | [INFO] TraderID: 5 - Customer: Dustin - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Sell
+11-56-46 | [INFO] Transaction Sell Succeeded:Dustin product:TraderPlus_Money_Dollar100 quantity:2500 health:0 price:5000
+11-56-48 | [INFO] TraderID: 5 - Customer: Dustin - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Sell
+11-56-48 | [INFO] Transaction Sell Succeeded:Dustin product:TraderPlus_Money_Dollar100 quantity:2500 health:0 price:5000
+11-56-50 | [INFO] TraderID: 5 - Customer: Dustin - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Sell
+11-56-50 | [INFO] Transaction Sell Succeeded:Dustin product:TraderPlus_Money_Dollar100 quantity:2500 health:0 price:5000
+11-56-52 | [INFO] TraderID: 5 - Customer: Dustin - Category: Money Exchange - ClassName: TraderPlus_Money_Dollar100 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Sell
+11-56-52 | [INFO] Transaction Sell Succeeded:Dustin product:TraderPlus_Money_Dollar100 quantity:2500 health:0 price:5000
