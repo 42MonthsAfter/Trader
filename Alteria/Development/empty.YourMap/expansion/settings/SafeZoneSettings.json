@@ -1,0 +1,67 @@
+{
+    "m_Version": 11,
+    "Enabled": 1,
+    "FrameRateCheckSafeZoneInMs": 0,
+    "CircleZones": [],
+    "PolygonZones": [
+        {
+        "Positions": [
+            [
+                1920.68,
+                9.2025,
+                8972.73
+            ],
+            [
+                1935.85,
+                9.2025,
+                8979.78
+            ],
+            [
+                1957.95,
+                9.3884,
+                8957.55
+            ],
+            [
+                1938.39,
+                9.33029,
+                8937.25
+            ],
+            [
+                1914.38,
+                9.2025,
+                8962.14
+            ]
+        ]
+    }
+    ],
+    "CylinderZones": [],
+    "ActorsPerTick": 5,
+    "DisablePlayerCollision": 0,
+    "DisableVehicleDamageInSafeZone": 1,
+    "EnableForceSZCleanup": 0,
+    "ItemLifetimeInSafeZone": 3600.0,
+    "EnableForceSZCleanupVehicles": 0,
+    "VehicleLifetimeInSafeZone": 3888000.0,
+    "ForceSZCleanup_ExcludedItems": [
+        "ExpansionCircuitBoard_MK1",
+        "ExpansionCircuitBoard_MK2",
+        "ExpansionCircuitBoard_MK3",
+        "ExpansionParkingMeter",
+        "Battery9V",
+        "CarBattery",
+        "TruckBattery",
+        "ExpansionHelicopterBattery",
+        "ExpansionAircraftBattery",
+        "Msp_Static_Barrel_Donation",
+        "Msp_Static_Barrel_Donation_Ammo",
+        "Msp_Static_Barrel_Donation_Guns",
+        "Msp_Static_Barrel_Donation_Food",
+        "Msp_Static_Barrel_Donation_Medical",
+        "Msp_Static_Barrel_Donation_BloodONegative",
+        "FBF_Fireplace",
+        "FBF_FireplaceIgnited",
+        "FBF_FireplaceIndoor",
+        "FBF_Pot",
+        "FBF_AreaLight_Warm"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Food, Pelts, & Drink",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 42069,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Empty Can",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Food",
+        "FruitAndVegetables",
+        "Liquids",
+        "Meat",
+        "Pelts",
+        "Parts"
+    ],
+    "Items": {}
+}

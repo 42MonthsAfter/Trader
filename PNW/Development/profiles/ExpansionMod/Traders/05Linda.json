@@ -1,0 +1,25 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Weapons & Ammo",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 42069,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Ammo",
+        "Rifle_Mags",
+        "Shotgun_Mags",
+        "Submachine_Gun_Mags",
+        "Pistol_Mags",
+        "Assault_Rifle_Mags",
+        "Melee_Weapons",
+        "Knifes"
+    ],
+    "Items": {}
+}

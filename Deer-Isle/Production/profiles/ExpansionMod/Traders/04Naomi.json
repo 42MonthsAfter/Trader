@@ -1,0 +1,22 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Electronics & Other Rareties",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 42069,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Batteries",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Pokemon",
+        "Rareties",
+        "Lights",
+        "PCParts",
+        "Electronics"
+    ],
+    "Items": {}
+}

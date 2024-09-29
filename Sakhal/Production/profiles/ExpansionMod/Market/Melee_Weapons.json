@@ -1,0 +1,330 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Melee Weapons",
+    "Icon": "Golf Club",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 10.0,
+    "Items": [
+        {
+            "ClassName": "brassknuckles_dull",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "brassknuckles_shiny",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "stunbaton",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "broom",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "broom_birch",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "pipe",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "cattleprod",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "baseballbat",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 35,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "nailedbaseballbat",
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 45,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "barbedbaseballbat",
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 45,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "mace",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_NailedBat",
+            "MaxPriceThreshold": 1150,
+            "MinPriceThreshold": 1150,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_SawBat",
+            "MaxPriceThreshold": 1150,
+            "MinPriceThreshold": 1150,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Mjolnir",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Rose",
+            "MaxPriceThreshold": 1150,
+            "MinPriceThreshold": 1150,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Kukri",
+            "MaxPriceThreshold": 1150,
+            "MinPriceThreshold": 1150,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Kukri_Gradient",
+            "MaxPriceThreshold": 1150,
+            "MinPriceThreshold": 1150,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TWP_Kukri_Sakura",
+                "TWP_Kukri_Engraved"
+            ]
+        },
+        {
+            "ClassName": "TWP_SmithWesson_Knife_Green",
+            "MaxPriceThreshold": 1150,
+            "MinPriceThreshold": 1150,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TWP_SmithWesson_Knife_Black"
+            ]
+        },
+        {
+            "ClassName": "TWP_Holymackerel",
+            "MaxPriceThreshold": 1150,
+            "MinPriceThreshold": 1150,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_NinjaSword",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Axe",
+            "MaxPriceThreshold": 1150,
+            "MinPriceThreshold": 1150,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_SledgeHammer",
+            "MaxPriceThreshold": 1150,
+            "MinPriceThreshold": 1150,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_FirefighterAxe",
+            "MaxPriceThreshold": 1150,
+            "MinPriceThreshold": 1150,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_FlySwatter_Green",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1800,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TWP_FlySwatter_Grey",
+                "TWP_FlySwatter_Red",
+                "TWP_Machete_Black"
+            ]
+        },
+        {
+            "ClassName": "TWP_Machete_Camouflage",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1800,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TWP_Machete_USA",
+                "TWP_Machete_Brazil"
+            ]
+        },
+        {
+            "ClassName": "TWP_HorseStick",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 50000,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_DR_Tomahawk_Standard",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_Strongarm_Knife",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

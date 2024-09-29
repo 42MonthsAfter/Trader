@@ -1,0 +1,131 @@
+
+{
+    "m_Version": 12,
+    "DisplayName": "VEHICLE PARTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 10.0,
+    "Items": [
+        {
+            "ClassName": "HydraulicJack",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionParkingMeterKit",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionCircuitBoard_MK1",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionCircuitBoard_MK2",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionCircuitBoard_MK3",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "carradiator",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "truckbattery",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "carbattery",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansioncarkey",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionkeychain_red",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "expansionkeychain_white",
+                "expansionkeychain_black",
+                "expansionkeychain_blue",
+                "expansionkeychain_green",
+                "expansionkeychain_grey",
+                "expansionkeychain_orange",
+                "expansionkeychain_pink",
+                "expansionkeychain_purp",
+                "expansionkeychain_yellow"
+            ]
+        }
+    ]
+}

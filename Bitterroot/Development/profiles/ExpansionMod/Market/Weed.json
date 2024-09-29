@@ -1,0 +1,98 @@
+{
+    "m_Version": 12,
+    "DisplayName": "That Good-Good",
+    "Icon": "Herbal Medicine",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 10.0,
+    "Items": [
+        {
+            "ClassName": "CP_CannabisBrickSkunk",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBrickBlue",
+            "MaxPriceThreshold": 2700,
+            "MinPriceThreshold": 2700,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBrickKush",
+            "MaxPriceThreshold": 2800,
+            "MinPriceThreshold": 2800,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBrickStardawg",
+            "MaxPriceThreshold": 2600,
+            "MinPriceThreshold": 2600,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBrickFuture",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 25000,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBrickS1",
+            "MaxPriceThreshold": 2100,
+            "MinPriceThreshold": 2100,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBrickNomad",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 2400,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBrickBlackFrost",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2200,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

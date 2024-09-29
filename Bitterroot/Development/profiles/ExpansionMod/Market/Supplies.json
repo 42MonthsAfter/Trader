@@ -1,0 +1,102 @@
+{
+    "m_Version": 12,
+    "DisplayName": "SUPPLIES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 10.0,
+    "Items": [
+        {
+            "ClassName": "paper",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "pen_black",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "pen_blue",
+                "pen_green",
+                "pen_red"
+            ]
+        },
+        {
+            "ClassName": "rope",
+            "MaxPriceThreshold": 8,
+            "MinPriceThreshold": 4,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tannedleather",
+            "MaxPriceThreshold": 8,
+            "MinPriceThreshold": 4,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "handcuffkeys",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 35,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "handcuffs",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "fabric",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "camonet",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Batteries",
+    "Icon": "Battery Med",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 10.0,
+    "Items": [
+        {
+            "ClassName": "TruckBattery",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Battery9V",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CarBattery",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+            ],
+            "Variants": []
+        }
+    ]
+}
