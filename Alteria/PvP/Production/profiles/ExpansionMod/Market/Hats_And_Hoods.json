@@ -1,0 +1,91 @@
+{
+    "m_Version": 12,
+    "DisplayName": "HATS & HOODS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 10.0,
+    "Items": [
+        {
+            "ClassName": "FOG_Ronin_Hat",
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                    "FOG_Ronin_Hat_Black"
+                ]
+        },
+        {
+            "ClassName": "FOG_SoftCap_MC",
+            "MaxPriceThreshold": 450,
+            "MinPriceThreshold": 450,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                ]
+        },
+        {
+            "ClassName": "FOG_Boonie_MC",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                    "FOG_Boonie_MCB",
+                    "FOG_Boonie_AOR1",
+                    "FOG_Boonie_AOR2",
+                    "FOG_Boonie_M81",
+                    "FOG_Boonie_Black",
+                    "FOG_Boonie_Grey",
+                    "FOG_Boonie_Khk",
+                    "FOG_Boonie_RG",
+                    "FOG_Boonie_CB"
+                ]
+        },
+        {
+            "ClassName": "FOG_SniperHood_Black",
+            "MaxPriceThreshold": 650,
+            "MinPriceThreshold": 650,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                    "FOG_SniperHood_RG",
+                    "FOG_SniperHood_CB",
+                    "FOG_SniperHood_Grey",
+                    "FOG_SniperHood_MC",
+                    "FOG_SniperHood_MC_Black",
+                    "FOG_SniperHood_MCB",
+                    "FOG_SniperHood_MCT",
+                    "FOG_SniperHood_MCAL",
+                    "FOG_SniperHood_M81"
+                ]
+        },
+        {
+            "ClassName": "FOG_Hooded_Cloak_Grey",
+            "MaxPriceThreshold": 650,
+            "MinPriceThreshold": 650,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                    "FOG_Hooded_Cloak_RG",
+                    "FOG_Hooded_Cloak_Black"
+                ]
+        }
+    ]
+}

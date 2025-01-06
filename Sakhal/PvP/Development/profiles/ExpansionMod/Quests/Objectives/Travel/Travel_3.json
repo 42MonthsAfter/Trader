@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 3,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Get to the Hot Springs",
+    "TimeLimit": 7200,
+    "Active": 1,
+    "Position": [
+        11311.3, 
+        231.695,  
+        11135.7
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Hot Springs",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

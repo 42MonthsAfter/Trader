@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 6,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit the Strozh Towers",
+    "TimeLimit": 7200,
+    "Active": 1,
+    "Position": [
+        8745.26, 
+        302.364, 
+        12805.6
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Strozh Towers",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

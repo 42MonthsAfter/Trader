@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 8,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Explore Outpost 31",
+    "TimeLimit": 14400,
+    "Active": 1,
+    "Position": [
+        11031.5, 
+        350.392, 
+        11498
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Outpost 31",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

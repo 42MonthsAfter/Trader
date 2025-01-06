@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 28,
+    "ID": 14,
+    "ObjectiveType": 11,
+    "ObjectiveText": "Beginner: Craft a Improvised Suppressor",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ItemNames": [
+        "ImprovisedSuppressor"
+    ],
+    "ExecutionAmount": 1
+}

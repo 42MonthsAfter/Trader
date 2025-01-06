@@ -1,0 +1,71 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1,
+    "Type": 3,
+    "Title": "Welcome stranger!",
+    "Descriptions": [
+        "Make your way to the QuickStop",
+        "Still working on it?",
+        "Welcome to Sakhal, stranger! Surprised and happy you've made it this far. I'm Pete. I'm sort of the middle man here on the islands, if you're looking for something or have an item to sell, I'm your man. I broker transactions all over the island, for a small fee. This is my sister's shop, well, used to be a tire shop before things went to shit. Now she just collects things to help me out and runs the bulletin board for the community. It's where people will post wanted ads if you're ever looking to make a little money. As you can see, business isn't booming these days. Most people stick to their own out there. Either way, I'm here 24/7, stop by some time. Stay safe out there."
+    ],
+    "ObjectiveText": "Find the QuickStop",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ChernarusMap_Open",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "Compass",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

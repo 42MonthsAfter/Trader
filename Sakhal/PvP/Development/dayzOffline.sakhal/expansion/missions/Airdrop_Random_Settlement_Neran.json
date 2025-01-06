@@ -1,0 +1,25 @@
+{
+    "m_Version": 1,
+    "Enabled": 1,
+    "Weight": 1.0,
+    "MissionMaxTime": 1200,
+    "MissionName": "Random_Settlement_CitySouthEast",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 450.0,
+    "Speed": 25.0,
+    "Container": "Random",
+    "FallSpeed": 4.5,
+    "DropLocation": {
+        "x": 2780,
+        "z": 9140,
+        "Name": "Neran",
+        "Radius": 10.0
+    },
+    "Infected": [],
+    "ItemCount": -1,
+    "InfectedCount": -1,
+    "Loot": []
+}

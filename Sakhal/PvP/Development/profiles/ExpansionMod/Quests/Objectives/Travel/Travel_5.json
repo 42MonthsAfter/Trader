@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 5,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Vysokoye",
+    "TimeLimit": 7200,
+    "Active": 1,
+    "Position": [
+        11073.8, 
+        107.536, 
+        7996.47
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Vysokoye",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

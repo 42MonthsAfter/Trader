@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 28,
+    "ID": 17,
+    "ObjectiveType": 11,
+    "ObjectiveText": "Beginner: Craft an Improvised Filter",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ItemNames": [
+        "GasMask_Filter_Improvised"
+    ],
+    "ExecutionAmount": 1
+}

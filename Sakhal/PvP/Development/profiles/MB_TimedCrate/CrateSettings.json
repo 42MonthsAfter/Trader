@@ -1,0 +1,276 @@
+{
+    "CrateConfigs": [
+        {
+            "StaticSpawns": 0,
+            "ActiveCrateCount": 3,
+            "AutoRefresh": 1,
+            "RefreshInterval": 30,
+            "CrateType": "Locked_Rust_Crate",
+            "UseCrateNotifications": 0,
+            "CrateSpawnNotification": [
+                "A crate has spawned at North West Airfield!",
+                "A crate has spawned at Balota!",
+                "A crate has spawned at Chernogorsk!"
+            ],
+            "CrateStartNotification": "Crate countdown started!",
+            "CrateEndNotification": "Crate unlocked! Come get some loot!",
+            "CountdownTime": 10,
+            "ZombieSpawnInterval": 60,
+            "ZombieSpawnMin": 3,
+            "ZombieSpawnMax": 6,
+            "ZombieSpawningEnabled": 0,
+            "UseBasicMarkers": 0,
+            "UseMarkersDuringCountdownOnly": 0,
+            "ZombieClasses": [
+                "ZmbM_HunterOld_Autumn",
+                "ZmbF_JournalistNormal_Blue",
+                "ZmbM_PolicemanFat"
+            ],
+            "CrateLocations": [
+                {
+                    "Position": "8128.41, 215.613, 11988.1",
+                    "Rotation": "117.049 0 0"
+                },
+                {
+                    "Position": "5451.95 2.80248 10211.7",
+                    "Rotation": "90.3808 0 0"
+                },
+                {
+                    "Position": "6306.22 2.16203 12839.5",
+                    "Rotation": "173.90, 0 0"
+                },
+                {
+                    "Position": "8753.88 30.4725 13620.8",
+                    "Rotation": "88.9088 0 0"
+                },
+                {
+                    "Position": "11039.4 350.39, 11499.5",
+                    "Rotation": "80.1367 0 0"
+                },
+                {
+                    "Position": "8345.7 30.8025 10292.2",
+                    "Rotation": "-154.275 0 0"
+                },
+                {
+                    "Position": "12142.9 179.607 9727.95",
+                    "Rotation": "-37.1049 0 0"
+                },
+                {
+                    "Position": "12758.4 15.8636 7307.24",
+                    "Rotation": "-0.999806 0 0"
+                },
+                {
+                    "Position": "6987.86 2.92952 7496.04",
+                    "Rotation": "169.492 0 0"
+                },
+                {
+                    "Position": "2659.98 8.61932 9214.96",
+                    "Rotation": "62.1701 0 0"
+                },
+                {
+                    "Position": "949.038 2.01565 7695.16",
+                    "Rotation": "64.0846 0 0"
+                },
+                {
+                    "Position": "1975.61 30.3165 7011.77",
+                    "Rotation": "110.842 0 0"
+                },
+                {
+                    "Position": "3386.24 13.1316 6746.75",
+                    "Rotation": "112.788 0 0"
+                },
+                {
+                    "Position": "1712.65 4.72198 6156.63",
+                    "Rotation": "93.2053 0 0"
+                },
+                {
+                    "Position": "2955.56 19.3575 6110.71",
+                    "Rotation": "-158.585 0 0"
+                },
+                {
+                    "Position": "2759.18 5.02156 5700.59",
+                    "Rotation": "104.25 0 0"
+                },
+                {
+                    "Position": "4854.23 4.49686 4886.53",
+                    "Rotation": "164.018 0 0"
+                },
+                {
+                    "Position": "5064.3 4.47682 4738.75",
+                    "Rotation": "179.631 0 0"
+                },
+                {
+                    "Position": "5285.85 3.94052 4552.47",
+                    "Rotation": "160.946 0 0"
+                },
+                {
+                    "Position": "5426.72 3.96701 4739.36",
+                    "Rotation": "-153.268 0 0"
+                },
+                {
+                    "Position": "5360.06 3.84622 4220.35",
+                    "Rotation": "-41.7334 0 0"
+                },
+                {
+                    "Position": "5482.76 2.8625 4027.11",
+                    "Rotation": "-46.6413 0 0"
+                },
+                {
+                    "Position": "4574.76 54.9504 4236.69",
+                    "Rotation": "82.816 0 0"
+                }
+            ]
+        },
+        {
+            "StaticSpawns": 0,
+            "ActiveCrateCount": 1,
+            "AutoRefresh": 1,
+            "RefreshInterval": 30,
+            "CrateType": "Locked_Armoury_Container",
+            "UseCrateNotifications": 0,
+            "CrateSpawnNotification": [
+                "An armoury crate has spawned at the Military Base!",
+                "An armoury crate has spawned at the Airfield!",
+                "An armoury crate has spawned at the Factory!"
+            ],
+            "CrateStartNotification": "Armoury crate countdown started!",
+            "CrateEndNotification": "Armoury crate unlocked! Come get some weapons!",
+            "CountdownTime": 15,
+            "ZombieSpawnInterval": 60,
+            "ZombieSpawnMin": 5,
+            "ZombieSpawnMax": 10,
+            "ZombieSpawningEnabled": 0,
+            "UseBasicMarkers": 0,
+            "UseMarkersDuringCountdownOnly": 0,
+            "ZombieClasses": [
+                "ZmbM_SoldierNormal",
+                "ZmbF_NurseFat",
+                "ZmbM_MechanicSkinny"
+            ],
+            "CrateLocations": [
+                {
+                    "Position": "5421.67 23.1013 3709.89",
+                    "Rotation": "-105.118 0 0"
+                },
+                {
+                    "Position": "6553.58 19.7506 4300.24",
+                    "Rotation": "-149.245 0 0"
+                },
+                {
+                    "Position": "5511.42 1.8059 4374.02",
+                    "Rotation": "-27.7218 0 0"
+                },
+                {
+                    "Position": "5418.11 2.84707 4695.36",
+                    "Rotation": "-72.6221 0 0"
+                },
+                {
+                    "Position": "4710.8 31.9445 4223.09",
+                    "Rotation": "-179.669 0 0"
+                },
+                {
+                    "Position": "3993.76 73.5292 6110.27",
+                    "Rotation": "-46.4647 0 0"
+                },
+                {
+                    "Position": "2605.91 15.9824 6001.48",
+                    "Rotation": "-153.301 0 0"
+                },
+                {
+                    "Position": "3327.86 2.1825 6973.61",
+                    "Rotation": "75.095 0 0"
+                },
+                {
+                    "Position": "3099.84 2.18249 7163.34",
+                    "Rotation": "54.066 0 0"
+                },
+                {
+                    "Position": "2607.92 6.35191 7375.58",
+                    "Rotation": "145.307 0 0"
+                },
+                {
+                    "Position": "1391.68 70.999 7888.8",
+                    "Rotation": "-177.131 0 0"
+                },
+                {
+                    "Position": "2567.05 38.6286 9058.17",
+                    "Rotation": "168.007 0 0"
+                }
+            ]
+        },
+        {
+            "StaticSpawns": 0,
+            "ActiveCrateCount": 1,
+            "AutoRefresh": 1,
+            "RefreshInterval": 30,
+            "CrateType": "Locked_Car_Container",
+            "UseCrateNotifications": 0,
+            "CrateSpawnNotification": [
+                "A car crate has spawned at the Main Road!",
+                "A car crate has spawned at the Industrial Complex!",
+                "A car crate has spawned at the Gas Station!"
+            ],
+            "CrateStartNotification": "Car crate countdown started!",
+            "CrateEndNotification": "Car crate unlocked! Come get a vehicle!",
+            "CountdownTime": 15,
+            "ZombieSpawnInterval": 60,
+            "ZombieSpawnMin": 0,
+            "ZombieSpawnMax": 0,
+            "ZombieSpawningEnabled": 0,
+            "UseBasicMarkers": 0,
+            "UseMarkersDuringCountdownOnly": 0,
+            "ZombieClasses": [],
+            "CrateLocations": [
+                {
+                    "Position": "5403.56 23.5648 3575.24",
+                    "Rotation": "-92.7363 0 0"
+                },
+                {
+                    "Position": "6180.73 2.45946 4455.88",
+                    "Rotation": "-47.0872 0 0"
+                },
+                {
+                    "Position": "5347.13 2.03361 4117.66",
+                    "Rotation": "152.926 0 0"
+                },
+                {
+                    "Position": "5270.75 2.7625 4805.26",
+                    "Rotation": "-156.297 0 0"
+                },
+                {
+                    "Position": "4671.97 2.5725 5016.53",
+                    "Rotation": "82.5307 0 0"
+                },
+                {
+                    "Position": "3025.33 32.3782 5846.16",
+                    "Rotation": "133.128 0 0"
+                },
+                {
+                    "Position": "2308.77 5.7825 5916.97",
+                    "Rotation": "-135.578 0 0"
+                },
+                {
+                    "Position": "2642.66 24.7599 6578.68",
+                    "Rotation": "-32.9554 0 0"
+                },
+                {
+                    "Position": "3380.67 7.38248 6711.37",
+                    "Rotation": "33.3541 0 0"
+                },
+                {
+                    "Position": "1818.65 1.81254 6572.48",
+                    "Rotation": "-117.95 0 0"
+                },
+                {
+                    "Position": "998.036 0.8325 7752.44",
+                    "Rotation": "-135.07 0 0"
+                },
+                {
+                    "Position": "1986.3 33.1921 6946.96",
+                    "Rotation": "-25.3418 0 0"
+                }
+            ]
+        }
+    ],
+    "ServerStartGracePeriod": 1
+}

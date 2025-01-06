@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 28,
+    "ID": 16,
+    "ObjectiveType": 11,
+    "ObjectiveText": "Beginner: Craft a Rope Belt",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ItemNames": [
+        "RopeBelt"
+    ],
+    "ExecutionAmount": 1
+}

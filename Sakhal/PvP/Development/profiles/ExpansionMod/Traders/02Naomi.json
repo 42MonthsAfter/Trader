@@ -1,0 +1,22 @@
+{
+    "m_Version": 12,
+    "DisplayName": "QuickStop",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 42069,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Trader",
+    "Currencies": [
+        "ExpansionBanknoteUSD"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Rareties",
+        "FishMeatPelts",
+        "Electronics",
+        "Vehicle_Parts:3",
+        "Vehicle_Accessories"
+    ],
+    "Items": {}
+}

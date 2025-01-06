@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 28,
+    "ID": 15,
+    "ObjectiveType": 11,
+    "ObjectiveText": "Beginner: Craft a Improvised Explosive",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ItemNames": [
+        "ImprovisedExplosive"
+    ],
+    "ExecutionAmount": 1
+}

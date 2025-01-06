@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 7,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Explore Sakhalag",
+    "TimeLimit": 7200,
+    "Active": 1,
+    "Position": [
+        12123.1, 
+        179.493, 
+        9737.49
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Sakhalag",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

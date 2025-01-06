@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 4,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Get to Wolf Peak",
+    "TimeLimit": 7200,
+    "Active": 1,
+    "Position": [
+        8191.77, 
+        306.572, 
+        11682.4
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Wolf Peak",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

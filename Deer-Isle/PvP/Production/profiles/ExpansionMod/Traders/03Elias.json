@@ -1,0 +1,29 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Weapons",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "ExpansionBanknoteUSD"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Assault_Rifles",
+        "Submachine_Guns",
+        "Rifles",
+        "Pistols",
+        "Shotguns",
+        "AssualtRifle-Mags",
+        "SubMachineGun-Mags",
+        "Rifle-Mags",
+        "Pistol-Mags",
+        "Shotgun-Mags",
+        "Ammo_Boxes",
+        "Weapon-Accessories"
+    ],
+    "Items": {}
+}

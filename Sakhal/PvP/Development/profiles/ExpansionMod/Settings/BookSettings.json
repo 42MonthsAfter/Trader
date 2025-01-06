@@ -1,0 +1,562 @@
+{
+    "m_Version": 5,
+    "EnableStatusTab": 0,
+    "EnablePartyTab": 1,
+    "EnableServerInfoTab": 0,
+    "EnableServerRulesTab": 1,
+    "EnableTerritoryTab": 1,
+    "EnableBookMenu": 1,
+    "CreateBookmarks": 0,
+    "ShowHaBStats": 0,
+    "ShowPlayerFaction": 0,
+    "RuleCategories": [
+        {
+            "CategoryName": "Start Here!",
+            "Rules": [
+                {
+                    "RuleParagraph": "Welcome to 42 Months After!",
+                    "RuleText": "This project is a 100% self funded hobby and will remain to be that. I'll never charge for anything and I'll keep running and improving them as long as I'm able to. Bring good energy here!"
+                },
+                {
+                    "RuleParagraph": "Two Ways to Play",
+                    "RuleText": "You can stick to vanilla game play or choose to do the option quests to earn money to buy mod guns from the Black Market. There is no right or wrong way, neither style will give you an advantage over the other."
+                },
+                {
+                    "RuleParagraph": "Vanilla+",
+                    "RuleText": "We want to respect the core game and map maker's vision so we only look to add mods that improve upon what is laid out by the creators. Some examples of improvements or +'s are AI patrols, custom zombies and predator animals, and a single weapon and clothing / gear mod.  Check out the Discord for more info."
+                },
+                {
+                    "RuleParagraph": "Know the Rules",
+                    "RuleText": "We don't like to have a lot of rules, but what we do have are stead fast and enforced. Read the rules here or in the in-game book. 'I didn't know' isn't an acceptable excuse, bans may be handed out despite you not knowing."
+                },
+                {
+                    "RuleParagraph": "Community Driven",
+                    "RuleText": "We want to hear from you so give us feedback and report bugs in the Discord and someone will get back to you asap."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Groups",
+            "Rules": [
+                {
+                    "RuleParagraph": "Group Size",
+                    "RuleText": "Each group can be up to 10 players large."
+                },
+                {
+                    "RuleParagraph": "Alliances",
+                    "RuleText": "Groups are allowed  to have truces / alliances but are NOT aloud to group up to form one larger mega group for things like raids and events."
+                },
+                {
+                    "RuleParagraph": "Adding / Removing Players",
+                    "RuleText": "If you have more than 10 players you are NOT allowed to add and remove players so there is always an active 10 players. You can create two groups and have an alliance but again, you can not team up to form a group larger than 10 for a raid or event."
+                },
+                {
+                    "RuleParagraph": "Arm Bands",
+                    "RuleText": "Groups don't have to wear armbands, but it would be a lot cooler if you did."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Base Building",
+            "Rules": [
+                {
+                    "RuleParagraph": "Two Ways to Build",
+                    "RuleText": "There are two ways of securing a location as a base; vanilla DayZ base building, and Building Fortifications allows you to block off doors, windows, etc for more desecrate / internal builds"
+                },
+                {
+                    "RuleParagraph": "Flags",
+                    "RuleText": "Each group is allowed two flags, that means you can have two protected bases on each server. Think of this is a main and a FOB. You must have a flag to create a territory and that flag must be visible from outside the base."
+                },
+                {
+                    "RuleParagraph": "Building Limits",
+                    "RuleText": "You are allowed 8 vanilla building kits per territory + unlimited building fortification uses. You can NOT transfer kits between your two bases or use twice the materials and only have one base."
+                },
+                {
+                    "RuleParagraph": "Territory Limits",
+                    "RuleText": "You can have 1 group (10 players) per territory."
+                },
+                {
+                    "RuleParagraph": "No Build Zones",
+                    "RuleText": "There are areas marked on the maps as no build. Additionally, you can not block off access to military, medical or other high tier loot, or event spawn areas."
+                },
+                {
+                    "RuleParagraph": "Code Locks",
+                    "RuleText": "Codelock your base! Bases with a flag but without codelocks on doors or gates is not considered raiding. MMG storage does NOT accept locks."
+                },
+                {
+                    "RuleParagraph": "Play How You Like",
+                    "RuleText": "Money will buy you only mod weapons and cars from the black market trader at the Holler, but is totally optional. All guns for sale can be found in the world, but it will be very very hard to do so as they are rare and in only the highest of tier zones. Grind if you want to grind, earn if you want to spend."
+                },
+                {
+                    "RuleParagraph": "Virtual Storage",
+                    "RuleText": "Please use virtual storage for your loot, this greatly helps with server performance"
+                }
+            ]
+        },
+        {
+            "CategoryName": "Base Raiding",
+            "Rules": [
+                {
+                    "RuleParagraph": "Raiding Times",
+                    "RuleText": "Base raiding is only allowed on weekends between 6 pm EST and 12:00 am EST that Monday morning."
+                },
+                {
+                    "RuleParagraph": "Raiding Definition",
+                    "RuleText": "Finding a way to sneak into a base is considered raiding and the time window above applies."
+                },
+                {
+                    "RuleParagraph": "No Flag = Raidable Any Time",
+                    "RuleText": "Buildings, stashes, or tents that are not under a flag are not considered bases and can be looted at any time, even if it requires force to enter,  aka ONLY bases with flags are limited to weekend raid times."
+                },
+                {
+                    "RuleParagraph": "Raiding Tools",
+                    "RuleText": "Raiding tools or explosive charges are the only way you are able to raid and can only be found at the highest tier military areas."
+                },
+                {
+                    "RuleParagraph": "Griefing",
+                    "RuleText": "Destroying what you can't carry is considered griefing and may result in a ban, see ⁠PvP & Griefing  for more details."
+                }
+            ]
+        },
+        {
+            "CategoryName": "PvP & Griefing",
+            "Rules": [
+                {
+                    "RuleParagraph": "The full map is PvP",
+                    "RuleText": "With the lone exception of the 10m safe zone around the QuickStop. This means you can and will be killed on sight."
+                },
+                {
+                    "RuleParagraph": "Griefing is a ban-able act",
+                    "RuleText": "The following are considered griefing:  Lowering a flag that is not your own, shooting up cars outside of a PvP encounter, aka shooting out the tires of a vehicle you find in the woods, destroying loot that isn't yours by fire, shooting, or leaving on the ground if found in a container or tent. *If you are raiding, you can steal as much as you can carry, but you can't make fires just to destroy loot, camping the QuickStop... This list isn't comprehensive, it is meant to give you an idea of the type of behavior that can lead to a ban."
+                },
+                {
+                    "RuleParagraph": "Fun at Other's Expense",
+                    "RuleText": "This means being fully kitted running around killing freshies or camping a QuickStop. Don't be a dick and you should be good."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Vehicles",
+            "Rules": [
+                {
+                    "RuleParagraph": "ALL VEHICLES ARE USE AT YOUR OWN RISK!",
+                    "RuleText": "Admins are not responsible for replacing vehicles due to any reason from server crash, glitching, lag, disconnect, etc, etc."
+                },
+                {
+                    "RuleParagraph": "Do NOT Submit Tickets",
+                    "RuleText": "Tickets about lost vehicles or gear due to lost vehicles will be closed without reply."
+                },
+                {
+                    "RuleParagraph": "Lock Your Car",
+                    "RuleText": "If you're going to have a vehicle, keep it secured by either building a garage or / and use a car key that you can purchase from the QuickStop."
+                },
+                {
+                    "RuleParagraph": "Lock Picking",
+                    "RuleText": "Car locks can be picked with a lockpick, there is a 1 in 5 chance that lockpick will unlock a vehicle."
+                },
+                {
+                    "RuleParagraph": "Cover Your Car",
+                    "RuleText": "If you have a car cover in your car it will automatically cover itself to help with server performance."
+                },
+                {
+                    "RuleParagraph": "Helicopters & Boats",
+                    "RuleText": "Helicopters have the exact same rules applied to them and will only be available as prizes at server wide hosted events. Boats = all of the above."
+                }
+            ]
+        },
+        {
+            "CategoryName": "QuickStop & P2P Trader",
+            "Rules": [
+                {
+                    "RuleParagraph": "No Wrong Way to Play",
+                    "RuleText": "The core of 42 Months After is based very close to vanilla DayZ, with just a few mods and tweaks to give it its flavor. You can run just like a vanilla server, you can do Quests and earn money to spend on mod gear and weapsons, or you can trade with other players via the P2P trader. Totally up to you how you want to play. The loot tables are 99.8% vanilla."
+                },
+                {
+                    "RuleParagraph": "Quests",
+                    "RuleText": "There is a community bulletin board in the QuickStop that will have updated and new quests every two weeks. Complete the quests for cash and payment from other survivors on the island. See the Discord for more information on Quests."
+                },
+                {
+                    "RuleParagraph": "P2P Trader",
+                    "RuleText": "Stinky Pete is in the QuickStop and brokers deals between other players. The inventory is controlled by the player base with occasional drops happening that will be announced in this Discord. Stinky Pete charges a small fee for his services even if your item doesn't sell."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Black Market",
+            "Rules": [
+                {
+                    "RuleParagraph": "All the Guns & Fancy Gear",
+                    "RuleText": "The only reason to make money on the server is the Black Market where players can buy and sell Forward Operator Gear and Teddy Weapons, 100% of which are not available to be found in game*, making them purchase only. *Timed crates & air drops may contain mod guns and gear, they are not able to be found in-world is the point."
+                },
+                {
+                    "RuleParagraph": "NOT a Safe Zone",
+                    "RuleText": "The Black Market is NOT a safe zone. You are 100% taking a risk using this service."
+                },
+                {
+                    "RuleParagraph": "AI Patrols",
+                    "RuleText": "There are AI patrols in the woods around the Black Market."
+                },
+                {
+                    "RuleParagraph": "Buyer's Market",
+                    "RuleText": "The sell prices are horrible, like 25% if you're lucky. This is the apocalypse and these are shady people, what did you expect? Hugs?"
+                },
+                {
+                    "RuleParagraph": "No ATM",
+                    "RuleText": "There is no ATM at the Black Market, you have to carry your money from the QuickStop."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Wildlife",
+            "Rules": [
+                {
+                    "RuleParagraph": "The Wildlife will Jack You Up",
+                    "RuleText": "We have completely removed vanilla wolves and bears and replaced them with 100% custom radioactive variants and a couple super rare golden bears and white stags."
+                },
+                {
+                    "RuleParagraph": "Up to 2x as Strong as Vanilla",
+                    "RuleText": "There are three variants of wolves; radioactive (100% vanilla strength) , tough radioactive (150%), and elder radioactive (200%). For bears the same applies but with the addition of golden elder bears that are 250% vanilla strength."
+                },
+                {
+                    "RuleParagraph": "Risk for Reward",
+                    "RuleText": "All pelts can be sold to the QuickStop for some serious cash. If you end up walking away from an encounter with any of the above, get those pelts down and cash in.!"
+                }
+            ]
+        },
+        {
+            "CategoryName": "AI Patrols",
+            "Rules": [
+                {
+                    "RuleParagraph": "How AI Works",
+                    "RuleText": "There are 3 tiers of AI patrols that roam each map. Each tier has a different probability of spawning in from 50% for tier 1 to 100% for tier 3. Please see the Discord for each map's patrol areas."
+                },
+                {
+                    "RuleParagraph": "AI Gear and Weapons",
+                    "RuleText": "Each tier is armed and geared accordingly from tier 1 being basic bandit patrols to tier 3 being heavily armed and kitted out."
+                },
+                {
+                    "RuleParagraph": "Patrol Details",
+                    "RuleText": "They spawn in groups of 2-3. They will shoot on sight, no questions asked. They will travel long distances to explore gun shots. They can be looted."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Loot Tiers",
+            "Rules": [
+                {
+                    "RuleParagraph": "Vanilla+",
+                    "RuleText": "Keeping a vanilla experience in mind, we don't mess with the default map loot tables to respect the creator's intended gameplay. Only minor additions have been made to the vanilla loot tables for each map."
+                },
+                {
+                    "RuleParagraph": "Forward Operating Gear",
+                    "RuleText": "Civilian & military clothing can be purchased at the Black Market or, at times, in randomized air drop and timed loot crates."
+                },
+                {
+                    "RuleParagraph": "Teddy's Weapons",
+                    "RuleText": "Teddy's complete weapon list and accessories are available for sale at the Black Market. Cosmetics can be found all over the map but are limited to 1 at a time. They can be sold for top dollar to the QuickStop."
+                },
+                {
+                    "RuleParagraph": "Collectible Items",
+                    "RuleText": "Pokemon cards, old electronics, gun charms... they can be found all over the map and sold to the QuickStop for a quick buck."
+                }
+            ]
+        }
+    ],
+    "DisplayServerSettingsInServerInfoTab": 1,
+    "SettingCategories": [
+        {
+            "CategoryName": "Base-Building Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftVanillaBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftExpansionBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Raid Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.CanRaidSafes",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeExplosionDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeProjectileDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionTime",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ProjectileDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Territory Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.TerritorySize",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Map Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedGPSItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedMapItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Party Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Party.MaxMembersInParty",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Party.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        }
+    ],
+    "Links": [
+        {
+            "Name": "Homepage",
+            "URL": "https://www.42MonthsAfter.com/",
+            "IconName": "Homepage",
+            "IconColor": -14473430
+        },
+        {
+            "Name": "Feedback",
+            "URL": "https://discord.gg/r96YEUnZ3P",
+            "IconName": "Forums",
+            "IconColor": -14473430
+        },
+        {
+            "Name": "Discord",
+            "URL": "https://discord.gg/42monthsafter",
+            "IconName": "Discord",
+            "IconColor": -9270822
+        },
+        {
+            "Name": "Steam",
+            "URL": "https://steamcommunity.com/profiles/76561199112746320/myworkshopfiles/?appid=221100",
+            "IconName": "Steam",
+            "IconColor": -14006434
+        },
+        {
+            "Name": "Reddit",
+            "URL": "https://www.reddit.com/user/42_Months_After/",
+            "IconName": "Reddit",
+            "IconColor": -12386303
+        },
+        {
+            "Name": "GitHub",
+            "URL": "https://github.com/42MonthsAfter",
+            "IconName": "GitHub",
+            "IconColor": -16777216
+        },
+        {
+            "Name": "YouTube",
+            "URL": "https://www.youtube.com/@42monthsafter",
+            "IconName": "YouTube",
+            "IconColor": -65536
+        }
+    ],
+    "CraftingCategories": [
+        {
+            "CategoryName": "Accessories",
+            "Results": [
+                "armband_",
+                "armband_white",
+                "eyepatch_improvised"
+            ]
+        },
+        {
+            "CategoryName": "Backpacks",
+            "Results": [
+                "courierbag",
+                "furcourierbag",
+                "furimprovisedbag",
+                "improvisedbag",
+                "leathersack_brown"
+            ]
+        },
+        {
+            "CategoryName": "Base-Building",
+            "Results": [
+                "expansionbarbedwirekit",
+                "fencekit",
+                "expansionfloorkit",
+                "expansionhelipadkit",
+                "expansionhescokit",
+                "expansionrampkit",
+                "shelterkit",
+                "expansionstairkit",
+                "territoryflagkit",
+                "expansionwallkit",
+                "watchtowerkit"
+            ]
+        },
+        {
+            "CategoryName": "Camouflage",
+            "Results": [
+                "camonet",
+                "ghillieatt_tan",
+                "ghillieatt_mossy",
+                "ghillieatt_woodland",
+                "ghilliebushrag_tan",
+                "ghilliebushrag_mossy",
+                "ghilliebushrag_woodland",
+                "ghilliehood_tan",
+                "ghilliehood_mossy",
+                "ghilliehood_woodland",
+                "ghilliesuit_tan",
+                "ghilliesuit_mossy",
+                "ghilliesuit_woodland",
+                "ghillietop_tan",
+                "ghillietop_mossy",
+                "ghillietop_woodland"
+            ]
+        },
+        {
+            "CategoryName": "Cooking",
+            "Results": [
+                "fireplace",
+                "firewood",
+                "handdrillkit"
+            ]
+        },
+        {
+            "CategoryName": "Fishing",
+            "Results": [
+                "bait",
+                "bonebait",
+                "bonehook",
+                "improvisedfishingrod"
+            ]
+        },
+        {
+            "CategoryName": "Food",
+            "Results": [
+                "carpfilletmeat",
+                "mackerelfilletmeat",
+                "expansionmilkbottle",
+                "potato",
+                "slicedpumpkin"
+            ]
+        },
+        {
+            "CategoryName": "Horticulture",
+            "Results": [
+                "pepperseeds",
+                "pumpkinseeds",
+                "tomatoseeds",
+                "zucchiniseeds"
+            ]
+        },
+        {
+            "CategoryName": "Lights",
+            "Results": [
+                "longtorch",
+                "torch"
+            ]
+        },
+        {
+            "CategoryName": "Medical Supplies",
+            "Results": [
+                "bloodbagiv",
+                "salinebagiv",
+                "splint"
+            ]
+        },
+        {
+            "CategoryName": "Melee Weapons",
+            "Results": [
+                "nailedbaseballbat",
+                "stoneknife"
+            ]
+        },
+        {
+            "CategoryName": "Storage",
+            "Results": [
+                "woodencrate"
+            ]
+        },
+        {
+            "CategoryName": "Supplies",
+            "Results": [
+                "boarpelt",
+                "burlapsack",
+                "burlapstrip",
+                "longwoodenstick",
+                "expansionlumber1",
+                "expansionlumber1_5",
+                "expansionlumber3",
+                "nails",
+                "netting",
+                "rag",
+                "rope",
+                "sharpwoodenstick",
+                "smallstone",
+                "tannedleather",
+                "woodenplank",
+                "woodenstick"
+            ]
+        },
+        {
+            "CategoryName": "Weapon Modifications",
+            "Results": [
+                "sawedoffizh18shotgun"
+            ]
+        },
+        {
+            "CategoryName": "Weapon Attachments",
+            "Results": [
+                "improvisedsuppressor"
+            ]
+        }
+    ],
+    "EnableCraftingRecipesTab": 0
+}

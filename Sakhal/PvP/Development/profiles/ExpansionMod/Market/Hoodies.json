@@ -1,0 +1,65 @@
+{
+    "m_Version": 12,
+    "DisplayName": "HOODIES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 10.0,
+    "Items": [
+        {
+            "ClassName": "FOG_Enhanced_PCU_Black",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 550,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                     "FOG_Enhanced_PCU_Grey",
+                     "FOG_Enhanced_PCU_Tan",
+                     "FOG_Enhanced_PCU_RG",
+                     "FOG_Enhanced_PCU_USMC",
+                     "FOG_Enhanced_PCU_DNC"
+                ]
+        },
+        {
+            "ClassName": "FOG_G2_Hoodie_MC",
+            "MaxPriceThreshold": 650,
+            "MinPriceThreshold": 650,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                    "FOG_G3_Hoodie_MC",
+                    "FOG_G3_Hoodie_MC_Pata",
+                    "FOG_G3_Hoodie_Black",
+                    "FOG_G3_Hoodie_Blue",
+                    "FOG_G3_Hoodie_DPM",
+                    "FOG_G3_Hoodie_AOR1",
+                    "FOG_G3_Hoodie_AOR2",
+                    "FOG_G3_Hoodie_M81"
+                ]
+        },
+        {
+            "ClassName": "FOG_Tactical_Hoodie_MC",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 750,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                    "FOG_Tactical_Hoodie_MCB",
+                    "FOG_Tactical_Hoodie_UWU",
+                    "FOG_Tactical_Hoodie_RG",
+                    "FOG_Tactical_Hoodie_ERDL",
+                    "FOG_Tactical_Hoodie_ERDL_Blk",
+                    "FOG_Tactical_Hoodie_CB"
+                ]
+        }
+    ]
+}

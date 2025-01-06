@@ -1,0 +1,41 @@
+{
+    "m_Version": 12,
+    "DisplayName": "EYEWEAR",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 10.0,
+    "Items": [
+        {
+            "ClassName": "FOG_Glasses_ESS_Black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                    "FOG_Glasses_ESS_FDE"
+                ]
+        },
+        {
+            "ClassName": "FOG_Glasses_PitViper_SunKist",
+            "MaxPriceThreshold": 7500,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                    "FOG_Glasses_PitViper_Gold",
+                    "FOG_Glasses_PitViper_Murica",
+                    "FOG_Glasses_PitViper_Brights",
+                    "FOG_Glasses_PitViper_Tropics",
+                    "FOG_Glasses_PitViper_Yellow",
+                    "FOG_Glasses_PitViper_Red"
+                ]
+        }
+    ]
+}

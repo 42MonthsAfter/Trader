@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 41,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Deliver the nuggets to Steve",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "ExpansionCircuitBoard_MK3",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "MaxDistance": 3.0,
+    "MarkerName": "Talk to Steve"
+}

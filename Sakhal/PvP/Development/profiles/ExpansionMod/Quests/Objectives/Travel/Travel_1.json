@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Find the QuickStop",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        9674.32,
+        49.7274,
+        9997.18
+    ],
+    "MaxDistance": 8.0,
+    "MarkerName": "???",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

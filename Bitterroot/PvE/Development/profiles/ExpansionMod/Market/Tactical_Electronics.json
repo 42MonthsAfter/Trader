@@ -1,0 +1,182 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Tactical Electronics",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 10.0,
+    "Items": [
+        {
+            "ClassName": "FOG_FastMT_RAC_Black",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                     "FOG_FastMT_RAC_RG"
+                ]
+        },
+        {
+            "ClassName": "FOG_AMP_Tan",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                     "FOG_AMP_MC",
+                     "FOG_AMP_Black",
+                     "FOG_AMP_MCB",
+                     "FOG_AMP_MCBT"
+                ]
+        },
+        {
+            "ClassName": "FOG_Comtac3_Headphones_Black",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                ]
+        },
+        {
+            "ClassName": "FOG_Comtac3_Headphones_CB",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                    "FOG_Comtac3_Headphones_FG",
+                    "FOG_Comtac3_Headphones_RG_01",
+                    "FOG_Comtac3_Headphones_RG_XPI",
+                    "FOG_Comtac3_Headphones_RG_Spray",
+                    "FOG_Comtac3_Headphones_CB_Velcro",
+                    "FOG_Comtac3_Headphones_RG_Velcro",
+                    "FOG_Comtac3_Headphones_FG_Velcro",
+                    "FOG_Comtac3_Headphones_Tan_Velcro",
+                    "FOG_Comtac3_Headphones_Black_Velcro",
+                    "FOG_Comtac3_Headphones_AJ",
+                    "FOG_Comtac3_Headphones_RG",
+                    "FOG_Comtac3_Headphones_Black"
+                ]
+        },
+        {
+            "ClassName": "FOG_Comtac_IV_CB",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                    "FOG_Comtac_IV_RG",
+                    "FOG_Comtac_IV_Black"
+                ]
+        },
+        {
+            "ClassName": "FOG_COMTAC3_Headset_CB",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                    "FOG_COMTAC3_Headset_RG"
+                ]
+        },
+        {
+            "ClassName": "FOG_M32_Headset_RG",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2200,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                    "FOG_M32_Headset_Black"
+                ]
+        },
+        {
+            "ClassName": "FOG_Ghost_Headset_Tan",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                ]
+        },
+        {
+            "ClassName": "FOG_HMTL_Light_Tan",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                ]
+        },
+        {
+            "ClassName": "FOG_GPNVG_Tan",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                     "FOG_GPNVG_Black",
+                     "FOG_GPNVG_RG",
+                     "FOG_GPNVG_Tarzier",
+                     "FOG_GPNVG_Tarzier_Black"
+                ]
+        },
+        {
+            "ClassName": "FOG_GPNVG_Elite",
+            "MaxPriceThreshold": 14000,
+            "MinPriceThreshold": 14000,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_PVS31_Wrapped",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 12000,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                     "FOG_PVS31_FDE",
+                     "FOG_PVS31_FDE_Wrapped",
+                     "FOG_PVS31A_Black",
+                     "FOG_PVS31"
+                ]
+        }
+    ]
+}

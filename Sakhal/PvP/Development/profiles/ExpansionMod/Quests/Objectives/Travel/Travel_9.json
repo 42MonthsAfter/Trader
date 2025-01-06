@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 9,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Explore Lesogorovka",
+    "TimeLimit": 14400,
+    "Active": 1,
+    "Position": [
+        11008.8, 
+        104.45, 
+        9699.18
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Lesogorovka",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

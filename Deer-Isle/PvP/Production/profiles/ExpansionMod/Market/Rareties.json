@@ -1,0 +1,383 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Rareties",
+    "Icon": "Exclamationmark",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 10.0,
+    "Items": [
+        {
+            "ClassName": "ExpansionGoldBar",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionSilverBar",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1800,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionGoldNugget",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionSilverNugget",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Cosmetic_Beaver",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TWP_Cosmetic_BodyMale",
+                "TWP_Cosmetic_BodyFemale",
+                "TWP_Cosmetic_Cobra",
+                "TWP_Cosmetic_DeadFace",
+                "TWP_Cosmetic_Dice",
+                "TWP_Cosmetic_Heart",
+                "TWP_Cosmetic_Mushroom",
+                "TWP_Cosmetic_Neversoft"
+            ]
+        },
+        {
+            "ClassName": "TWP_Cosmetic_Orion",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TWP_Cosmetic_PX",
+                "TWP_Cosmetic_Flag",
+                "TWP_Cosmetic_Ronnie",
+                "TWP_Cosmetic_Sandwich",
+                "TWP_Cosmetic_CactusJack",
+                "TWP_Cosmetic_Scorpion",
+                "TWP_Cosmetic_Snowman"
+            ]
+        },
+        {
+            "ClassName": "TWP_Cosmetic_Snowman",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TWP_Cosmetic_TeddyBear",
+                "TWP_Cosmetic_Tiki",
+                "TWP_Cosmetic_Trashcan",
+                "TWP_Cosmetic_Turbo",
+                "TWP_Cosmetic_Zombiehead",
+                "TWP_Cosmetic_Knife",
+                "TWP_Cosmetic_Raven"
+            ]
+        },
+        {
+            "ClassName": "TWP_Cosmetic_HeartPizza",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TWP_Cosmetic_Peacekeeper",
+                "TWP_Cosmetic_HandGun",
+                "TWP_Cosmetic_DogTag",
+                "TWP_Cosmetic_CowBoyBoot",
+                "TWP_Cosmetic_Heart",
+                "TWP_Cosmetic_BurgerTown",
+                "TWP_Cosmetic_BentoBox"
+            ]
+        },
+        {
+            "ClassName": "TWP_Cosmetic_BearTrap",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 2400,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TWP_Cosmetic_TeaBag",
+                "TWP_Cosmetic_GoldenGloves",
+                "TWP_Cosmetic_Fossil",
+                "TWP_Cosmetic_Bacon",
+                "TWP_Cosmetic_Anchor",
+                "TWP_Cosmetic_HandGun"
+            ]
+        },
+        {
+            "ClassName": "Collectable_PokemonCard_Pikachu",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Collectable_PokemonCard_Eevee",
+                "Collectable_PokemonCard_GrassEnergy",
+                "Collectable_PokemonCard_Machamp",
+                "Collectable_PokemonCard_Mew",
+                "Collectable_PokemonCard_Charizard",
+                "Collectable_PokemonCard_Jolteon"
+            ]
+        },
+        {
+            "ClassName": "Collectable_PokemonCard_ShinyMewtwo",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Collectable_PokemonCard_Bulbasaur",
+                "Collectable_PokemonCard_Abra",
+                "Collectable_PokemonCard_Alakazam",
+                "Collectable_PokemonCard_Arcanine",
+                "Collectable_PokemonCard_Beedrill",
+                "Collectable_PokemonCard_Bill"
+            ]
+        },
+        {
+            "ClassName": "Collectable_PokemonCard_Blastoise",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Collectable_PokemonCard_Chansey",
+                "Collectable_PokemonCard_Charmander",
+                "Collectable_PokemonCard_Clefairy",
+                "Collectable_PokemonCard_ComputerSearch",
+                "Collectable_PokemonCard_Defender",
+                "Collectable_PokemonCard_Dewgong"
+            ]
+        },
+        {
+            "ClassName": "Collectable_PokemonCard_Diglett",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Collectable_PokemonCard_Doduo",
+                "Collectable_PokemonCard_Dragonair",
+                "Collectable_PokemonCard_Dratini",
+                "Collectable_PokemonCard_Dugtrio",
+                "Collectable_PokemonCard_Drowzee",
+                "Collectable_PokemonCard_Electrode"
+            ]
+        },
+        {
+            "ClassName": "Collectable_PokemonCard_EnergyRemoval",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Collectable_PokemonCard_EnergyRetrieval",
+                "Collectable_PokemonCard_FightingEnergy",
+                "Collectable_PokemonCard_FullHeal",
+                "Collectable_PokemonCard_Gastly",
+                "Collectable_PokemonCard_Growlithe",
+                "Collectable_PokemonCard_GustOfWind"
+            ]
+        },
+        {
+            "ClassName": "Collectable_PokemonCard_Gyarados",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 2400,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Collectable_PokemonCard_Haunter",
+                "Collectable_PokemonCard_Hitmonchan",
+                "Collectable_PokemonCard_ItemFinder",
+                "Collectable_PokemonCard_Ivysaur",
+                "Collectable_PokemonCard_Jynx",
+                "Collectable_PokemonCard_Kadabra"
+            ]
+        },
+        {
+            "ClassName": "Collectable_PokemonCard_Kakuna",
+            "MaxPriceThreshold": 2800,
+            "MinPriceThreshold": 2800,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Collectable_PokemonCard_Koffing",
+                "Collectable_PokemonCard_Machoke",
+                "Collectable_PokemonCard_Lass",
+                "Collectable_PokemonCard_Machop",
+                "Collectable_PokemonCard_Magmar",
+                "Collectable_PokemonCard_Magnemite"
+            ]
+        },
+        {
+            "ClassName": "Collectable_PokemonCard_Maintenance",
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 3200,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Collectable_PokemonCard_Metapod",
+                "Collectable_PokemonCard_Mewtwo",
+                "Collectable_PokemonCard_Nidoran",
+                "Collectable_PokemonCard_Nidoking",
+                "Collectable_PokemonCard_Nidorino",
+                "Collectable_PokemonCard_Ninetales"
+            ]
+        },
+        {
+            "ClassName": "Collectable_PokemonCard_Onix",
+            "MaxPriceThreshold": 3600,
+            "MinPriceThreshold": 3600,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Collectable_PokemonCard_Pidgeotto",
+                "Collectable_PokemonCard_Pidgey",
+                "Collectable_PokemonCard_PikachuBS",
+                "Collectable_PokemonCard_Pluspower",
+                "Collectable_PokemonCard_Pokedex",
+                "Collectable_PokemonCard_Breeder"
+            ]
+        },
+        {
+            "ClassName": "Collectable_PokemonCard_Flute",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Collectable_PokemonCard_Trader",
+                "Collectable_PokemonCard_Poliwag",
+                "Collectable_PokemonCard_Poliwrath",
+                "Collectable_PokemonCard_Ponyta",
+                "Collectable_PokemonCard_Potion",
+                "Collectable_PokemonCard_PsychicEnergy"
+            ]
+        },
+        {
+            "ClassName": "Collectable_PokemonCard_Raichu",
+            "MaxPriceThreshold": 4400,
+            "MinPriceThreshold": 4400,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Collectable_PokemonCard_Rattata",
+                "Collectable_PokemonCard_Raticate",
+                "Collectable_PokemonCard_Revive",
+                "Collectable_PokemonCard_Sandshrew",
+                "Collectable_PokemonCard_ScoopUp",
+                "Collectable_PokemonCard_Seel"
+            ]
+        },
+        {
+            "ClassName": "Collectable_PokemonCard_Squirtle",
+            "MaxPriceThreshold": 4800,
+            "MinPriceThreshold": 4800,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Collectable_PokemonCard_Starmie",
+                "Collectable_PokemonCard_Staryu",
+                "Collectable_PokemonCard_SuperEnergy",
+                "Collectable_PokemonCard_SuperPotion",
+                "Collectable_PokemonCard_SwitchBase",
+                "Collectable_PokemonCard_Tangela"
+            ]
+        },
+        {
+            "ClassName": "Collectable_PokemonCard_Venusaur",
+            "MaxPriceThreshold": 5200,
+            "MinPriceThreshold": 5200,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Collectable_PokemonCard_Voltorb",
+                "Collectable_PokemonCard_Vulpix",
+                "Collectable_PokemonCard_Wartortle",
+                "Collectable_PokemonCard_WaterEnergy",
+                "Collectable_PokemonCard_Weedle",
+                "Collectable_PokemonCard_Zapdos"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 28,
+    "ID": 12,
+    "ObjectiveType": 11,
+    "ObjectiveText": "Beginner: Make a Blade",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ItemNames": [
+        "BoneKnife"
+    ],
+    "ExecutionAmount": 1
+}

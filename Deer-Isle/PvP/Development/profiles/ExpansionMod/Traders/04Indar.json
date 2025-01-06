@@ -1,0 +1,31 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Clothing and Gear",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Trader",
+    "Currencies": [
+        "ExpansionBanknoteUSD"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Backpacks",
+        "Belts",
+        "Helmets",
+        "Coats_And_Jackets",
+        "Ghillies",
+        "Gloves",
+        "Hats_And_Hoods",
+        "Hoodies",
+        "Pants",
+        "Pouches",
+        "Shirts",
+        "Vests",
+        "Tactical_Electronics",
+        "Eyewear"
+    ],
+    "Items": {}
+}

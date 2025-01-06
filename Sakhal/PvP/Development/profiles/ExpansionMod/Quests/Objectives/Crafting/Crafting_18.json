@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 28,
+    "ID": 18,
+    "ObjectiveType": 11,
+    "ObjectiveText": "Beginner: Craft a Courier Bag",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ItemNames": [
+        "CourierBag"
+    ],
+    "ExecutionAmount": 1
+}   
